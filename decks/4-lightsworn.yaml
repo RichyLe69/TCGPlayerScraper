@@ -1,0 +1,73 @@
+######################################################
+################## Lightsworn Deck ###################
+######################################################
+
+Judgment Dragon Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/judgment-dragon'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+tragoedia ultimate 2 ENG 1 italy:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-four/tragoedia'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+honest ghost:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/honest-ghost-rare'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Lumina, Lightsworn Summoner Super:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-8/lumina-lightsworn-summoner'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+lyla utr Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/lyla-lightsworn-sorceress-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+celestia utr Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/celestia-lightsworn-angel-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+ehren secret Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/ehren-lightsworn-monk'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+necro gardna utr Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/necro-gardna-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+plaguespreader zombie Ultimate unl:
+  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/plaguespreader-zombie-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+charge of the light brigade secret:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/charge-of-the-light-brigade'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+solar recharge Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/solar-recharge-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+monster reincarnation Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/rise-of-destiny/monster-reincarnation-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Allure of darkness Ultimate Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+trishula ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-8/trishula-dragon-of-the-ice-barrier'
+  edition: 'Near Mint'
+  qty: 1

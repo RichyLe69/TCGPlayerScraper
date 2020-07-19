@@ -1,0 +1,83 @@
+######################################################
+################### Dino Rabbits ####################
+######################################################
+
+Rescue Rabbit:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/rescue-rabbit?xid=pi5954df4a-cfe4-4d04-abf6-3ed3e0146e9a'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Tour guide Secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/extreme-victory/tour-guide-from-the-underworld?xid=pi5c794fbb-d368-41cc-84e4-1f73924a1672'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Maxx c Secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/storm-of-ragnarok/maxx-c?xid=pi1e3682ac-10e2-4abd-ad50-809af9325347'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+TKO Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-gx-manga-promotional-cards/thunder-king-rai-oh?xid=pi80580a8f-2a35-4aff-bd84-665df956ce2c'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Gorz:
+  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-2/gorz-the-emissary-of-darkness?xid=pi9a0933ed-9181-41ae-9533-6c698b1552ff'
+  edition:  'Near Mint Limited'
+  qty: 1
+
+Smashing Ground Super:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground?xid=pie098c7cd-8853-4037-8ea6-5d7a28993bb1'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Bottomless Trap Hole:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole?xid=pid7588707-117d-4c31-8e8d-b8f9127560d7'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Fiendish Chain:
+  url: 'https://shop.tcgplayer.com/yugioh/absolute-powerforce/fiendish-chain?xid=pi4f0d2ec0-2ce4-4552-a577-986b6321d357'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Armory Arm:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-8-yusei-fudo/armory-arm?xid=pic3ef6738-dac4-4f4b-9d5c-d31babfcdfe8'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Zenmaines Scr 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/wind-up-zenmaines?xid=pifaa85566-0779-4727-a394-55997bb5613d'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Acid Golem:
+  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/number-30-acid-golem-of-destruction?xid=pi4faf6175-bdbf-45ee-97d1-f55f4c26e56c'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Utopia:
+  url: 'https://shop.tcgplayer.com/yugioh/starter-deck-dawn-of-the-xyz/number-39-utopia?xid=pi7de28b9f-2d30-497d-aa54-b67117fb1f30'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Utopia Ray UTR:
+  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/number-c39-utopia-ray-utr?xid=pia09f60b4-5f54-430d-a56e-9f63b0a3898e'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Zenmaister UTR:
+  url: 'https://shop.tcgplayer.com/yugioh/generation-force/wind%20up%20zenmaister%20utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Dolkka Secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/evolzar-dolkka?xid=pib82e76cc-f64a-48d3-a165-bdb77ef30d25'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Laggia UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/evolzar%20laggia%20utr'
+  edition: 'Near Mint 1st'
+  qty: 2

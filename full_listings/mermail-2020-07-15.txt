@@ -1,0 +1,391 @@
+Sum of Market Prices: $1,318.17
+Sum of Lowest listings: $1,820.00
+
+Atlantean Dragoons UTR [3] - Market Price: $130.13
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $137.84 |  3  |
+|   100% (2,602 Sales)  | Near Mint | $137.84 |  3  |
+|  100% (25,000+ Sales) | Near Mint | $137.89 |  1  |
+| 99.5% (50,000+ Sales) | Near Mint | $139.90 |  9  |
+|  99.5% (8,430 Sales)  | Near Mint | $139.95 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $139.99 |  3  |
+|  99.5% (6,472 Sales)  | Near Mint | $139.99 |  3  |
+|    100% (125 Sales)   | Near Mint | $140.00 |  1  |
+|   100% (1,270 Sales)  | Near Mint | $140.00 |  3  |
+|   99.7% (502 Sales)   | Near Mint | $140.00 |  1  |
+| 98.6% (25,000+ Sales) | Near Mint | $150.00 |  3  |
+|   100% (2,144 Sales)  | Near Mint | $192.99 |  1  |
+|   100% (2,996 Sales)  | Near Mint | $194.99 |  1  |
++-----------------------+-----------+---------+-----+
+Atlantean Heavy Infrantry Super [2] - Market Price: $6.24
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $4.45  |  1  |
+|   99.7% (514 Sales)   | Near Mint | $4.45  |  1  |
+|  100% (50,000+ Sales) | Near Mint | $5.44  |  3  |
+|  99.5% (2,135 Sales)  | Near Mint | $5.44  |  2  |
+|  99.7% (1,636 Sales)  | Near Mint | $5.44  |  2  |
+|   100% (3,316 Sales)  | Near Mint | $5.45  |  2  |
+|    hi 0% (6 Sales)    | Near Mint | $4.46  |  1  |
+|    100% (884 Sales)   | Near Mint | $5.48  |  1  |
+|  99.7% (1,302 Sales)  | Near Mint | $5.48  |  2  |
+| 99.8% (50,000+ Sales) | Near Mint | $5.49  |  1  |
+|   95.5% (183 Sales)   | Near Mint | $4.99  |  1  |
+|    100% (245 Sales)   | Near Mint | $5.49  |  1  |
+| 99.5% (50,000+ Sales) | Near Mint | $6.49  |  6  |
+|  99.5% (3,000 Sales)  | Near Mint | $4.35  |  2  |
+|    GO 0% (16 Sales)   | Near Mint | $6.00  |  1  |
+|  100% (25,000+ Sales) | Near Mint | $7.08  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint | $8.08  |  1  |
+|    100% (124 Sales)   | Near Mint | $7.90  |  1  |
+|    100% (821 Sales)   | Near Mint | $8.90  |  1  |
+|  99.5% (3,431 Sales)  | Near Mint | $5.99  |  3  |
+|  100% (25,000+ Sales) | Near Mint | $8.99  |  3  |
+|    100% (103 Sales)   | Near Mint | $10.00 |  1  |
+|   100% (6,120 Sales)  | Near Mint | $9.00  |  1  |
+|    100% (81 Sales)    | Near Mint | $10.97 |  2  |
+|    100% (44 Sales)    | Near Mint | $8.00  |  1  |
+|   99.7% (502 Sales)   | Near Mint | $9.75  |  5  |
+|    100% (669 Sales)   | Near Mint | $12.97 |  1  |
+|   100% (2,144 Sales)  | Near Mint | $12.99 |  2  |
+|    100% (143 Sales)   | Near Mint | $12.99 |  2  |
+|    100% (57 Sales)    | Near Mint | $11.00 |  3  |
+|   99.6% (861 Sales)   | Near Mint | $8.99  |  8  |
++-----------------------+-----------+--------+-----+
+Atlantean Marksman UTR [3] - Market Price: $54.89
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $110.00 |  3  |
+|                       | Near Mint | $110.00 |  3  |
+| 98.6% (25,000+ Sales) | Near Mint | $127.99 |  3  |
+| 99.9% (50,000+ Sales) | Near Mint | $129.99 |  1  |
+|   100% (2,996 Sales)  | Near Mint | $130.00 |  1  |
++-----------------------+-----------+---------+-----+
+Deep Sea Diva Super [3] - Market Price: $91.3
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $100.96 |  2  |
+| 99.7% (25,000+ Sales) | Near Mint | $100.96 |  2  |
+|    100% (172 Sales)   | Near Mint |  $99.98 |  2  |
+| 99.7% (10,000+ Sales) | Near Mint | $109.99 |  2  |
+| 99.5% (50,000+ Sales) | Near Mint | $119.49 |  2  |
+|   99.6% (861 Sales)   | Near Mint | $119.99 |  2  |
+| 98.6% (25,000+ Sales) | Near Mint | $124.98 |  2  |
++-----------------------+-----------+---------+-----+
+Mermail Abyssgunde [2] - Market Price: $6.41
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $5.79  |  2  |
+|   99.8% (548 Sales)   | Near Mint | $5.79  |  2  |
+|    100% (48 Sales)    | Near Mint | $4.80  |  2  |
+|   100% (3,316 Sales)  | Near Mint | $5.85  |  2  |
+|  100% (50,000+ Sales) | Near Mint | $5.85  |  3  |
+|   100% (2,234 Sales)  | Near Mint | $5.88  |  1  |
+|   99.6% (606 Sales)   | Near Mint | $5.88  |  2  |
+|    100% (884 Sales)   | Near Mint | $5.88  |  1  |
+|   100% (1,398 Sales)  | Near Mint | $5.89  |  1  |
+|    es 0% (5 Sales)    | Near Mint | $5.00  |  1  |
+|   100% (6,128 Sales)  | Near Mint | $6.44  |  2  |
+|  99.5% (2,135 Sales)  | Near Mint | $6.44  |  1  |
+|  99.9% (8,516 Sales)  | Near Mint | $6.45  |  1  |
+|    100% (935 Sales)   | Near Mint | $6.48  |  1  |
+|   100% (6,120 Sales)  | Near Mint | $5.48  |  1  |
+|  99.4% (1,563 Sales)  | Near Mint | $6.49  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint | $6.65  |  1  |
+|    100% (77 Sales)    | Near Mint | $5.98  |  2  |
+| 99.5% (50,000+ Sales) | Near Mint | $6.99  |  2  |
+| 99.9% (25,000+ Sales) | Near Mint | $6.99  |  3  |
+|  99.7% (6,811 Sales)  | Near Mint | $7.14  |  1  |
+|  99.7% (2,459 Sales)  | Near Mint | $7.15  |  1  |
+|  99.8% (6,139 Sales)  | Near Mint | $7.20  |  1  |
+|    100% (112 Sales)   | Near Mint | $6.21  |  1  |
+|  100% (10,000+ Sales) | Near Mint | $7.24  |  1  |
+|  99.8% (4,739 Sales)  | Near Mint | $6.90  |  1  |
+|     100% (1 Sales)    | Near Mint | $7.00  |  3  |
+|    100% (282 Sales)   | Near Mint | $8.00  |  2  |
+| 99.4% (10,000+ Sales) | Near Mint | $7.56  |  1  |
+|    100% (44 Sales)    | Near Mint | $7.99  |  1  |
+|  100% (25,000+ Sales) | Near Mint | $8.99  |  1  |
+|    95.2% (43 Sales)   | Near Mint | $8.49  |  1  |
+|  98.5% (1,847 Sales)  | Near Mint | $9.80  |  1  |
+| 98.6% (25,000+ Sales) | Near Mint | $12.99 |  3  |
+|    100% (722 Sales)   | Near Mint | $14.95 |  1  |
+|    100% (181 Sales)   | Near Mint | $15.00 |  1  |
++-----------------------+-----------+--------+-----+
+Mermail Abyssleed [1] - Market Price: $1.79
++-----------------------+---------------+--------+-----+
+|         Seller        |   Condition   | Price  | Qty |
++-----------------------+---------------+--------+-----+
+|  99.6% (1,094 Sales)  | Near Mint 1st | $2.98  |  1  |
+|    100% (884 Sales)   | Near Mint 1st | $2.98  |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $2.99  |  1  |
+| 99.8% (10,000+ Sales) | Near Mint 1st | $2.99  |  1  |
+|   100% (2,819 Sales)  | Near Mint 1st | $3.00  |  2  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $3.20  |  1  |
+|   100% (3,443 Sales)  | Near Mint 1st | $3.23  |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $3.30  |  1  |
+| 99.5% (50,000+ Sales) | Near Mint 1st | $3.49  |  1  |
+|  100% (25,000+ Sales) | Near Mint 1st | $3.99  |  1  |
+|  100% (25,000+ Sales) | Near Mint 1st | $5.00  |  1  |
+|    100% (421 Sales)   | Near Mint 1st | $9.99  |  1  |
+|   99.6% (861 Sales)   | Near Mint 1st | $14.99 |  3  |
++-----------------------+---------------+--------+-----+
+Mermail Abysslinde [3] - Market Price: $10.18
++-----------------------+---------------+--------+-----+
+|         Seller        |   Condition   | Price  | Qty |
++-----------------------+---------------+--------+-----+
+|    100% (74 Sales)    | Near Mint 1st | $12.79 |  2  |
+|    100% (884 Sales)   | Near Mint 1st | $13.79 |  1  |
+|   g 98% (137 Sales)   | Near Mint 1st | $14.00 |  2  |
+|  99.7% (2,459 Sales)  | Near Mint 1st | $15.25 |  2  |
+|    100% (25 Sales)    | Near Mint 1st | $20.00 |  1  |
+| 98.6% (25,000+ Sales) | Near Mint 1st | $19.99 |  3  |
+|  100% (50,000+ Sales) | Near Mint 1st | $23.96 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $24.99 |  2  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $29.39 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $29.99 |  7  |
+|   99.6% (861 Sales)   | Near Mint 1st | $30.99 |  1  |
++-----------------------+---------------+--------+-----+
+Mermail Abyssmegalo [3] - Market Price: $26.87
++-----------------------+---------------+--------+-----+
+|         Seller        |   Condition   | Price  | Qty |
++-----------------------+---------------+--------+-----+
+|  99.2% (2,257 Sales)  | Near Mint 1st | $32.00 |  2  |
+|  100% (25,000+ Sales) | Near Mint 1st | $32.99 |  1  |
+|    100% (689 Sales)   | Near Mint 1st | $32.01 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $33.22 |  3  |
+|  100% (50,000+ Sales) | Near Mint 1st | $33.99 |  3  |
+| 99.7% (10,000+ Sales) | Near Mint 1st | $34.85 |  4  |
+|   100% (2,819 Sales)  | Near Mint 1st | $34.50 |  1  |
+|   100% (3,668 Sales)  | Near Mint 1st | $40.06 |  4  |
+|  99.5% (3,431 Sales)  | Near Mint 1st | $39.99 |  3  |
+| 99.5% (50,000+ Sales) | Near Mint 1st | $44.90 |  3  |
+| 98.6% (25,000+ Sales) | Near Mint 1st | $44.99 |  1  |
+|    100% (181 Sales)   | Near Mint 1st | $65.00 |  2  |
++-----------------------+---------------+--------+-----+
+Mermail Abysspike [3] - Market Price: $4.5
++-----------------------+-----------+-------+-----+
+|         Seller        | Condition | Price | Qty |
++-----------------------+-----------+-------+-----+
+|                       | Near Mint | $3.20 |  8  |
+| 99.6% (10,000+ Sales) | Near Mint | $3.20 |  8  |
+|    ds 0% (15 Sales)   | Near Mint | $3.00 |  2  |
+|  100% (50,000+ Sales) | Near Mint | $3.21 |  4  |
+|    100% (183 Sales)   | Near Mint | $3.21 |  1  |
+|   99.8% (701 Sales)   | Near Mint | $3.45 |  1  |
+|   100% (3,349 Sales)  | Near Mint | $3.46 |  1  |
+|    100% (786 Sales)   | Near Mint | $3.28 |  1  |
+|  99.9% (2,353 Sales)  | Near Mint | $3.49 |  1  |
+|    100% (38 Sales)    | Near Mint | $3.29 |  1  |
+|   100% (6,128 Sales)  | Near Mint | $3.65 |  4  |
+|  99.9% (4,651 Sales)  | Near Mint | $3.89 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $3.98 |  1  |
+| 99.7% (10,000+ Sales) | Near Mint | $5.00 |  2  |
+|  100% (25,000+ Sales) | Near Mint | $5.00 |  1  |
+| 99.5% (50,000+ Sales) | Near Mint | $5.00 |  5  |
+|  99.9% (8,516 Sales)  | Near Mint | $5.00 |  2  |
+|   100% (6,120 Sales)  | Near Mint | $4.00 |  1  |
+|    100% (282 Sales)   | Near Mint | $5.00 |  1  |
+|    100% (96 Sales)    | Near Mint | $4.01 |  1  |
+|  100% (10,000+ Sales) | Near Mint | $5.25 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $5.25 |  1  |
+|   99.7% (742 Sales)   | Near Mint | $5.26 |  4  |
+| 99.9% (50,000+ Sales) | Near Mint | $5.48 |  2  |
+| 99.8% (50,000+ Sales) | Near Mint | $5.56 |  1  |
+|    rf 0% (24 Sales)   | Near Mint | $4.75 |  1  |
+|    100% (28 Sales)    | Near Mint | $4.75 |  3  |
+|    100% (321 Sales)   | Near Mint | $4.98 |  1  |
+| 99.9% (10,000+ Sales) | Near Mint | $5.99 |  1  |
+|    100% (53 Sales)    | Near Mint | $5.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint | $6.25 |  4  |
+|  100% (50,000+ Sales) | Near Mint | $6.74 |  2  |
+|  99.5% (6,472 Sales)  | Near Mint | $6.98 |  1  |
+|   100% (1,786 Sales)  | Near Mint | $6.99 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint | $7.77 |  1  |
+|   99.7% (732 Sales)   | Near Mint | $4.99 |  1  |
+|    100% (181 Sales)   | Near Mint | $7.00 |  1  |
+|   100% (3,668 Sales)  | Near Mint | $8.98 |  1  |
+| 98.6% (25,000+ Sales) | Near Mint | $7.99 |  5  |
+|  100% (25,000+ Sales) | Near Mint | $9.99 |  2  |
+| 98.6% (25,000+ Sales) | Near Mint | $8.77 |  1  |
+|   99.6% (861 Sales)   | Near Mint | $8.99 |  3  |
++-----------------------+-----------+-------+-----+
+Mermail Abyssteus [3] - Market Price: $25.11
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|  100% (50,000+ Sales) | Near Mint 1st |  $69.95 |  3  |
+|    100% (497 Sales)   | Near Mint 1st |  $69.95 |  1  |
+|  100% (25,000+ Sales) | Near Mint 1st |  $74.99 |  3  |
+|    100% (172 Sales)   | Near Mint 1st |  $74.01 |  3  |
+| 99.7% (25,000+ Sales) | Near Mint 1st |  $79.98 |  2  |
+| 99.7% (10,000+ Sales) | Near Mint 1st |  $88.99 |  1  |
+|   100% (2,438 Sales)  | Near Mint 1st |  $89.94 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st |  $89.95 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $94.77 |  3  |
+| 99.5% (50,000+ Sales) | Near Mint 1st |  $99.68 |  3  |
+|    83.3% (14 Sales)   | Near Mint 1st | $116.00 |  3  |
+|     100% (8 Sales)    | Near Mint 1st | $118.98 |  3  |
+| 98.6% (25,000+ Sales) | Near Mint 1st | $150.00 |  3  |
++-----------------------+---------------+---------+-----+
+Mermail Abyss-sphere [3] - Market Price: $7.37
++-----------------------+---------------+--------+-----+
+|         Seller        |   Condition   | Price  | Qty |
++-----------------------+---------------+--------+-----+
+|   100% (3,772 Sales)  | Near Mint 1st | $15.95 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $15.95 |  3  |
+|    100% (756 Sales)   | Near Mint 1st | $15.17 |  1  |
+|  100% (25,000+ Sales) | Near Mint 1st | $15.98 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $16.37 |  1  |
+|   100% (6,518 Sales)  | Near Mint 1st | $17.75 |  2  |
+|    100% (380 Sales)   | Near Mint 1st | $17.98 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $18.70 |  1  |
+| 99.7% (10,000+ Sales) | Near Mint 1st | $18.99 |  1  |
+|   100% (5,332 Sales)  | Near Mint 1st | $19.99 |  1  |
+| 99.5% (50,000+ Sales) | Near Mint 1st | $20.96 |  3  |
+|   100% (2,717 Sales)  | Near Mint 1st | $19.99 |  1  |
+|  99.6% (5,685 Sales)  | Near Mint 1st | $20.00 |  1  |
+|  99.5% (3,431 Sales)  | Near Mint 1st | $19.99 |  1  |
+| 98.6% (25,000+ Sales) | Near Mint 1st | $24.99 |  1  |
+|   99.6% (861 Sales)   | Near Mint 1st | $30.99 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $50.00 |  5  |
++-----------------------+---------------+--------+-----+
+Breakthrough [2] - Market Price: $10.71
++-----------------------+---------------+--------+-----+
+|         Seller        |   Condition   | Price  | Qty |
++-----------------------+---------------+--------+-----+
+|   100% (3,772 Sales)  | Near Mint 1st | $19.99 |  1  |
+|    100% (900 Sales)   | Near Mint 1st | $19.99 |  1  |
+|    100% (222 Sales)   | Near Mint 1st | $25.96 |  1  |
+|  99.9% (1,168 Sales)  | Near Mint 1st | $25.98 |  1  |
+|    100% (389 Sales)   | Near Mint 1st | $27.00 |  3  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $29.95 |  2  |
+|  100% (25,000+ Sales) | Near Mint 1st | $30.99 |  1  |
+|  99.6% (5,685 Sales)  | Near Mint 1st | $30.00 |  2  |
+| 99.5% (50,000+ Sales) | Near Mint 1st | $35.99 |  2  |
+| 99.9% (10,000+ Sales) | Near Mint 1st | $38.74 |  4  |
+|  100% (25,000+ Sales) | Near Mint 1st | $40.00 |  2  |
+|   100% (4,681 Sales)  | Near Mint 1st | $42.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $42.97 |  3  |
+| 98.6% (25,000+ Sales) | Near Mint 1st | $42.95 |  4  |
+|  100% (50,000+ Sales) | Near Mint 1st | $44.99 |  1  |
+|    100% (149 Sales)   | Near Mint 1st | $49.98 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $50.00 |  23 |
++-----------------------+---------------+--------+-----+
+Abyss Dweller [1] - Market Price: $83.71
++---------------------+-----------+---------+-----+
+|        Seller       | Condition |  Price  | Qty |
++---------------------+-----------+---------+-----+
+|                     | Near Mint |  $75.00 |  1  |
+|  98.5% (895 Sales)  | Near Mint |  $75.00 |  1  |
+|   100% (634 Sales)  | Near Mint |  $75.00 |  3  |
+|   100% (525 Sales)  | Near Mint |  $78.00 |  1  |
+|   100% (45 Sales)   | Near Mint |  $78.00 |  1  |
+|   100% (135 Sales)  | Near Mint |  $80.00 |  1  |
+|  98.9% (141 Sales)  | Near Mint |  $90.00 |  1  |
+|  100% (5,010 Sales) | Near Mint |  $90.00 |  3  |
+|   100% (217 Sales)  | Near Mint |  $90.00 |  1  |
+|   100% (574 Sales)  | Near Mint |  $90.00 |  1  |
+|   100% (69 Sales)   | Near Mint |  $89.81 |  1  |
+|   100% (245 Sales)  | Near Mint |  $92.00 |  1  |
+|  100% (2,361 Sales) | Near Mint |  $94.95 |  1  |
+|    100% (9 Sales)   | Near Mint |  $90.00 |  2  |
+|   100% (341 Sales)  | Near Mint |  $99.99 |  1  |
+|  100% (3,464 Sales) | Near Mint | $110.00 |  1  |
+| 99.8% (9,536 Sales) | Near Mint | $149.95 |  1  |
+|   100% (821 Sales)  | Near Mint | $150.00 |  1  |
++---------------------+-----------+---------+-----+
+Bahamut Shark [1] - Market Price: $21.37
++-----------------------+---------------+--------+-----+
+|         Seller        |   Condition   | Price  | Qty |
++-----------------------+---------------+--------+-----+
+|  99.3% (3,025 Sales)  | Near Mint 1st | $25.50 |  1  |
+| 99.5% (50,000+ Sales) | Near Mint 1st | $26.99 |  1  |
+|  99.8% (9,536 Sales)  | Near Mint 1st | $48.25 |  1  |
+|    100% (173 Sales)   | Near Mint 1st | $48.21 |  1  |
+|    100% (25 Sales)    | Near Mint 1st | $48.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $48.99 |  1  |
+|  99.8% (6,139 Sales)  | Near Mint 1st | $49.45 |  1  |
+| 98.6% (25,000+ Sales) | Near Mint 1st | $47.99 |  2  |
++-----------------------+---------------+--------+-----+
+Dewloren [1] - Market Price: $27.94
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $46.00 |  1  |
+|   100% (2,904 Sales)  | Near Mint | $46.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $46.99 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $54.95 |  1  |
+|    100% (199 Sales)   | Near Mint | $59.99 |  1  |
+|   or 0% (229 Sales)   | Near Mint | $80.00 |  2  |
++-----------------------+-----------+--------+-----+
+Gungnir [1] - Market Price: $21.31
++---------------------+-----------+---------+-----+
+|        Seller       | Condition |  Price  | Qty |
++---------------------+-----------+---------+-----+
+|                     | Near Mint | $100.00 |  1  |
+| 99.9% (1,168 Sales) | Near Mint | $100.00 |  1  |
+|    100% (7 Sales)   | Near Mint | $150.00 |  1  |
++---------------------+-----------+---------+-----+
+Mermail Abyssgaios [1] - Market Price: $22.62
++-----------------------+---------------+--------+-----+
+|         Seller        |   Condition   | Price  | Qty |
++-----------------------+---------------+--------+-----+
+|    100% (40 Sales)    | Near Mint 1st | $12.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $38.00 |  1  |
+|  99.3% (3,025 Sales)  | Near Mint 1st | $38.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $38.26 |  1  |
+| 99.5% (50,000+ Sales) | Near Mint 1st | $38.58 |  5  |
+|  100% (25,000+ Sales) | Near Mint 1st | $38.59 |  2  |
+| 99.7% (10,000+ Sales) | Near Mint 1st | $38.99 |  2  |
+|   99.8% (548 Sales)   | Near Mint 1st | $39.00 |  1  |
+|   99.2% (186 Sales)   | Near Mint 1st | $39.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $39.96 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $41.49 |  1  |
+|    100% (173 Sales)   | Near Mint 1st | $40.97 |  1  |
+| 99.8% (10,000+ Sales) | Near Mint 1st | $45.99 |  4  |
+| 98.6% (25,000+ Sales) | Near Mint 1st | $44.99 |  2  |
+|    100% (421 Sales)   | Near Mint 1st | $99.99 |  1  |
++-----------------------+---------------+--------+-----+
+Mermail Abysstrite [1] - Market Price: $1.08
++-----------------------+---------------+-------+-----+
+|         Seller        |   Condition   | Price | Qty |
++-----------------------+---------------+-------+-----+
+|  100% (50,000+ Sales) | Near Mint 1st | $0.99 |  1  |
+|   100% (2,206 Sales)  | Near Mint 1st | $1.00 |  1  |
+|   100% (3,772 Sales)  | Near Mint 1st | $1.00 |  1  |
+|   99.8% (993 Sales)   | Near Mint 1st | $1.09 |  1  |
+|  99.6% (2,226 Sales)  | Near Mint 1st | $1.10 |  1  |
+|  99.9% (8,516 Sales)  | Near Mint 1st | $1.13 |  1  |
+|   100% (1,417 Sales)  | Near Mint 1st | $1.22 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $1.70 |  1  |
+|  99.6% (5,685 Sales)  | Near Mint 1st | $1.12 |  2  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $1.89 |  21 |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $1.90 |  4  |
+|  100% (25,000+ Sales) | Near Mint 1st | $1.99 |  2  |
+| 98.6% (25,000+ Sales) | Near Mint 1st | $1.99 |  3  |
+|   100% (3,763 Sales)  | Near Mint 1st | $0.99 |  1  |
+| 99.4% (10,000+ Sales) | Near Mint 1st | $1.82 |  1  |
+| 99.4% (10,000+ Sales) | Near Mint 1st | $2.00 |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $1.82 |  1  |
++-----------------------+---------------+-------+-----+
+Big Eye [1] - Market Price: $40.58
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $49.00 |  1  |
+|   98.5% (895 Sales)   | Near Mint | $49.00 |  1  |
+| 99.5% (50,000+ Sales) | Near Mint | $49.90 |  3  |
+|  99.9% (6,109 Sales)  | Near Mint | $49.95 |  2  |
+| 99.8% (50,000+ Sales) | Near Mint | $53.24 |  1  |
+| 98.6% (25,000+ Sales) | Near Mint | $52.98 |  1  |
+|   99.6% (861 Sales)   | Near Mint | $69.99 |  1  |
+|    100% (423 Sales)   | Near Mint | $75.00 |  1  |
+|   100% (2,904 Sales)  | Near Mint | $99.00 |  1  |
++-----------------------+-----------+--------+-----+

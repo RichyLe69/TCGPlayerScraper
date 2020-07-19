@@ -1,0 +1,192 @@
+######################################################
+##################### Jaden Deck #####################
+######################################################
+
+EHERO Avian secret:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-1/elemental-hero-avian'
+  edition: 'Near Mint'
+  qty: 1
+
+EHERO Burst secret:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-1/elemental-hero-burstinatrix'
+  edition: 'Near Mint'
+  qty: 1
+
+EHERO Spark secret:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-2/elemental-hero-sparkman'
+  edition: 'Near Mint'
+  qty: 1
+
+EHERO clayman secret:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-2/elemental-hero-clayman'
+  edition: 'Near Mint'
+  qty: 1
+
+EHERO bubbleman ultimate 1st german:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/elemental-hero-bubbleman-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+#bladeedge ultimate 1st italian:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-bladedge-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#neos air bird ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/neo-spacian-air-hummingbird-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#neos grand mole ultimate 1st german:
+#  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/neo-spacian-grand-mole-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#neos dolphin ultimate 1st german:
+#  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/neo-spacian-aqua-dolphin-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#neos flare scarab ultimate 1st german:
+#  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/neo-spacian-flare-scarab-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#neos dark panther ultimate 1st german:
+#  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/neo-spacian-dark-panther-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Wroguthweiler ultimate 1st gewrman:
+#  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/wroughtweiler-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+
+#Winged kuribo ultimate 1st german:
+#  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/winged-kuriboh-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+##Winged kurbio lvl 10 ultimate 1st german:
+##  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/winged-kuriboh-lv10-utr'
+##  edition: 'Near Mint 1st'
+#
+#5th hope ultimate 1st german:
+#  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/fifth-hope-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#hero flash ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/hero-flash-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#neo space ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/neo-space-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#skyscraper Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/skyscraper-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#skyscraper 2 Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/skyscraper-2-hero-city-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#miracle fusion Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/miracle-fusion-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#trascend wings Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/transcendent-wings-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#mirror gate Ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/mirror-gate-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#hero signal Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/hero-signal-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#hero barrier Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/hero-barrier-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#flame wingman Ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/elemental-hero-flame-wingman-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 2
+#
+#thunder giant Ultimate 1st it:
+#  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/elemental-hero-thunder-giant-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#rampart blaster Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-rampart-blaster-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#tempest Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-tempest-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#wild wingman Ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-wild-wingman-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#shining flame wingman Ultimate ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-shining-flare-wingman-utr'
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
+#
+#phnx enforcer Ultimate 1st ita:
+#  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-phoenix-enforcer-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#shining phnx enforcer Ultimate 1st ita:
+#  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-shining-phoenix-enforcer-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#aqua neos Ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-aqua-neos-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#flare neos Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-flare-neos-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#dark neos Ultimate ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-dark-neos-utr'
+#  edition: 'Near Mint Unlimited'
+#  qty: 1
+#
+#air neos Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-air-neos-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#grand neos Ultimate 1st ger:
+#  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-grand-neos-ultimate-rare'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#light neos Ultimate 1st ita:
+#  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-glow-neos-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
