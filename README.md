@@ -21,7 +21,7 @@ Card Name:
   qty: 1 # Number of cards 
 ```
 
-###A Typical output for a single entry:
+# A Typical output for a single entry:
 ```
 Judgment Dragon Ultimate [3] - Market Price: $148.83
 +-----------------------+---------------------+---------+-----+
