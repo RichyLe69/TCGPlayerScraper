@@ -5,6 +5,9 @@ import time
 import re
 import prettytable
 import yaml
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
 def get_seller_stats(text_only, match):
@@ -70,6 +73,7 @@ def scrape_website(collection_data_yaml):
     browser = webdriver.Chrome()
     market_price_total = 0
     lowest_listed_price_total = 0
+    first = True
     timer = 6
     for card in collection_data_yaml:
         url = collection_data_yaml[card]['url']
@@ -77,10 +81,16 @@ def scrape_website(collection_data_yaml):
         card_quantity = collection_data_yaml[card]['qty']
 
         browser.get(url)
-        time.sleep(timer)  # wait for page to finish loading
+        if first:
+            time.sleep(timer)  # wait for page to finish loading (only for 1st time, to select settings)
+            first = False
+
+        viewing_present = WebDriverWait(browser, 5).until(EC.presence_of_element_located((By.CLASS_NAME, 'sort-toolbar__total-item-count')))
+        # print(viewing_present)
+        viewing_present = WebDriverWait(browser, 5).until(EC.presence_of_element_located((By.ID, 'priceTable')))
+
         html = browser.page_source
         soup = BeautifulSoup(html, 'html.parser')
-
         for script in soup(['script', 'style']):
             script.extract()
 
@@ -100,7 +110,7 @@ def scrape_website(collection_data_yaml):
         output_to_txt(card, my_table, text_only[1], card_quantity)
         market_price_total += (text_only[1] * card_quantity)
         lowest_listed_price_total += lowest_listed_price * card_quantity
-        timer = 5
+        timer = 7
         # making new yaml w/ market price for calculations
         market_price_yaml_generator(card, text_only[1])
     print('Sum of Market Prices: ${:,.2f}'.format(market_price_total))

@@ -2,51 +2,56 @@
 ##################### Jaden Deck #####################
 ######################################################
 
-EHERO Avian secret:
-  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-1/elemental-hero-avian'
-  edition: 'Near Mint'
-  qty: 1
+#EHERO Avian secret:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-1/elemental-hero-avian'
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#EHERO Burst secret:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-1/elemental-hero-burstinatrix'
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#EHERO Spark secret:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-2/elemental-hero-sparkman'
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#EHERO clayman secret:
+#  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-2/elemental-hero-clayman'
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#EHERO bubbleman ultimate 1st german:
+#  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/elemental-hero-bubbleman-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
-EHERO Burst secret:
-  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-1/elemental-hero-burstinatrix'
-  edition: 'Near Mint'
-  qty: 1
+Judgment Dragon Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/judgment-dragon'
+  edition: 'Near Mint Unlimited'
+  qty: 3
 
-EHERO Spark secret:
-  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-2/elemental-hero-sparkman'
-  edition: 'Near Mint'
-  qty: 1
-
-EHERO clayman secret:
-  url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-2/elemental-hero-clayman'
-  edition: 'Near Mint'
-  qty: 1
-
-EHERO bubbleman ultimate 1st german:
-  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/elemental-hero-bubbleman-utr'
+bladeedge ultimate 1st italian:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-bladedge-utr'
   edition: 'Near Mint 1st'
   qty: 1
 
-#bladeedge ultimate 1st italian:
-#  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-bladedge-utr'
-#  edition: 'Near Mint 1st'
-#  qty: 1
-#
-#neos air bird ultimate 1st:
-#  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/neo-spacian-air-hummingbird-utr'
-#  edition: 'Near Mint 1st'
-#  qty: 1
-#
-#neos grand mole ultimate 1st german:
-#  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/neo-spacian-grand-mole-utr'
-#  edition: 'Near Mint 1st'
-#  qty: 1
-#
-#neos dolphin ultimate 1st german:
-#  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/neo-spacian-aqua-dolphin-utr'
-#  edition: 'Near Mint 1st'
-#  qty: 1
-#
+neos air bird ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/neo-spacian-air-hummingbird-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+neos grand mole ultimate 1st german:
+  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/neo-spacian-grand-mole-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+neos dolphin ultimate 1st german:
+  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/neo-spacian-aqua-dolphin-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
 #neos flare scarab ultimate 1st german:
 #  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/neo-spacian-flare-scarab-utr'
 #  edition: 'Near Mint 1st'
