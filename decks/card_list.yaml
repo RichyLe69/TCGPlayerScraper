@@ -354,6 +354,7 @@ Red Eyes Black Metal Dragon:
 Harpies Pet Dragon:
   url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-video-game-promotional-cards/harpies-pet-dragon-forbidden-memories'
   edition: 'Near Mint' # mines LP
+  qty: 1
 
 ######################################################
 ############## Extra Tin Cards #####################
@@ -444,7 +445,7 @@ EHERO Spark secret:
 
 EHERO clayman secret:
   url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-2/elemental-hero-clayman'
-  edition: 'Near Mint'
+  edition: 'Near Mint Limited'
   qty: 1
 
 EHERO bubbleman ultimate 1st german:
@@ -492,9 +493,10 @@ Winged kuribo ultimate 1st german:
   edition: 'Near Mint 1st'
   qty: 1
 
-#Winged kurbio lvl 10 ultimate 1st german:
-#  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/winged-kuriboh-lv10-utr'
-#  edition: 'Near Mint 1st'
+Winged kurbio lvl 10 ultimate 1st german:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/winged-kuriboh-lv10-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
 
 5th hope ultimate 1st german:
   url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/fifth-hope-utr'

@@ -85,14 +85,14 @@ def scrape_website(collection_data_yaml):
             time.sleep(timer)  # wait for page to finish loading (only for 1st time, to select settings)
             first = False
 
-        viewing_present = WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'sort-toolbar__total-item-count')))
+        viewing_present = WebDriverWait(browser, 7).until(EC.presence_of_element_located((By.CLASS_NAME, 'sort-toolbar__total-item-count')))
         # print(viewing_present)
         try:
-            viewing_present = WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.ID, 'priceTable')))
+            viewing_present = WebDriverWait(browser, 7).until(EC.presence_of_element_located((By.ID, 'priceTable')))
             # print('price table found')
             no_table = False
         except:
-            print('no results for:{}'.format(card))
+            print('no results for: {}'.format(card))
             no_table = True
 
         if no_table:
