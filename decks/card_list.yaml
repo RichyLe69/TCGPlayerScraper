@@ -370,10 +370,10 @@ Summoned Skull BPT 2002:
   edition: 'Near Mint'
   qty: 2
 
-Blue Eyes Ultimate JMP Secret:
-  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/blue%20eyes%20ultimate%20dragon%20secret'
-  edition: 'Near Mint'
-  qty: 1
+#Blue Eyes Ultimate JMP Secret:
+#  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/blue%20eyes%20ultimate%20dragon%20secret'
+#  edition: 'Near Mint Limited'
+#  qty: 1
 
 Dark Paladin DMG:
   url: 'https://shop.tcgplayer.com/yugioh/duel-masters-guide/dark-paladin?xid=pibf0a3b2d-c91a-49fe-a4dd-63fb93d00613'
