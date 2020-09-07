@@ -2739,3 +2739,33 @@
 |     neos dark panther ultimate 1st german      |  0.3   |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2020-09-07
++-----------------------------------------------------+--------+
+|                         Card                        | Price  |
++-----------------------------------------------------+--------+
+|    Apollousa, Bow of the Goddess (Starlight Rare)   | 759.98 |
+|  Dogmatika Ecclesia, the Virtuous (Starlight Rare)  | 649.1  |
+|           Lightning Storm (Starlight Rare)          | 617.97 |
+|           I:P Masquerena (Starlight Rare)           | 581.16 |
+|            Effect Veiler (Starlight Rare)           | 576.64 |
+|                    Utopia Astral                    | 432.93 |
+|   Eria the Water Charmer, Gentle (Starlight Rare)   | 428.27 |
+|        Triple Tactics Talent (Starlight Rare)       | 427.59 |
+|   Wynn the Wind Charmer, Verdant (Starlight Rare)   | 419.16 |
+|    Ghost Mourner & Moonlit Chill (Starlight Rare)   | 385.11 |
+|              D.D. Crow (Starlight Rare)             | 366.72 |
+|       Sky Striker Ace - Roze (Starlight Rare)       | 329.92 |
+| Aussa the Earth Charmer, Immovable (Starlight Rare) | 310.64 |
+|       Wynn the Wind Channeler (Starlight Rare)      | 282.75 |
+|                      10k Dragon                     | 251.0  |
+|         Chamber Dragonmaid (Starlight Rare)         | 246.31 |
+|         Traptrix Allomerus (Starlight Rare)         | 216.64 |
+|       Unchained Twins - Aruha (Starlight Rare)      | 199.04 |
+| Gaia the Magical Knight of Dragons (Starlight Rare) | 195.73 |
+|         Time Thief Perpetua (Starlight Rare)        | 189.0  |
+|         Marincess Sea Horse (Starlight Rare)        | 151.93 |
+|      Salamangreat Pyro Phoenix (Starlight Rare)     | 141.3  |
+|  Gorgon, Empress of the Evil Eyed (Starlight Rare)  | 121.86 |
+|        Storm Dragon's Return (Starlight Rare)       | 114.2  |
+|                         test                        |   0    |
++-----------------------------------------------------+--------+

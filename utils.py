@@ -8,6 +8,8 @@ import yaml
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium import webdriver
+
 
 
 def get_seller_stats(text_only, match):
@@ -70,7 +72,7 @@ def output_to_txt(card_name, table, market_price, card_quantity):
 
 
 def scrape_website(collection_data_yaml):
-    browser = webdriver.Chrome()
+    browser = webdriver.Chrome(executable_path=r'C:\Users\Richard Le\IdeaProjects\TCGPlayerScraper\chromedriver.exe')
     market_price_total = 0
     lowest_listed_price_total = 0
     first = True
