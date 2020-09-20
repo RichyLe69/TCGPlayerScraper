@@ -7,6 +7,8 @@ Sum of Market Prices: $27,842.48
 Sum of Lowest listings: $42,942.30
 Scrape End
 
+did not get data for MFC-000
+
 
 Obelisk JUMP PrScr [1] - Market Price: $38.65
 +-----------------------+-------------------+--------+-----+
