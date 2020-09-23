@@ -39,3 +39,4 @@ Judgment Dragon Ultimate [3] - Market Price: $148.83
 
 Card name and quantity on top with current market price.
 Full up-to-date active listings show Seller and their reputation, condition and edition, price, and quantity available.
+Intended to keep track of my personal collection.
