@@ -3,7 +3,7 @@ no results for: trap dustshoot super 2 english 1 german
 no results for: doom lord rare dr04
 Sum of Market Prices: $30,481.32
 Sum of Lowest listings: $49,718.65
-Scrape End
+Scrape End.
 
 
 Obelisk JUMP PrScr [1] - Market Price: $39.5
