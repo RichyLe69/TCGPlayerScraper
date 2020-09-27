@@ -4181,3 +4181,19 @@
 |     neos dark panther ultimate 1st german      |  0.3   |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2020-09-27
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|            Maxx c ultimate             | 367.22 |
+| Trishula, Dragon of the Ice Barrier DT | 255.25 |
+|       Stardust Dragon Ghost 1st        | 237.8  |
+|       Stardust Dragon Ghost Unl        | 237.8  |
+|          tour guide ultimate           | 197.37 |
+|      black rose dragon Ghost 1st       | 175.75 |
+|      black rose dragon Ghost Unl       | 175.75 |
+|     ancient fairy dragon Ghost 1st     | 71.44  |
+|     ancient fairy dragon Ghost Unl     | 71.44  |
+|            honest ghost 1st            | 58.76  |
+|                  test                  |   0    |
++----------------------------------------+--------+
