@@ -3,7 +3,7 @@ no results for: Armory Arm
 no results for: doom lord rare dr04
 Sum of Market Prices: $31,212.21
 Sum of Lowest listings: $51,190.07
-Scrape End
+Scrape End.
 
 Obelisk JUMP PrScr [1] - Market Price: $39.5
 +-----------------------+-------------------+--------+-----+
