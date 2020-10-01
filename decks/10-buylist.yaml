@@ -47,3 +47,137 @@ honest ghost 1st:
   url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/honest-ghost-rare'
   edition: 'Near Mint 1st'
   qty: 3
+
+# Champion Pack Supers
+
+Book of moon cp1:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/book-of-moon?xid=pi01641f10-336e-419f-945e-8b1285337e14'
+  edition: 'Near Mint'
+  qty: 3
+
+metamorphosis cp1:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/metamorphosis?xid=pi0060f96a-98bf-4113-aeab-c213aa331682'
+  edition: 'Near Mint'
+  qty: 1
+
+night assailant cp1:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/night-assailant'
+  edition: 'Near Mint'
+  qty: 1
+
+magician of faith cp2:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/magician-of-faith'
+  edition: 'Near Mint'
+  qty: 1
+
+smashing ground cp2:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground?xid=pie098c7cd-8853-4037-8ea6-5d7a28993bb1'
+  edition: 'Near Mint'
+  qty: 1
+
+spirit reaper cp3:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-3/spirit-reaper?xid=pi914ea79c-9418-467a-8585-d8da99335d19'
+  edition: 'Near Mint'
+  qty: 3
+
+snipe hunter cp3:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-3/snipe-hunter?xid=pid5159dac-9d39-4c41-9350-576d41ca331b'
+  edition: 'Near Mint'
+  qty: 1
+
+bottomless cp4:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole?xid=pid9e40725-2d86-4bad-91bf-7545edff371d'
+  edition: 'Near Mint'
+  qty: 3
+
+trap dustshoot cp5:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-5/trap-dustshoot'
+  edition: 'Near Mint'
+  qty: 3
+
+lonefire cp7:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-7/lonefire-blossom'
+  edition: 'Near Mint'
+  qty: 1
+
+lumina cp8:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-8/lumina-lightsworn-summoner'
+  edition: 'Near Mint'
+  qty: 3
+
+# Turbo Pack Ultimates & Ultras
+
+Judgment Dragon TU1:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/judgment-dragon'
+  edition: 'Near Mint'
+  qty: 3
+
+Doomcal TU1:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/doomcaliber-knight?xid=pi1558fd6e-f758-4c7b-bdb2-b4d7a7256668'
+  edition: 'Near Mint'
+  qty: 3
+
+Garoth TU1:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/garoth-lightsworn-warrior?xid=pif31a4272-9d25-449d-b9f3-b63eac7b23aa'
+  edition: 'Near Mint'
+  qty: 1
+
+Chaos Sorc TU2:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/chaos-sorcerer'
+  edition: 'Near Mint'
+  qty: 3
+
+Beckoning Light TU2:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/beckoning-light?xid=piadd1bcca-601c-4a94-aba6-c91e586afa82'
+  edition: 'Near Mint'
+  qty: 3
+
+Caius TU3:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-three/caius-the-shadow-monarch'
+  edition: 'Near Mint'
+  qty: 3
+
+Tragoedia TU4:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-four/tragoedia'
+  edition: 'Near Mint'
+  qty: 3
+
+Colossal Fighter TU5:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-five/colossal-fighter'
+  edition: 'Near Mint'
+  qty: 3
+
+Dark Hole TU5:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-five/dark-hole?xid=pi7970ee30-3425-437a-a446-3e631a49e794'
+  edition: 'Near Mint'
+  qty: 1
+
+Dark Armed Dragon TU6:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/dark-armed-dragon'
+  edition: 'Near Mint'
+  qty: 3
+
+Sangan TU6:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/sangan'
+  edition: 'Near Mint'
+  qty: 3
+
+Quickdraw Synchron TU6:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/quickdraw-synchron?xid=pi41d5d724-0348-48d0-ba3c-0397407be28a'
+  edition: 'Near Mint'
+  qty: 1
+
+Catastor TU7:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-seven/ally-of-justice-catastor'
+  edition: 'Near Mint'
+  qty: 1
+
+Book of Moon TU7:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-seven/book-of-moon'
+  edition: 'Near Mint'
+  qty: 1
+
+TK Raioh UTR TU8:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-eight/thunder-king-rai-oh'
+  edition: 'Near Mint'
+  qty: 3
