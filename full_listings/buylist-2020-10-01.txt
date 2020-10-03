@@ -1,6 +1,6 @@
 Sum of Market Prices: $10,783.83
 Sum of Lowest listings: $18,373.86
-Scrape End
+Scrape End Prices for Buylist collection
 
 Stardust Dragon Ghost 1st [1] - Market Price: $237.8
 +-----------------------+---------------+-----------+-----+
