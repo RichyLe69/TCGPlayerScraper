@@ -6,7 +6,9 @@ no results for: Smashing Ground Super
 no results for: doom lord rare dr04
 Sum of Market Prices: $30,294.86
 Sum of Lowest listings: $44,584.73
-Scrape End
+Scrape End.
+
+Prices not accurate - BPT
 
 
 Obelisk JUMP PrScr [1] - Market Price: $39.5
