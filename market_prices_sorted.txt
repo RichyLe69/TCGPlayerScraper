@@ -4959,3 +4959,45 @@
 |     neos dark panther ultimate 1st german      |  0.3   |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2020-10-07
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|            Book of moon cp1            | 403.49 |
+|            Maxx c ultimate             | 367.22 |
+|           metamorphosis cp1            | 335.57 |
+|         Dark Armed Dragon TU6          | 293.46 |
+| Trishula, Dragon of the Ice Barrier DT | 255.25 |
+|       Stardust Dragon Ghost 1st        | 240.22 |
+|       Stardust Dragon Ghost Unl        | 240.22 |
+|         magician of faith cp2          | 231.3  |
+|             bottomless cp4             | 202.5  |
+|          tour guide ultimate           | 200.25 |
+|      black rose dragon Ghost 1st       | 197.56 |
+|      black rose dragon Ghost Unl       | 197.56 |
+|          Judgment Dragon TU1           | 183.55 |
+|               lumina cp8               | 164.39 |
+|           trap dustshoot cp5           | 143.79 |
+|          night assailant cp1           | 133.94 |
+|           spirit reaper cp3            | 107.63 |
+|              lonefire cp7              | 84.57  |
+|     ancient fairy dragon Ghost 1st     | 82.15  |
+|     ancient fairy dragon Ghost Unl     | 82.15  |
+|             Chaos Sorc TU2             | 74.36  |
+|            TK Raioh UTR TU8            | 72.97  |
+|               Caius TU3                | 67.23  |
+|            honest ghost 1st            | 60.18  |
+|             Tragoedia TU4              | 52.81  |
+|          smashing ground cp2           | 41.37  |
+|            snipe hunter cp3            | 36.59  |
+|          Colossal Fighter TU5          | 32.01  |
+|              Catastor TU7              | 29.73  |
+|         Quickdraw Synchron TU6         | 26.71  |
+|               Sangan TU6               | 25.27  |
+|              Doomcal TU1               | 17.89  |
+|            Book of Moon TU7            | 17.68  |
+|             Dark Hole TU5              | 12.82  |
+|               Garoth TU1               | 12.49  |
+|          Beckoning Light TU2           |  8.77  |
+|                  test                  |   0    |
++----------------------------------------+--------+
