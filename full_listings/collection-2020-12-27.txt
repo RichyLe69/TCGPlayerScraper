@@ -6,7 +6,7 @@ no results for: sangan super rp01
 no results for: scapegoat ultra rp01 ita
 Sum of Market Prices: $35,234.41
 Sum of Lowest listings: $54,609.13
-Scrape End
+Scrape End.
 
 Obelisk JUMP PrScr [1] - Market Price: $55.39
 +----------------------+-------------------+---------+-----+
