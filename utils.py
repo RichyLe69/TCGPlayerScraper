@@ -60,7 +60,10 @@ def get_market_price(input_html):
     index = input_html.find('Market Price', 0)
     market_price = input_html[index:index + 30]
     market_price = re.findall('\d+\.\d+', market_price)
-    market_price = float(market_price[0])
+    try:
+        market_price = float(market_price[0])
+    except IndexError:
+        market_price = 0
     return market_price
 
 
