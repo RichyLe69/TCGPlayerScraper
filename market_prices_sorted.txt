@@ -11798,3 +11798,45 @@
 |    Winged kurbio lvl 10 ultimate 1st german    |  0.0   |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2021-01-23
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|           metamorphosis cp1            | 494.87 |
+|            Book of moon cp1            | 447.15 |
+|            Maxx c ultimate             | 394.88 |
+|         Dark Armed Dragon TU6          | 390.44 |
+|         magician of faith cp2          | 381.65 |
+| Trishula, Dragon of the Ice Barrier DT | 371.98 |
+|          Judgment Dragon TU1           | 303.36 |
+|       Stardust Dragon Ghost 1st        | 277.44 |
+|       Stardust Dragon Ghost Unl        | 277.44 |
+|               lumina cp8               | 220.0  |
+|          tour guide ultimate           | 214.7  |
+|             bottomless cp4             | 202.5  |
+|           spirit reaper cp3            | 200.0  |
+|           trap dustshoot cp5           | 200.0  |
+|          night assailant cp1           | 194.72 |
+|      black rose dragon Ghost 1st       | 191.9  |
+|      black rose dragon Ghost Unl       | 191.9  |
+|             Chaos Sorc TU2             | 141.64 |
+|     ancient fairy dragon Ghost 1st     | 119.07 |
+|     ancient fairy dragon Ghost Unl     | 119.07 |
+|              lonefire cp7              | 93.99  |
+|            TK Raioh UTR TU8            | 90.95  |
+|             Tragoedia TU4              | 82.36  |
+|            honest ghost 1st            | 78.71  |
+|               Caius TU3                | 67.19  |
+|          smashing ground cp2           | 46.45  |
+|            snipe hunter cp3            | 42.73  |
+|               Sangan TU6               | 35.41  |
+|              Catastor TU7              |  29.5  |
+|          Colossal Fighter TU5          | 27.96  |
+|               Garoth TU1               | 21.74  |
+|         Quickdraw Synchron TU6         | 21.58  |
+|              Doomcal TU1               | 21.37  |
+|            Book of Moon TU7            | 15.15  |
+|             Dark Hole TU5              | 12.28  |
+|          Beckoning Light TU2           |  8.3   |
+|                  test                  |   0    |
++----------------------------------------+--------+
