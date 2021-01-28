@@ -85,10 +85,10 @@ snipe hunter cp3:
   edition: 'Near Mint'
   qty: 1
 
-bottomless cp4:
-  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole?xid=pid9e40725-2d86-4bad-91bf-7545edff371d'
-  edition: 'Near Mint'
-  qty: 3
+#bottomless cp4:
+#  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole'
+#  edition: 'Near Mint'
+#  qty: 3
 
 trap dustshoot cp5:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-5/trap-dustshoot'
@@ -110,7 +110,7 @@ lumina cp8:
 Judgment Dragon TU1:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/judgment-dragon'
   edition: 'Near Mint'
-  qty: 3
+  qty: 6
 
 Doomcal TU1:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/doomcaliber-knight?xid=pi1558fd6e-f758-4c7b-bdb2-b4d7a7256668'
@@ -140,7 +140,7 @@ Caius TU3:
 Tragoedia TU4:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-four/tragoedia'
   edition: 'Near Mint'
-  qty: 3
+  qty: 6
 
 Colossal Fighter TU5:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-five/colossal-fighter'
@@ -155,7 +155,7 @@ Dark Hole TU5:
 Dark Armed Dragon TU6:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/dark-armed-dragon'
   edition: 'Near Mint'
-  qty: 3
+  qty: 6
 
 Sangan TU6:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/sangan'
@@ -180,6 +180,21 @@ Book of Moon TU7:
 TK Raioh UTR TU8:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-eight/thunder-king-rai-oh'
   edition: 'Near Mint'
+  qty: 3
+
+Effect Veiler Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/effect-veiler-utr'
+  edition: 'Near Mint 1st Edition'
+  qty: 3
+
+Pot of Avarice Ultimate 1st 2 german 1 english:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/pot-of-avarice-utr'
+  edition: 'Near Mint 1st Edition'
+  qty: 2
+
+solem warning ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/solemn-warning-utr'
+  edition: 'Near Mint 1st'
   qty: 3
 
 # My Favorite Cards
@@ -210,3 +225,13 @@ TK Raioh UTR TU8:
 #  1 Lumina Super
 #  1 Spirit Reaper Super
 #  Trap Dustshoot Super
+
+# Old School Collection - 7
+#1 DM ocg utr - 500
+#2 BEWD ocg utr - 3k
+#2 Red eyes ocg utr - 2k
+# bls ocg utr - 500
+# b skull ocg utr - 500
+# summoned skull ocg utr - 500
+
+

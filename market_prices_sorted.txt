@@ -12292,3 +12292,47 @@
 |    Winged kurbio lvl 10 ultimate 1st german    |  0.0   |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2021-01-27
++------------------------------------------------+--------+
+|                      Card                      | Price  |
++------------------------------------------------+--------+
+|               metamorphosis cp1                | 494.87 |
+|                Book of moon cp1                | 447.15 |
+|             magician of faith cp2              | 413.65 |
+|                Maxx c ultimate                 | 394.88 |
+|             Dark Armed Dragon TU6              | 390.44 |
+|     Trishula, Dragon of the Ice Barrier DT     | 371.98 |
+|              Judgment Dragon TU1               | 303.36 |
+|           Stardust Dragon Ghost 1st            | 273.02 |
+|           Stardust Dragon Ghost Unl            | 273.02 |
+|               trap dustshoot cp5               | 268.98 |
+|                   lumina cp8                   | 220.0  |
+|              tour guide ultimate               | 214.7  |
+|               spirit reaper cp3                | 200.0  |
+|              night assailant cp1               | 194.72 |
+|          black rose dragon Ghost 1st           | 192.3  |
+|          black rose dragon Ghost Unl           | 192.3  |
+| Pot of Avarice Ultimate 1st 2 german 1 english | 165.0  |
+|                 Chaos Sorc TU2                 | 141.64 |
+|           Effect Veiler Ultimate 1st           | 138.1  |
+|         ancient fairy dragon Ghost 1st         | 119.07 |
+|         ancient fairy dragon Ghost Unl         | 119.07 |
+|                  lonefire cp7                  | 93.99  |
+|                TK Raioh UTR TU8                | 90.95  |
+|                honest ghost 1st                | 83.71  |
+|                 Tragoedia TU4                  | 82.36  |
+|                   Caius TU3                    | 67.19  |
+|           solem warning ultimate 1st           | 58.01  |
+|              smashing ground cp2               | 46.99  |
+|                snipe hunter cp3                | 44.62  |
+|                   Sangan TU6                   | 34.81  |
+|                  Catastor TU7                  |  29.5  |
+|              Colossal Fighter TU5              | 27.96  |
+|                  Doomcal TU1                   | 21.78  |
+|                   Garoth TU1                   | 21.39  |
+|             Quickdraw Synchron TU6             | 21.18  |
+|                Book of Moon TU7                | 15.15  |
+|                 Dark Hole TU5                  | 12.28  |
+|              Beckoning Light TU2               |  8.32  |
+|                      test                      |   0    |
++------------------------------------------------+--------+

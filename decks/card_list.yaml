@@ -921,14 +921,14 @@ Gorz:
   qty: 4
 
 Smashing Ground Super:
-  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground?xid=pie098c7cd-8853-4037-8ea6-5d7a28993bb1'
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground'
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Bottomless Trap Hole:
-  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole?xid=pid7588707-117d-4c31-8e8d-b8f9127560d7'
-  edition: 'Near Mint Unlimited'
-  qty: 2
+#Bottomless Trap Hole:
+#  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole'
+#  edition: 'Near Mint Unlimited'
+#  qty: 2
 
 Fiendish Chain:
   url: 'https://shop.tcgplayer.com/yugioh/absolute-powerforce/fiendish-chain?xid=pi4f0d2ec0-2ce4-4552-a577-986b6321d357'
