@@ -9,6 +9,8 @@ Sum of Market Prices: $38,150.11
 Sum of Lowest listings: $62,278.78
 Scrape End
 
+Price is inflated from gate guardian
+
 Obelisk JUMP PrScr [1] - Market Price: $66.11
 +----------------------+-------------------+---------+-----+
 |        Seller        |     Condition     |  Price  | Qty |
