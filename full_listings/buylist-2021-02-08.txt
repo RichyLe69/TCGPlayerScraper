@@ -1,0 +1,517 @@
+Sum of Market Prices: $16,553.55
+Sum of Lowest listings: $29,505.80
+Scrape End
+
+Stardust Dragon Ghost 1st [1] - Market Price: $272.47
++---------------------+---------------+-----------+-----+
+|        Seller       |   Condition   |   Price   | Qty |
++---------------------+---------------+-----------+-----+
+| 99.7% (5,713 Sales) | Near Mint 1st | $4,999.90 |  1  |
++---------------------+---------------+-----------+-----+
+black rose dragon Ghost 1st [1] - Market Price: $190.72
++--------+-----------+-------+-----+
+| Seller | Condition | Price | Qty |
++--------+-----------+-------+-----+
++--------+-----------+-------+-----+
+ancient fairy dragon Ghost 1st [1] - Market Price: $117.69
++----------------------+---------------+---------+-----+
+|        Seller        |   Condition   |  Price  | Qty |
++----------------------+---------------+---------+-----+
+|  ds 0% (178 Sales)   | Near Mint 1st | $599.99 |  1  |
+|   100% (37 Sales)    | Near Mint 1st | $620.01 |  1  |
+| 100% (50,000+ Sales) | Near Mint 1st | $649.99 |  1  |
++----------------------+---------------+---------+-----+
+Trishula, Dragon of the Ice Barrier DT [2] - Market Price: $371.98
++-----------------------+-------------------+---------+-----+
+|         Seller        |     Condition     |  Price  | Qty |
++-----------------------+-------------------+---------+-----+
+|    100% (365 Sales)   | Near Mint Limited | $310.00 |  1  |
+|   97.4% (550 Sales)   | Near Mint Limited | $318.00 |  1  |
+| 99.9% (10,000+ Sales) | Near Mint Limited | $343.00 |  1  |
+|   100% (4,407 Sales)  | Near Mint Limited | $342.01 |  1  |
+|    100% (532 Sales)   | Near Mint Limited | $344.44 |  1  |
+|  100% (50,000+ Sales) | Near Mint Limited | $344.99 |  2  |
+|  100% (50,000+ Sales) | Near Mint Limited | $349.94 |  1  |
+|  100% (10,000+ Sales) | Near Mint Limited | $349.95 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint Limited | $352.97 |  1  |
+|    100% (100 Sales)   | Near Mint Limited | $369.99 |  1  |
+|   98.1% (463 Sales)   | Near Mint Limited | $376.30 |  1  |
+|  99.8% (5,640 Sales)  | Near Mint Limited | $397.90 |  1  |
++-----------------------+-------------------+---------+-----+
+Stardust Dragon Ghost Unl [3] - Market Price: $272.47
++-----------------------+---------------------+---------+-----+
+|         Seller        |      Condition      |  Price  | Qty |
++-----------------------+---------------------+---------+-----+
+|    ds 0% (58 Sales)   | Near Mint Unlimited | $285.00 |  1  |
+|  99.8% (6,072 Sales)  | Near Mint Unlimited | $389.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint Unlimited | $399.98 |  1  |
+|   100% (1,197 Sales)  | Near Mint Unlimited | $500.00 |  1  |
+|    100% (497 Sales)   | Near Mint Unlimited | $500.00 |  1  |
+|    100% (228 Sales)   | Near Mint Unlimited | $550.00 |  1  |
+|   100% (2,083 Sales)  | Near Mint Unlimited | $599.99 |  1  |
++-----------------------+---------------------+---------+-----+
+black rose dragon Ghost Unl [3] - Market Price: $190.72
++-----------------------+---------------------+---------+-----+
+|         Seller        |      Condition      |  Price  | Qty |
++-----------------------+---------------------+---------+-----+
+|    an 0% (8 Sales)    | Near Mint Unlimited | $185.92 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint Unlimited | $399.99 |  1  |
+|  100% (25,000+ Sales) | Near Mint Unlimited | $400.00 |  1  |
++-----------------------+---------------------+---------+-----+
+ancient fairy dragon Ghost Unl [1] - Market Price: $117.69
++-----------------------+---------------------+---------+-----+
+|         Seller        |      Condition      |  Price  | Qty |
++-----------------------+---------------------+---------+-----+
+|   97.1% (518 Sales)   | Near Mint Unlimited | $109.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint Unlimited | $109.99 |  1  |
+|  99.5% (3,684 Sales)  | Near Mint Unlimited | $110.00 |  1  |
+|  100% (10,000+ Sales) | Near Mint Unlimited | $115.00 |  1  |
+|  99.8% (6,072 Sales)  | Near Mint Unlimited | $124.00 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint Unlimited | $124.99 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint Unlimited | $157.93 |  3  |
+| 99.8% (50,000+ Sales) | Near Mint Unlimited | $199.99 |  1  |
+|   100% (2,083 Sales)  | Near Mint Unlimited | $199.99 |  1  |
+|   99.6% (913 Sales)   | Near Mint Unlimited | $300.00 |  2  |
++-----------------------+---------------------+---------+-----+
+Maxx c ultimate [3] - Market Price: $408.2
++-----------------------+---------------------+---------+-----+
+|         Seller        |      Condition      |  Price  | Qty |
++-----------------------+---------------------+---------+-----+
+|     100% (5 Sales)    | Near Mint Unlimited | $470.00 |  1  |
+|   100% (3,608 Sales)  | Near Mint Unlimited | $485.00 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint Unlimited | $489.98 |  3  |
+|  100% (50,000+ Sales) | Near Mint Unlimited | $489.99 |  1  |
+|   100% (3,142 Sales)  | Near Mint Unlimited | $497.21 |  1  |
+|   100% (7,012 Sales)  | Near Mint Unlimited | $540.99 |  1  |
+|   98.7% (304 Sales)   | Near Mint Unlimited | $599.99 |  1  |
+|    100% (497 Sales)   | Near Mint Unlimited | $750.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint Unlimited | $799.95 |  1  |
+|   100% (1,134 Sales)  | Near Mint Unlimited | $800.99 |  3  |
++-----------------------+---------------------+---------+-----+
+tour guide ultimate [3] - Market Price: $213.36
++-----------------------+---------------------+---------+-----+
+|         Seller        |      Condition      |  Price  | Qty |
++-----------------------+---------------------+---------+-----+
+|  99.8% (2,417 Sales)  | Near Mint Unlimited | $185.98 |  1  |
+|  99.5% (2,332 Sales)  | Near Mint Unlimited | $184.99 |  2  |
+|    100% (30 Sales)    | Near Mint Unlimited | $185.00 |  1  |
+|  99.7% (2,032 Sales)  | Near Mint Unlimited | $188.50 |  1  |
+|   s 98% (761 Sales)   | Near Mint Unlimited | $190.00 |  2  |
+|    100% (21 Sales)    | Near Mint Unlimited | $190.00 |  1  |
+|    100% (508 Sales)   | Near Mint Unlimited | $200.00 |  1  |
+|   99.3% (203 Sales)   | Near Mint Unlimited | $220.00 |  1  |
+|  99.8% (6,072 Sales)  | Near Mint Unlimited | $232.00 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint Unlimited | $243.90 |  3  |
+| 99.7% (50,000+ Sales) | Near Mint Unlimited | $244.99 |  1  |
+|    100% (583 Sales)   | Near Mint Unlimited | $250.00 |  1  |
++-----------------------+---------------------+---------+-----+
+honest ghost 1st [3] - Market Price: $83.34
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|  100% (50,000+ Sales) | Near Mint 1st | $274.99 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $299.99 |  1  |
+|  99.5% (1,473 Sales)  | Near Mint 1st | $500.00 |  1  |
++-----------------------+---------------+---------+-----+
+Book of moon cp1 [3] - Market Price: $447.15
++----------------------+-----------+---------+-----+
+|        Seller        | Condition |  Price  | Qty |
++----------------------+-----------+---------+-----+
+|                      | Near Mint | $599.99 |  1  |
+|  CG 0% (126 Sales)   | Near Mint | $599.99 |  1  |
+| 99.8% (6,072 Sales)  | Near Mint | $600.00 |  1  |
+| 100% (10,000+ Sales) | Near Mint | $999.99 |  1  |
++----------------------+-----------+---------+-----+
+metamorphosis cp1 [1] - Market Price: $494.87
++---------------------+-----------+-----------+-----+
+|        Seller       | Condition |   Price   | Qty |
++---------------------+-----------+-----------+-----+
+|                     | Near Mint |  $999.00  |  2  |
+|   77.8% (12 Sales)  | Near Mint |  $999.00  |  2  |
+| 99.7% (4,491 Sales) | Near Mint | $1,299.90 |  3  |
++---------------------+-----------+-----------+-----+
+night assailant cp1 [1] - Market Price: $192.1
++--------------------+-----------+---------+-----+
+|       Seller       | Condition |  Price  | Qty |
++--------------------+-----------+---------+-----+
+|                    | Near Mint | $499.99 |  1  |
+| 100% (2,083 Sales) | Near Mint | $499.99 |  1  |
++--------------------+-----------+---------+-----+
+magician of faith cp2 [1] - Market Price: $407.98
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $389.99 |  1  |
+|  99.9% (7,748 Sales)  | Near Mint | $389.99 |  1  |
+|  99.9% (8,022 Sales)  | Near Mint | $406.99 |  2  |
+|   99.6% (913 Sales)   | Near Mint | $425.00 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $699.98 |  1  |
++-----------------------+-----------+---------+-----+
+smashing ground cp2 [1] - Market Price: $48.07
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $102.97 |  1  |
+|   ng 0% (970 Sales)   | Near Mint | $102.97 |  1  |
+|  99.8% (3,927 Sales)  | Near Mint |  $99.99 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $149.99 |  3  |
++-----------------------+-----------+---------+-----+
+spirit reaper cp3 [3] - Market Price: $200.0
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $263.69 |  3  |
+| 99.9% (50,000+ Sales) | Near Mint | $263.69 |  3  |
+|   CG 0% (126 Sales)   | Near Mint | $265.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $267.95 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $267.97 |  1  |
+|    83.3% (6 Sales)    | Near Mint | $266.85 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $294.95 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $300.00 |  1  |
+|  99.8% (3,927 Sales)  | Near Mint | $349.99 |  1  |
++-----------------------+-----------+---------+-----+
+snipe hunter cp3 [1] - Market Price: $49.46
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint |  $68.99 |  1  |
+|   ng 0% (970 Sales)   | Near Mint |  $68.99 |  1  |
+|   CG 0% (126 Sales)   | Near Mint |  $69.00 |  2  |
+|   97.1% (294 Sales)   | Near Mint |  $68.80 |  1  |
+|    100% (24 Sales)    | Near Mint |  $69.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint |  $87.97 |  1  |
+|  99.9% (2,937 Sales)  | Near Mint |  $90.00 |  1  |
+|   100% (1,650 Sales)  | Near Mint |  $90.00 |  3  |
+|   100% (4,499 Sales)  | Near Mint |  $95.00 |  2  |
+|  99.7% (3,911 Sales)  | Near Mint |  $95.00 |  1  |
+|   100% (1,539 Sales)  | Near Mint |  $99.99 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $129.99 |  2  |
+|  100% (50,000+ Sales) | Near Mint | $199.99 |  1  |
+|  99.8% (3,927 Sales)  | Near Mint | $199.99 |  1  |
++-----------------------+-----------+---------+-----+
+trap dustshoot cp5 [3] - Market Price: $268.98
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $250.00 |  1  |
+|   97.1% (294 Sales)   | Near Mint | $250.00 |  1  |
+|   97.8% (460 Sales)   | Near Mint | $250.99 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $287.93 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $299.99 |  1  |
+|   100% (9,423 Sales)  | Near Mint | $450.00 |  1  |
+|  99.7% (4,491 Sales)  | Near Mint | $499.99 |  1  |
++-----------------------+-----------+---------+-----+
+lonefire cp7 [1] - Market Price: $97.99
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $139.68 |  2  |
+| 99.9% (50,000+ Sales) | Near Mint | $139.68 |  2  |
+|  99.8% (6,072 Sales)  | Near Mint | $140.00 |  2  |
++-----------------------+-----------+---------+-----+
+lumina cp8 [3] - Market Price: $220.0
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $260.83 |  1  |
+|   ng 0% (970 Sales)   | Near Mint | $260.83 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $259.99 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint | $384.71 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $399.95 |  1  |
+|   100% (7,612 Sales)  | Near Mint | $399.99 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $415.99 |  3  |
+| 99.7% (50,000+ Sales) | Near Mint | $438.49 |  3  |
+|  99.8% (6,072 Sales)  | Near Mint | $440.00 |  3  |
++-----------------------+-----------+---------+-----+
+Judgment Dragon TU1 [6] - Market Price: $303.32
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $303.00 |  1  |
+|    100% (11 Sales)    | Near Mint | $303.00 |  1  |
+|   97.1% (294 Sales)   | Near Mint | $305.00 |  2  |
+|  99.8% (6,072 Sales)  | Near Mint | $320.00 |  2  |
+| 99.7% (50,000+ Sales) | Near Mint | $349.99 |  3  |
+|  100% (25,000+ Sales) | Near Mint | $650.00 |  3  |
++-----------------------+-----------+---------+-----+
+Doomcal TU1 [3] - Market Price: $22.02
++---------------------+-----------+---------+-----+
+|        Seller       | Condition |  Price  | Qty |
++---------------------+-----------+---------+-----+
+|                     | Near Mint |  $24.99 |  1  |
+|  95.1% (763 Sales)  | Near Mint |  $24.99 |  1  |
+| 99.8% (6,072 Sales) | Near Mint |  $29.00 |  3  |
+|   100% (883 Sales)  | Near Mint |  $40.00 |  1  |
+|  100% (2,035 Sales) | Near Mint |  $55.00 |  1  |
+|  100% (1,197 Sales) | Near Mint | $200.00 |  4  |
++---------------------+-----------+---------+-----+
+Garoth TU1 [1] - Market Price: $20.74
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $20.24 |  3  |
+| 99.7% (50,000+ Sales) | Near Mint | $20.24 |  3  |
+|  99.9% (8,022 Sales)  | Near Mint | $20.25 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $29.95 |  11 |
+| 99.8% (50,000+ Sales) | Near Mint | $29.99 |  3  |
+|    100% (122 Sales)   | Near Mint | $35.00 |  1  |
+|  99.8% (6,072 Sales)  | Near Mint | $40.00 |  3  |
+| 99.7% (50,000+ Sales) | Near Mint | $75.00 |  1  |
++-----------------------+-----------+--------+-----+
+Chaos Sorc TU2 [3] - Market Price: $143.72
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $184.35 |  2  |
+| 99.9% (50,000+ Sales) | Near Mint | $184.35 |  2  |
+|  100% (50,000+ Sales) | Near Mint | $197.97 |  2  |
+|  99.5% (2,063 Sales)  | Near Mint | $299.95 |  2  |
+| 99.8% (50,000+ Sales) | Near Mint | $299.99 |  5  |
++-----------------------+-----------+---------+-----+
+Beckoning Light TU2 [3] - Market Price: $8.22
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $7.89  |  1  |
+|  99.4% (3,232 Sales)  | Near Mint | $7.89  |  1  |
+|   100% (7,538 Sales)  | Near Mint | $7.95  |  2  |
+| 99.5% (10,000+ Sales) | Near Mint | $7.99  |  2  |
+|  100% (50,000+ Sales) | Near Mint | $8.49  |  1  |
+|  99.8% (6,072 Sales)  | Near Mint | $8.65  |  1  |
+|  100% (50,000+ Sales) | Near Mint | $8.97  |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $10.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $10.79 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $11.99 |  5  |
+|    100% (19 Sales)    | Near Mint | $9.99  |  1  |
+|   100% (1,134 Sales)  | Near Mint | $20.99 |  1  |
++-----------------------+-----------+--------+-----+
+Caius TU3 [3] - Market Price: $67.84
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint |  $68.84 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint |  $68.84 |  1  |
+|  100% (50,000+ Sales) | Near Mint |  $70.00 |  2  |
+|   97.1% (518 Sales)   | Near Mint |  $70.00 |  1  |
+|  99.8% (2,417 Sales)  | Near Mint |  $70.96 |  1  |
+| 99.2% (25,000+ Sales) | Near Mint |  $72.28 |  1  |
+| 99.8% (10,000+ Sales) | Near Mint |  $72.99 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint |  $73.96 |  1  |
+|  99.7% (4,166 Sales)  | Near Mint |  $73.96 |  2  |
+| 99.8% (10,000+ Sales) | Near Mint |  $73.96 |  2  |
+|  100% (50,000+ Sales) | Near Mint |  $74.95 |  5  |
+| 99.8% (50,000+ Sales) | Near Mint |  $74.95 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint |  $74.99 |  1  |
+|  99.9% (9,633 Sales)  | Near Mint |  $75.00 |  3  |
+|   100% (4,407 Sales)  | Near Mint |  $75.00 |  1  |
+|   100% (1,729 Sales)  | Near Mint |  $75.05 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $149.95 |  3  |
++-----------------------+-----------+---------+-----+
+Tragoedia TU4 [6] - Market Price: $77.97
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $70.49 |  1  |
+|   ng 0% (970 Sales)   | Near Mint | $70.49 |  1  |
+|    100% (124 Sales)   | Near Mint | $70.50 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $72.97 |  1  |
+|  99.7% (4,166 Sales)  | Near Mint | $73.99 |  3  |
+|    100% (100 Sales)   | Near Mint | $73.50 |  3  |
+|  100% (50,000+ Sales) | Near Mint | $77.77 |  1  |
+| 99.1% (10,000+ Sales) | Near Mint | $77.93 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $84.99 |  3  |
+| 99.8% (50,000+ Sales) | Near Mint | $89.99 |  4  |
+|  99.8% (6,072 Sales)  | Near Mint | $94.00 |  1  |
+|  99.9% (8,022 Sales)  | Near Mint | $94.98 |  2  |
+| 99.7% (50,000+ Sales) | Near Mint | $97.21 |  1  |
++-----------------------+-----------+--------+-----+
+Colossal Fighter TU5 [3] - Market Price: $27.98
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $27.98 |  1  |
+|   100% (3,856 Sales)  | Near Mint | $27.98 |  1  |
+| 99.8% (25,000+ Sales) | Near Mint | $28.03 |  3  |
+|     100% (5 Sales)    | Near Mint | $25.00 |  3  |
+|   100% (5,192 Sales)  | Near Mint | $29.99 |  1  |
+| 99.9% (10,000+ Sales) | Near Mint | $30.00 |  1  |
+|  99.8% (2,417 Sales)  | Near Mint | $32.76 |  2  |
+|    100% (279 Sales)   | Near Mint | $34.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $37.98 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $39.99 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $39.99 |  12 |
+|   99.6% (913 Sales)   | Near Mint | $40.00 |  3  |
+|  99.8% (6,072 Sales)  | Near Mint | $49.00 |  3  |
+|  100% (50,000+ Sales) | Near Mint | $49.99 |  4  |
+|  99.8% (3,927 Sales)  | Near Mint | $49.99 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $54.99 |  3  |
+| 99.8% (50,000+ Sales) | Near Mint | $59.98 |  4  |
+| 99.7% (50,000+ Sales) | Near Mint | $60.76 |  1  |
+| 99.9% (10,000+ Sales) | Near Mint | $59.99 |  1  |
+|   100% (5,173 Sales)  | Near Mint | $60.98 |  1  |
++-----------------------+-----------+--------+-----+
+Dark Hole TU5 [1] - Market Price: $12.86
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $19.98 |  1  |
+|   ng 0% (970 Sales)   | Near Mint | $19.98 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $19.99 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $23.00 |  1  |
+|    100% (10 Sales)    | Near Mint | $25.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $29.98 |  6  |
+|  100% (10,000+ Sales) | Near Mint | $34.95 |  1  |
+|   100% (1,134 Sales)  | Near Mint | $39.99 |  1  |
++-----------------------+-----------+--------+-----+
+Dark Armed Dragon TU6 [6] - Market Price: $401.39
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $394.99 |  1  |
+|  99.8% (2,417 Sales)  | Near Mint | $394.99 |  1  |
+|   100% (4,499 Sales)  | Near Mint | $400.00 |  1  |
+|    100% (11 Sales)    | Near Mint | $410.00 |  2  |
+|  100% (50,000+ Sales) | Near Mint | $449.99 |  2  |
+| 99.8% (50,000+ Sales) | Near Mint | $499.99 |  2  |
+| 99.7% (50,000+ Sales) | Near Mint | $649.99 |  2  |
+|  100% (25,000+ Sales) | Near Mint | $650.00 |  2  |
++-----------------------+-----------+---------+-----+
+Sangan TU6 [3] - Market Price: $35.96
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $34.00 |  4  |
+|   98.6% (814 Sales)   | Near Mint | $34.00 |  4  |
+|   CG 0% (126 Sales)   | Near Mint | $35.00 |  3  |
+|    100% (267 Sales)   | Near Mint | $35.00 |  3  |
+|   99.7% (803 Sales)   | Near Mint | $35.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $36.97 |  2  |
+|   97.1% (294 Sales)   | Near Mint | $36.50 |  3  |
+|  99.8% (2,417 Sales)  | Near Mint | $40.49 |  2  |
+|  99.8% (1,564 Sales)  | Near Mint | $40.50 |  1  |
+| 99.8% (25,000+ Sales) | Near Mint | $40.98 |  1  |
+| 99.6% (10,000+ Sales) | Near Mint | $40.00 |  1  |
+| 99.8% (10,000+ Sales) | Near Mint | $41.47 |  1  |
+|     100% (5 Sales)    | Near Mint | $40.98 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $44.95 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $44.99 |  4  |
+|  99.7% (3,911 Sales)  | Near Mint | $49.95 |  1  |
++-----------------------+-----------+--------+-----+
+Quickdraw Synchron TU6 [1] - Market Price: $19.98
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $19.95 |  4  |
+|  100% (50,000+ Sales) | Near Mint | $19.95 |  4  |
+| 99.6% (10,000+ Sales) | Near Mint | $19.00 |  1  |
+|    100% (444 Sales)   | Near Mint | $21.99 |  1  |
+|  100% (50,000+ Sales) | Near Mint | $24.95 |  1  |
+| 99.8% (25,000+ Sales) | Near Mint | $24.99 |  2  |
+|   98.1% (388 Sales)   | Near Mint | $24.52 |  3  |
+|  100% (50,000+ Sales) | Near Mint | $28.97 |  1  |
+|   100% (3,409 Sales)  | Near Mint | $39.99 |  5  |
+| 99.9% (10,000+ Sales) | Near Mint | $59.99 |  1  |
++-----------------------+-----------+--------+-----+
+Catastor TU7 [1] - Market Price: $28.86
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $25.00 |  1  |
+|   95.8% (313 Sales)   | Near Mint | $25.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint | $27.11 |  4  |
+|  100% (50,000+ Sales) | Near Mint | $27.95 |  13 |
+|   100% (2,024 Sales)  | Near Mint | $27.95 |  1  |
+|    100% (75 Sales)    | Near Mint | $28.00 |  1  |
+|   97.1% (294 Sales)   | Near Mint | $27.01 |  2  |
+| 99.6% (10,000+ Sales) | Near Mint | $27.26 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $29.06 |  4  |
+| 99.7% (50,000+ Sales) | Near Mint | $29.99 |  6  |
+|   98.5% (199 Sales)   | Near Mint | $40.00 |  1  |
+|    100% (848 Sales)   | Near Mint | $40.00 |  1  |
+|  100% (10,000+ Sales) | Near Mint | $49.88 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint | $60.76 |  1  |
+|   100% (1,134 Sales)  | Near Mint | $89.99 |  1  |
++-----------------------+-----------+--------+-----+
+Book of Moon TU7 [1] - Market Price: $15.15
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $12.83 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint | $12.83 |  1  |
+| 99.8% (10,000+ Sales) | Near Mint | $13.23 |  2  |
+|   100% (1,556 Sales)  | Near Mint | $13.51 |  2  |
+|   95.1% (763 Sales)   | Near Mint | $13.00 |  2  |
+| 99.8% (10,000+ Sales) | Near Mint | $14.90 |  1  |
+|    100% (40 Sales)    | Near Mint | $14.01 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $15.53 |  3  |
+|  100% (50,000+ Sales) | Near Mint | $15.54 |  1  |
+|    100% (279 Sales)   | Near Mint | $14.87 |  1  |
+| 99.2% (25,000+ Sales) | Near Mint | $15.73 |  5  |
+| 99.8% (50,000+ Sales) | Near Mint | $16.99 |  1  |
+|  99.7% (4,491 Sales)  | Near Mint | $17.87 |  1  |
+|  99.8% (6,072 Sales)  | Near Mint | $17.95 |  2  |
+|  100% (50,000+ Sales) | Near Mint | $17.97 |  2  |
+|  99.8% (6,722 Sales)  | Near Mint | $18.05 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $19.99 |  3  |
+|  100% (50,000+ Sales) | Near Mint | $19.99 |  15 |
+|  100% (50,000+ Sales) | Near Mint | $20.01 |  1  |
+|  99.7% (3,911 Sales)  | Near Mint | $20.49 |  2  |
+| 99.7% (50,000+ Sales) | Near Mint | $21.95 |  1  |
+|  99.8% (3,868 Sales)  | Near Mint | $35.00 |  2  |
+|   100% (3,409 Sales)  | Near Mint | $39.99 |  3  |
+|  99.7% (2,643 Sales)  | Near Mint | $43.99 |  2  |
++-----------------------+-----------+--------+-----+
+TK Raioh UTR TU8 [3] - Market Price: $90.43
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint |  $89.98 |  1  |
+|   ng 0% (970 Sales)   | Near Mint |  $89.98 |  1  |
+|  100% (50,000+ Sales) | Near Mint |  $90.36 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint |  $99.99 |  2  |
+|  99.7% (4,491 Sales)  | Near Mint | $124.95 |  3  |
+|   100% (4,278 Sales)  | Near Mint | $200.00 |  1  |
++-----------------------+-----------+---------+-----+
+Effect Veiler Ultimate 1st [3] - Market Price: $138.84
++-----------------------+-----------------------+---------+-----+
+|         Seller        |       Condition       |  Price  | Qty |
++-----------------------+-----------------------+---------+-----+
+| 99.8% (50,000+ Sales) | Near Mint 1st Edition | $288.77 |  1  |
+|  99.8% (3,363 Sales)  | Near Mint 1st Edition | $288.78 |  2  |
+| 99.8% (50,000+ Sales) | Near Mint 1st Edition | $289.93 |  1  |
+|    100% (30 Sales)    | Near Mint 1st Edition | $295.67 |  3  |
+| 99.7% (50,000+ Sales) | Near Mint 1st Edition | $349.99 |  1  |
+|   100% (4,407 Sales)  | Near Mint 1st Edition | $350.00 |  3  |
+|   100% (1,134 Sales)  | Near Mint 1st Edition | $355.01 |  1  |
+|    100% (723 Sales)   | Near Mint 1st Edition | $399.99 |  3  |
++-----------------------+-----------------------+---------+-----+
+Pot of Avarice Ultimate 1st 2 german 1 english [2] - Market Price: $165.0
++----------------------+-----------------------+---------+-----+
+|        Seller        |       Condition       |  Price  | Qty |
++----------------------+-----------------------+---------+-----+
+|  s 99% (438 Sales)   | Near Mint 1st Edition | $190.00 |  3  |
+|  97.5% (351 Sales)   | Near Mint 1st Edition | $187.97 |  1  |
+|  s 98% (761 Sales)   | Near Mint 1st Edition | $230.00 |  1  |
+| 100% (50,000+ Sales) | Near Mint 1st Edition | $247.97 |  1  |
+|  100% (2,083 Sales)  | Near Mint 1st Edition | $299.99 |  1  |
+|  100% (1,134 Sales)  | Near Mint 1st Edition | $299.99 |  1  |
++----------------------+-----------------------+---------+-----+
+solem warning ultimate 1st [3] - Market Price: $59.73
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+| 99.7% (50,000+ Sales) | Near Mint 1st | $125.97 |  4  |
+| 99.9% (10,000+ Sales) | Near Mint 1st | $125.98 |  2  |
+|    100% (50 Sales)    | Near Mint 1st | $125.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $132.60 |  11 |
+|    100% (30 Sales)    | Near Mint 1st | $133.13 |  1  |
+|   s 99% (438 Sales)   | Near Mint 1st | $135.00 |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $139.99 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $139.99 |  2  |
+|  100% (50,000+ Sales) | Near Mint 1st | $139.99 |  1  |
+|  99.7% (4,491 Sales)  | Near Mint 1st | $146.79 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $149.95 |  2  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $149.99 |  1  |
+|    100% (714 Sales)   | Near Mint 1st | $189.59 |  1  |
+|    100% (228 Sales)   | Near Mint 1st | $199.99 |  1  |
++-----------------------+---------------+---------+-----+
