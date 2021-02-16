@@ -14109,3 +14109,47 @@
 |                 Fiendish Chain                 |  1.21  |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2021-02-15
++------------------------------------------------+--------+
+|                      Card                      | Price  |
++------------------------------------------------+--------+
+|               metamorphosis cp1                | 494.87 |
+|                Book of moon cp1                | 485.37 |
+|                Maxx c ultimate                 | 408.61 |
+|             magician of faith cp2              | 407.98 |
+|             Dark Armed Dragon TU6              | 401.66 |
+|     Trishula, Dragon of the Ice Barrier DT     | 371.98 |
+|              Judgment Dragon TU1               | 303.32 |
+|           Stardust Dragon Ghost 1st            | 282.68 |
+|           Stardust Dragon Ghost Unl            | 282.68 |
+|               trap dustshoot cp5               | 268.98 |
+|               spirit reaper cp3                | 259.95 |
+|                   lumina cp8                   | 220.0  |
+|              tour guide ultimate               | 211.18 |
+|              night assailant cp1               | 192.1  |
+|          black rose dragon Ghost 1st           | 190.24 |
+|          black rose dragon Ghost Unl           | 190.24 |
+| Pot of Avarice Ultimate 1st 2 german 1 english | 165.0  |
+|                 Chaos Sorc TU2                 | 143.72 |
+|           Effect Veiler Ultimate 1st           | 138.84 |
+|         ancient fairy dragon Ghost 1st         | 117.69 |
+|         ancient fairy dragon Ghost Unl         | 117.69 |
+|                  lonefire cp7                  | 97.99  |
+|                TK Raioh UTR TU8                | 90.38  |
+|                honest ghost 1st                | 83.34  |
+|                 Tragoedia TU4                  | 77.97  |
+|                   Caius TU3                    | 67.84  |
+|           solem warning ultimate 1st           | 61.65  |
+|                snipe hunter cp3                | 51.83  |
+|              smashing ground cp2               | 48.07  |
+|                   Sangan TU6                   | 36.27  |
+|                  Catastor TU7                  | 28.94  |
+|              Colossal Fighter TU5              | 28.22  |
+|                  Doomcal TU1                   |  22.1  |
+|                   Garoth TU1                   | 20.74  |
+|             Quickdraw Synchron TU6             | 20.03  |
+|                Book of Moon TU7                | 15.24  |
+|                 Dark Hole TU5                  | 12.86  |
+|              Beckoning Light TU2               |  8.22  |
+|                      test                      |   0    |
++------------------------------------------------+--------+

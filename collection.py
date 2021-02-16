@@ -4,8 +4,8 @@ import yaml
 class Collection:
 
     def __init__(self):
-        # with open('decks/10-buylist.yaml', 'r') as stream:
-        with open('decks/card_list.yaml', 'r') as stream:
+        with open('decks/10-buylist.yaml', 'r') as stream:
+        # with open('decks/card_list.yaml', 'r') as stream:
             try:
                 yaml_data = yaml.safe_load(stream)
                 card_list = list()
