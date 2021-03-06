@@ -50,6 +50,16 @@ honest ghost 1st:
 
 # Champion Pack Supers
 
+Morphing Jar ultra TP2:
+  url: 'https://shop.tcgplayer.com/yugioh/tournament-pack-2/morphing-jar'
+  edition: 'Near Mint'
+  qty: 1
+
+Morphing Jar Super TP4:
+  url: 'https://shop.tcgplayer.com/yugioh/tournament-pack-4/morphing-jar'
+  edition: 'Near Mint'
+  qty: 1
+
 Book of moon cp1:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/book-of-moon?xid=pi01641f10-336e-419f-945e-8b1285337e14'
   edition: 'Near Mint'
@@ -70,8 +80,13 @@ magician of faith cp2:
   edition: 'Near Mint'
   qty: 2
 
+magical merchant cp2:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-5/magical-merchant'
+  edition: 'Near Mint'
+  qty: 2
+
 smashing ground cp2:
-  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground?xid=pie098c7cd-8853-4037-8ea6-5d7a28993bb1'
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground'
   edition: 'Near Mint'
   qty: 1
 
@@ -85,15 +100,71 @@ snipe hunter cp3:
   edition: 'Near Mint'
   qty: 1
 
+Tribe infecting MFC 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/tribe-infecting-virus'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Breaker TP7 super:
+  url: 'https://shop.tcgplayer.com/yugioh/tournament-pack-7/breaker-the-magical-warrior'
+  edition: 'Near Mint'
+  qty: 2
+
+Exarion Universe DR4:
+  url: 'https://shop.tcgplayer.com/yugioh/dark-revelation-volume-4/exarion-universe?xid=pi81e4bf5b-f5c5-4b07-8623-f4e6a479313f'
+  edition: 'Near Mint'
+  qty: 2
+
+Airknight LOD 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/legacy-of-darkness/airknight-parshath?xid=pi4b5013c4-2513-4726-99cb-173b1abaa8f2'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+DD assailant secret:
+  url: 'https://shop.tcgplayer.com/yugioh/dark-revelation-volume-4/dd-assailant?xid=pi5fee8345-c715-490f-9faa-a3d369739534'
+  edition: 'Near Mint'
+  qty: 1
+
+Jinzo PSV 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/jinzo?xid=pi43a5aeb2-0b18-41f8-8cea-02a634e314db'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dekoichi UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/rise-of-destiny/dekoichi-the-battlechanted-locomotive-utr?xid=pi001839cd-876c-44dc-86db-f7b53b0f83d8'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Nobleman of Crossout 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/nobleman-of-crossout?xid=pie7c7bd1f-4e49-4459-aea5-32c310796456'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+DMOC 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/dark-magician-of-chaos?xid=pib4492340-9e52-4442-be16-0f4ec3f0e638'
+  edition: 'Near Mint 1st'
+  qty: 1
+
 #bottomless cp4:
 #  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole'
 #  edition: 'Near Mint'
-#  qty: 3
+#  qty: 2
 
 trap dustshoot cp5:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-5/trap-dustshoot'
   edition: 'Near Mint'
   qty: 3
+
+Call of the Haunted 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/call-of-the-haunted?xid=pi5cb81ec4-9b3c-45c0-b170-c45035a3208c'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Sakuretsu Super:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/sakuretsu-armor?xid=pi89ec8130-6ce0-4a5e-a696-9deda27eb073'
+  edition: 'Near Mint'
+  qty: 2
+
 
 lonefire cp7:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-7/lonefire-blossom'
@@ -122,15 +193,65 @@ Garoth TU1:
   edition: 'Near Mint'
   qty: 1
 
+Celestia UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/celestia-lightsworn-angel-utr'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Lyla UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/lyla-lightsworn-sorceress-utr'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Wulf LODT 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/wulf-lightsworn-beast'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Ehren secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/ehren-lightsworn-monk'
+  edition: 'Near Mint 1st'
+  qty: 1
+
 Chaos Sorc TU2:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/chaos-sorcerer'
   edition: 'Near Mint'
+  qty: 4
+
+Necro gardna UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/necro-gardna-utr'
+  edition: 'Near Mint 1st'
   qty: 3
 
+Plague UTR 1st EN:
+  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/plaguespreader-zombie-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
 Beckoning Light TU2:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/beckoning-light?xid=piadd1bcca-601c-4a94-aba6-c91e586afa82'
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/beckoning-light'
   edition: 'Near Mint'
   qty: 3
+
+Charge of light brigade 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/charge-of-the-light-brigade'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+solar recharge utr 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/solar-recharge-utr'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+allure utr 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+heavy storm mrd 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/heavy-storm'
+  edition: 'Near Mint 1st'
+  qty: 2
 
 Caius TU3:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-three/caius-the-shadow-monarch'
@@ -147,9 +268,9 @@ Colossal Fighter TU5:
   edition: 'Near Mint'
   qty: 3
 
-Dark Hole TU5:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-five/dark-hole?xid=pi7970ee30-3425-437a-a446-3e631a49e794'
-  edition: 'Near Mint'
+Dark Hole LOB 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/dark-hole'
+  edition: 'Near Mint 1st'
   qty: 1
 
 Dark Armed Dragon TU6:
@@ -157,10 +278,10 @@ Dark Armed Dragon TU6:
   edition: 'Near Mint'
   qty: 6
 
-Sangan TU6:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/sangan'
+Sangan RP01:
+  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-1/sangan'
   edition: 'Near Mint'
-  qty: 3
+  qty: 2
 
 Quickdraw Synchron TU6:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/quickdraw-synchron?xid=pi41d5d724-0348-48d0-ba3c-0397407be28a'
@@ -169,11 +290,6 @@ Quickdraw Synchron TU6:
 
 Catastor TU7:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-seven/ally-of-justice-catastor'
-  edition: 'Near Mint'
-  qty: 1
-
-Book of Moon TU7:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-seven/book-of-moon'
   edition: 'Near Mint'
   qty: 1
 
@@ -187,7 +303,7 @@ Effect Veiler Ultimate 1st:
   edition: 'Near Mint 1st Edition'
   qty: 3
 
-Pot of Avarice Ultimate 1st 2 german 1 english:
+Pot of Avarice Ultimate 1st english:
   url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/pot-of-avarice-utr'
   edition: 'Near Mint 1st Edition'
   qty: 2
@@ -196,6 +312,56 @@ solem warning ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/solemn-warning-utr'
   edition: 'Near Mint 1st'
   qty: 3
+
+Cyber Dragon Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/cyber-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Monster Reborn LOB 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/monster-reborn'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Scapegoat Retropack EN:
+  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-1/scapegoat'
+  edition: 'Near Mint'
+  qty: 2
+
+Mystical space typhoon MST MRL 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/mystical-space-typhoon'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Scrap Dragon UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/scrap-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Leviathan Ghost 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/generation-force/number-17-leviathan-dragon-ghost-rare'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Leviair UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/generation-force/leviair-the-sea-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Steelswarm Roach 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/generation-force/steelswarm-roach'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Mirror Force MRD 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/mirror-force'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Utopia Ray Ghost 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/number-c39-utopia-ray-ghost-rare'
+  edition: 'Near Mint 1st'
+  qty: 1
 
 # My Favorite Cards
 #  1 Trishula DT

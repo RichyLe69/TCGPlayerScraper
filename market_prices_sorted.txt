@@ -15820,3 +15820,78 @@
 |            tempest Ultimate 1st ger            |  0.0   |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2021-03-05
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|       Cyber Dragon Ultimate 1st        | 844.49 |
+|            Book of moon cp1            | 534.49 |
+|           metamorphosis cp1            | 494.87 |
+|          DD assailant secret           | 437.44 |
+|            Maxx c ultimate             | 412.69 |
+|         magician of faith cp2          | 407.98 |
+|         Dark Armed Dragon TU6          | 400.0  |
+| Trishula, Dragon of the Ice Barrier DT | 354.17 |
+|          Exarion Universe DR4          | 349.5  |
+|          Judgment Dragon TU1           | 307.22 |
+|       Stardust Dragon Ghost 1st        | 300.71 |
+|       Stardust Dragon Ghost Unl        | 300.71 |
+|           trap dustshoot cp5           | 262.98 |
+|           spirit reaper cp3            | 259.95 |
+|           Breaker TP7 super            | 231.26 |
+|               lumina cp8               | 213.89 |
+|          tour guide ultimate           | 213.73 |
+|         Morphing Jar Super TP4         | 210.09 |
+|            Sakuretsu Super             | 197.17 |
+|      black rose dragon Ghost 1st       | 192.81 |
+|      black rose dragon Ghost Unl       | 192.81 |
+|          night assailant cp1           | 192.1  |
+|             Chaos Sorc TU2             | 173.5  |
+|  Pot of Avarice Ultimate 1st english   | 165.0  |
+|       Effect Veiler Ultimate 1st       | 134.8  |
+|          magical merchant cp2          | 129.0  |
+|     ancient fairy dragon Ghost 1st     | 123.07 |
+|     ancient fairy dragon Ghost Unl     | 123.07 |
+|             allure utr 1st             | 119.0  |
+|              lonefire cp7              | 97.99  |
+|            TK Raioh UTR TU8            |  90.8  |
+|            honest ghost 1st            | 88.54  |
+|             Tragoedia TU4              | 77.31  |
+|               Caius TU3                | 72.63  |
+|       solem warning ultimate 1st       | 64.85  |
+|            snipe hunter cp3            | 64.41  |
+|          smashing ground cp2           |  55.8  |
+|             Jinzo PSV 1st              | 49.37  |
+|      Charge of light brigade 1st       | 47.04  |
+|         solar recharge utr 1st         | 46.15  |
+|            Leviair UTR 1st             | 41.46  |
+|            Dekoichi UTR 1st            | 41.43  |
+|          Leviathan Ghost 1st           | 35.42  |
+|           Plague UTR 1st EN            | 29.68  |
+|          Colossal Fighter TU5          | 28.29  |
+|          Utopia Ray Ghost 1st          | 27.04  |
+|              Catastor TU7              |  27.0  |
+|              Lyla UTR 1st              | 25.26  |
+|         Monster Reborn LOB 1st         |  24.6  |
+|                DMOC 1st                | 23.85  |
+|              Doomcal TU1               |  22.4  |
+|           Airknight LOD 1st            | 21.12  |
+|               Garoth TU1               | 20.74  |
+|         Quickdraw Synchron TU6         | 19.81  |
+|          Mirror Force MRD 1st          | 19.37  |
+|          Scrap Dragon UTR 1st          | 18.01  |
+|          Necro gardna UTR 1st          | 14.48  |
+|            Celestia UTR 1st            | 12.05  |
+|   Mystical space typhoon MST MRL 1st   |  10.8  |
+|          Steelswarm Roach 1st          | 10.71  |
+|        Tribe infecting MFC 1st         |  9.94  |
+|            Ehren secret 1st            |  8.8   |
+|          Beckoning Light TU2           |  7.94  |
+|        Call of the Haunted 1st         |  7.48  |
+|        Nobleman of Crossout 1st        |  5.82  |
+|          heavy storm mrd 1st           |  3.92  |
+|           Dark Hole LOB 1st            |  2.64  |
+|             Wulf LODT 1st              |  2.24  |
+|         Morphing Jar ultra TP2         |   0    |
+|                  test                  |   0    |
++----------------------------------------+--------+
