@@ -11,3 +11,4 @@ if __name__ == "__main__":
 # TODO
 # get extra info on condition? search after ')' and up to 'Near Mint' index. only good for foreign w/ pics
 # split card_list.yaml into their respective decks, put all
+# Update buylist with new stuff
