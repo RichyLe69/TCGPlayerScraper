@@ -17785,3 +17785,77 @@
 |         Morphing Jar ultra TP2         |   0    |
 |                  test                  |   0    |
 +----------------------------------------+--------+
+2021-03-22
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|           metamorphosis cp1            | 626.49 |
+|            Book of moon cp1            | 534.49 |
+|            Maxx c ultimate             | 436.23 |
+|       Cyber Dragon Ultimate 1st        | 400.0  |
+|         magician of faith cp2          | 399.98 |
+|         Dark Armed Dragon TU6          | 399.5  |
+| Trishula, Dragon of the Ice Barrier DT | 346.8  |
+|          Exarion Universe DR4          | 337.23 |
+|       Stardust Dragon Ghost 1st        | 331.66 |
+|       Stardust Dragon Ghost Unl        | 331.66 |
+|          Judgment Dragon TU1           | 313.1  |
+|           trap dustshoot cp5           | 262.98 |
+|               lumina cp8               | 259.99 |
+|           spirit reaper cp3            | 259.95 |
+|           Breaker TP7 super            | 238.64 |
+|            Sakuretsu Super             | 215.59 |
+|          tour guide ultimate           | 211.93 |
+|         Morphing Jar Super TP4         | 210.09 |
+|      black rose dragon Ghost 1st       | 206.74 |
+|      black rose dragon Ghost Unl       | 206.74 |
+|          night assailant cp1           | 192.1  |
+|          magical merchant cp2          | 187.7  |
+|             Chaos Sorc TU2             | 182.42 |
+|  Pot of Avarice Ultimate 1st english   | 165.0  |
+|       Effect Veiler Ultimate 1st       | 133.79 |
+|     ancient fairy dragon Ghost 1st     | 123.93 |
+|     ancient fairy dragon Ghost Unl     | 123.93 |
+|             allure utr 1st             | 117.69 |
+|            TK Raioh UTR TU8            | 101.75 |
+|              lonefire cp7              | 97.99  |
+|            honest ghost 1st            | 88.54  |
+|               Caius TU3                | 85.56  |
+|             Tragoedia TU4              | 74.65  |
+|            snipe hunter cp3            | 70.91  |
+|       solem warning ultimate 1st       | 68.37  |
+|          smashing ground cp2           | 57.08  |
+|             Jinzo PSV 1st              | 47.75  |
+|      Charge of light brigade 1st       |  44.3  |
+|         solar recharge utr 1st         | 42.37  |
+|            Dekoichi UTR 1st            | 41.43  |
+|            Leviair UTR 1st             | 41.43  |
+|          Leviathan Ghost 1st           | 37.04  |
+|                DMOC 1st                | 34.76  |
+|          Colossal Fighter TU5          | 29.37  |
+|              Catastor TU7              | 29.35  |
+|          Utopia Ray Ghost 1st          | 25.99  |
+|           Plague UTR 1st EN            | 25.79  |
+|              Lyla UTR 1st              | 25.52  |
+|         Monster Reborn LOB 1st         |  24.6  |
+|              Doomcal TU1               |  23.1  |
+|               Garoth TU1               | 20.67  |
+|           Airknight LOD 1st            | 20.21  |
+|          Mirror Force MRD 1st          | 19.37  |
+|         Quickdraw Synchron TU6         |  19.2  |
+|          Scrap Dragon UTR 1st          | 17.87  |
+|          Necro gardna UTR 1st          | 14.65  |
+|            Celestia UTR 1st            | 13.03  |
+|   Mystical space typhoon MST MRL 1st   | 11.95  |
+|          Steelswarm Roach 1st          | 11.39  |
+|        Tribe infecting MFC 1st         | 10.41  |
+|            Ehren secret 1st            |  9.18  |
+|          Beckoning Light TU2           |  7.94  |
+|        Call of the Haunted 1st         |  7.69  |
+|        Nobleman of Crossout 1st        |  5.77  |
+|          heavy storm mrd 1st           |  3.71  |
+|           Dark Hole LOB 1st            |  3.68  |
+|             Wulf LODT 1st              |  2.42  |
+|         Morphing Jar ultra TP2         |   0    |
+|                  test                  |   0    |
++----------------------------------------+--------+
