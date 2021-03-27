@@ -125,26 +125,27 @@ def scrape_website(collection_data_yaml):
         market_price_total += (text_only[1] * card_quantity)
         lowest_listed_price_total += lowest_listed_price * card_quantity
         timer = 7
-        # making new yaml w/ market price for calculations
-        market_price_yaml_generator(card, text_only[1])
+        # making new yaml w/ market & lowest price for calculations and sorting
+        price_yaml_generator(card, lowest_listed_price, 'lowest_prices.yaml')
+        price_yaml_generator(card, text_only[1], 'market_prices.yaml')
     print('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     print('Sum of Lowest listings: ${:,.2f}'.format(lowest_listed_price_total))
     return 'Scrape End'
 
 
-def market_price_yaml_generator(card_name, market_price):
-    with open('market_prices.yaml', 'r') as stream:
+def price_yaml_generator(card_name, market_price, yaml_name):
+    with open(yaml_name, 'r') as stream:
         current_yaml = yaml.load(stream)
         current_yaml.update({card_name: market_price})
 
-    with open('market_prices.yaml', 'w') as stream:
+    with open(yaml_name, 'w') as stream:
         yaml.safe_dump(current_yaml, stream)
 
     return 0
 
 
-def sort_market_prices():
-    with open('market_prices.yaml', 'r') as stream:
+def sort_market_prices(yaml_name):
+    with open(yaml_name, 'r') as stream:
         try:
             yaml_data = yaml.safe_load(stream)
             card_list = list()
@@ -162,14 +163,19 @@ def sort_market_prices():
     for card in prices_sorted:
         my_table.add_row([card, prices_sorted[card]])
 
-    with open('market_prices_sorted.txt', 'a') as myfile:
+    sorted_yaml = yaml_name.replace('.yaml', '') + '_sorted.txt'
+    with open(sorted_yaml, 'a') as myfile:
         current_date = str(datetime.date(datetime.now()))
         myfile.write(str(current_date) + '\n')
         myfile.write(str(my_table) + '\n')
 
     # delete contents of market_prices.yaml
-    test_dict = {'test': 0}
-    with open('market_prices.yaml', 'w') as stream:
-        yaml.safe_dump(test_dict, stream)
+    delete_yaml_contents(yaml_name)
 
     return 0
+
+
+def delete_yaml_contents(yaml_name):
+    test_dict = {'test': 0}
+    with open(yaml_name, 'w') as stream:
+        yaml.safe_dump(test_dict, stream)
