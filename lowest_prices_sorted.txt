@@ -524,3 +524,77 @@
 |                 Utopia Ray UTR                 |  0.85  |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2021-03-27
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|             Jinzo PSV 1st              | 5000.0 |
+|         Morphing Jar ultra TP2         | 2999.9 |
+|       Stardust Dragon Ghost 1st        | 1999.9 |
+|      black rose dragon Ghost 1st       | 1500.0 |
+|           metamorphosis cp1            | 1499.9 |
+|       Cyber Dragon Ultimate 1st        | 1049.9 |
+|             Chaos Sorc TU2             | 999.99 |
+|         Monster Reborn LOB 1st         | 999.99 |
+|          DD assailant secret           | 999.0  |
+|            Book of moon cp1            | 900.0  |
+|            Maxx c ultimate             | 750.0  |
+|         magician of faith cp2          | 699.98 |
+|     ancient fairy dragon Ghost 1st     | 620.01 |
+|       Stardust Dragon Ghost Unl        | 499.0  |
+|          night assailant cp1           | 498.99 |
+|          Judgment Dragon TU1           | 449.99 |
+|          Mirror Force MRD 1st          | 449.99 |
+|         Dark Armed Dragon TU6          | 410.0  |
+|            Celestia UTR 1st            | 400.0  |
+|            honest ghost 1st            | 370.0  |
+|      black rose dragon Ghost Unl       | 349.99 |
+|          Exarion Universe DR4          | 324.95 |
+| Trishula, Dragon of the Ice Barrier DT | 318.0  |
+|             allure utr 1st             | 300.0  |
+|          heavy storm mrd 1st           | 300.0  |
+|               Caius TU3                | 294.99 |
+|           trap dustshoot cp5           | 286.93 |
+|          tour guide ultimate           | 280.0  |
+|         Morphing Jar Super TP4         | 275.0  |
+|       Effect Veiler Ultimate 1st       | 270.0  |
+|           spirit reaper cp3            | 259.99 |
+|           Breaker TP7 super            | 258.45 |
+|  Pot of Avarice Ultimate 1st english   | 245.0  |
+|      Charge of light brigade 1st       | 220.0  |
+|               lumina cp8               | 200.0  |
+|           Dark Hole LOB 1st            | 199.0  |
+|           Plague UTR 1st EN            | 182.21 |
+|          magical merchant cp2          | 178.95 |
+|            TK Raioh UTR TU8            | 168.95 |
+|          smashing ground cp2           | 149.99 |
+|       solem warning ultimate 1st       | 133.13 |
+|              lonefire cp7              | 125.0  |
+|            Dekoichi UTR 1st            | 120.0  |
+|     ancient fairy dragon Ghost Unl     | 119.99 |
+|              Lyla UTR 1st              | 100.0  |
+|        Call of the Haunted 1st         | 99.99  |
+|         solar recharge utr 1st         |  99.5  |
+|   Mystical space typhoon MST MRL 1st   | 87.95  |
+|          Leviathan Ghost 1st           | 79.96  |
+|              Catastor TU7              |  79.0  |
+|          Scrap Dragon UTR 1st          | 74.99  |
+|             Tragoedia TU4              | 73.99  |
+|        Tribe infecting MFC 1st         | 68.95  |
+|            snipe hunter cp3            |  68.8  |
+|            Leviair UTR 1st             |  60.0  |
+|           Airknight LOD 1st            |  55.0  |
+|          Utopia Ray Ghost 1st          |  49.0  |
+|              Doomcal TU1               |  40.0  |
+|          Colossal Fighter TU5          | 39.99  |
+|          Necro gardna UTR 1st          | 36.77  |
+|                DMOC 1st                | 30.99  |
+|        Nobleman of Crossout 1st        | 30.99  |
+|          Steelswarm Roach 1st          | 27.99  |
+|         Quickdraw Synchron TU6         | 24.99  |
+|               Garoth TU1               | 20.25  |
+|            Ehren secret 1st            |  8.99  |
+|             Wulf LODT 1st              |  8.99  |
+|          Beckoning Light TU2           |  7.0   |
+|                  test                  |   0    |
++----------------------------------------+--------+
