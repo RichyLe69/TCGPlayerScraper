@@ -179,3 +179,8 @@ def delete_yaml_contents(yaml_name):
     test_dict = {'test': 0}
     with open(yaml_name, 'w') as stream:
         yaml.safe_dump(test_dict, stream)
+
+
+def timer_check(clock):
+    print(clock)
+    print(datetime.time(datetime.now()))
