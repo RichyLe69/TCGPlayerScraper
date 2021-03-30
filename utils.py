@@ -11,7 +11,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
 
 
-
 def get_seller_stats(text_only, match):
     rep_index = text_only.rfind('%', 0, match.end()) - 4
     rep_index2 = text_only.find(')', rep_index) + 1
@@ -67,17 +66,22 @@ def get_market_price(input_html):
     return market_price
 
 
-def output_to_txt(card_name, table, market_price, card_quantity):
+# Find a way to put 'collection.yaml' into this file string
+def output_to_txt(card_name, table, market_price, card_quantity, name):
     current_date = str(datetime.date(datetime.now()))
-    with open('full_listings/' + current_date + '.txt', 'a') as myfile:
-        myfile.write('{0} [{1}] - Market Price: ${2}\n'.format(card_name, card_quantity, market_price))
-        myfile.write(str(table) + '\n')
+    yaml_name = name + '-' + current_date + '.txt'
+    file_path = 'full_listings/' + yaml_name
+    with open(file_path, 'a') as my_file:
+        my_file.write('{0} [{1}] - Market Price: ${2}\n'.format(card_name, card_quantity, market_price))
+        my_file.write(str(table) + '\n')
 
 
-def scrape_website(collection_data_yaml):
+def scrape_website(collection_data_yaml, name):
+    start = time.time()
     browser = webdriver.Chrome(executable_path=r'C:\Users\Richard Le\IdeaProjects\TCGPlayerScraper\chromedriver.exe')
     market_price_total = 0
     lowest_listed_price_total = 0
+    lowest_listed_price = 0
     first = True
     timer = 9
     for card in collection_data_yaml:
@@ -90,7 +94,8 @@ def scrape_website(collection_data_yaml):
             time.sleep(timer)  # wait for page to finish loading (only for 1st time, to select settings)
             first = False
 
-        viewing_present = WebDriverWait(browser, 7).until(EC.presence_of_element_located((By.CLASS_NAME, 'sort-toolbar__total-item-count')))
+        viewing_present = WebDriverWait(browser, 7).until(
+            EC.presence_of_element_located((By.CLASS_NAME, 'sort-toolbar__total-item-count')))
         # print(viewing_present)
         try:
             viewing_present = WebDriverWait(browser, 7).until(EC.presence_of_element_located((By.ID, 'priceTable')))
@@ -121,7 +126,7 @@ def scrape_website(collection_data_yaml):
                               '${:,.2f}'.format(get_price(text_only[0], m)),  # convert raw value to string dollar
                               get_quantity(text_only[0], m)])
 
-        output_to_txt(card, my_table, text_only[1], card_quantity)
+        output_to_txt(card, my_table, text_only[1], card_quantity, name)
         market_price_total += (text_only[1] * card_quantity)
         lowest_listed_price_total += lowest_listed_price * card_quantity
         timer = 7
@@ -130,6 +135,8 @@ def scrape_website(collection_data_yaml):
         price_yaml_generator(card, text_only[1], 'market_prices.yaml')
     print('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     print('Sum of Lowest listings: ${:,.2f}'.format(lowest_listed_price_total))
+    done = time.time()
+    print(done-start)
     return 'Scrape End'
 
 
@@ -164,10 +171,10 @@ def sort_market_prices(yaml_name):
         my_table.add_row([card, prices_sorted[card]])
 
     sorted_yaml = yaml_name.replace('.yaml', '') + '_sorted.txt'
-    with open(sorted_yaml, 'a') as myfile:
+    with open(sorted_yaml, 'a') as my_file:
         current_date = str(datetime.date(datetime.now()))
-        myfile.write(str(current_date) + '\n')
-        myfile.write(str(my_table) + '\n')
+        my_file.write(str(current_date) + '\n')
+        my_file.write(str(my_table) + '\n')
 
     # delete contents of market_prices.yaml
     delete_yaml_contents(yaml_name)
