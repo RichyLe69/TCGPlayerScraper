@@ -8,6 +8,7 @@ import yaml
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait as wait
 from selenium import webdriver
 
 
@@ -83,7 +84,7 @@ def scrape_website(collection_data_yaml, name):
     lowest_listed_price_total = 0
     lowest_listed_price = 0
     first = True
-    timer = 9
+    timer = 3
     for card in collection_data_yaml:
         url = collection_data_yaml[card]['url']
         condition_edition = collection_data_yaml[card]['edition']
@@ -92,13 +93,21 @@ def scrape_website(collection_data_yaml, name):
         browser.get(url)
         if first:
             time.sleep(timer)  # wait for page to finish loading (only for 1st time, to select settings)
+            browser.find_element_by_xpath("(//ancestor::a[@class='filter-facet__link'])[position()=6]").click() # Hard coded click on "Listings Without Photos" - 6th Box down
+            time.sleep(timer)
+            browser.find_element_by_xpath("(//ancestor::a[@class='filter-facet__link'])[position()=7]").click() # Hard coded click on "Near Mint" - 7th Box down
+            time.sleep(timer)
+            browser.find_element_by_xpath("(//ancestor::select[@class='sort-toolbar__select form-control'])[2]").click()
+            time.sleep(timer)
+            browser.find_element_by_xpath("//ancestor::option[@value='50']").click()
+            time.sleep(timer)  # wait for page to finish loading (only for 1st time, to select settings)
             first = False
-
-        viewing_present = WebDriverWait(browser, 7).until(
+        timer = 7
+        viewing_present = WebDriverWait(browser, timer).until(
             EC.presence_of_element_located((By.CLASS_NAME, 'sort-toolbar__total-item-count')))
         # print(viewing_present)
         try:
-            viewing_present = WebDriverWait(browser, 7).until(EC.presence_of_element_located((By.ID, 'priceTable')))
+            viewing_present = WebDriverWait(browser, timer).until(EC.presence_of_element_located((By.ID, 'priceTable')))
             # print('price table found')
             no_table = False
         except:
@@ -129,14 +138,14 @@ def scrape_website(collection_data_yaml, name):
         output_to_txt(card, my_table, text_only[1], card_quantity, name)
         market_price_total += (text_only[1] * card_quantity)
         lowest_listed_price_total += lowest_listed_price * card_quantity
-        timer = 7
+
         # making new yaml w/ market & lowest price for calculations and sorting
         price_yaml_generator(card, lowest_listed_price, 'lowest_prices.yaml')
         price_yaml_generator(card, text_only[1], 'market_prices.yaml')
     print('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     print('Sum of Lowest listings: ${:,.2f}'.format(lowest_listed_price_total))
     done = time.time()
-    print(done-start)
+    print('Timer: ' + done-start)
     return 'Scrape End'
 
 

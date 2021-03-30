@@ -9,12 +9,8 @@ if __name__ == "__main__":
     sort_market_prices('market_prices.yaml')
     sort_market_prices('lowest_prices.yaml')
 
-
-
 # TODO
-# somehow click 50 quantity, near mint, listings without photos
-# somehow incorporate 'collection-' and 'buylist-' into name of file
 # somehow get it synced to a mysql/db
-# somehow get it to run on its own
+# somehow get it to run on its own on cloud
 # reorganize cardlists by my current binder placements
 # Update buylist with new stuff
