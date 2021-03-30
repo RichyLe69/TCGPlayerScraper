@@ -2,7 +2,7 @@ import yaml
 
 # My List of Collections
 # yaml_name = 'decks/buylist.yaml'
-yaml_name = 'decks/card_list.yaml'
+yaml_name = 'decks/collection.yaml'
 # yaml_name = 'decks/new-collection-wip.yaml'
 
 
