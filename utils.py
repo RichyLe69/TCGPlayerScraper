@@ -144,7 +144,7 @@ def scrape_website(collection_data_yaml, name):
     print('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     print('Sum of Lowest listings: ${:,.2f}'.format(lowest_listed_price_total))
     done = time.time()
-    print('Timer: ' + done-start)
+    print(done-start)
     return 'Scrape End'
 
 

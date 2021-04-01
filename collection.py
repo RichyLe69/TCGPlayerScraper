@@ -2,13 +2,13 @@ import yaml
 
 # My List of Collections
 # yaml_name = 'decks/buylist.yaml'
-yaml_name = 'decks/collection.yaml'
-# yaml_name = 'decks/new-collection-wip.yaml'
+
+
 
 
 class Collection:
 
-    def __init__(self):
+    def __init__(self, yaml_name):
         with open(yaml_name, 'r') as stream:
             try:
                 yaml_data = yaml.safe_load(stream)
