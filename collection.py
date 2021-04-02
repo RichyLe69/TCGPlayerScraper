@@ -1,10 +1,5 @@
 import yaml
 
-# My List of Collections
-# yaml_name = 'decks/buylist.yaml'
-
-
-
 
 class Collection:
 

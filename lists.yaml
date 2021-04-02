@@ -1,0 +1,8 @@
+collection:
+  path: 'decks/collection.yaml'
+
+buylist:
+  path: 'decks/buylist.yaml'
+
+new-collection-wip:
+  path: 'decks/new-collection-wip.yaml'
