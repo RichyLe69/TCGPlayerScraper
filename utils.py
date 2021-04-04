@@ -85,13 +85,14 @@ def output_to_txt_console(string):
 
 
 def scrape_website(collection_data_yaml, name):
+    delete_console_txt()
     start = time.time()
     browser = webdriver.Chrome(executable_path=r'C:\Users\Richard Le\IdeaProjects\TCGPlayerScraper\chromedriver.exe')
     market_price_total = 0
     lowest_listed_price_total = 0
     lowest_listed_price = 0
     first = True
-    timer = 3
+    timer = 9
     for card in collection_data_yaml:
         url = collection_data_yaml[card]['url']
         condition_edition = collection_data_yaml[card]['edition']

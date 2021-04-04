@@ -3,8 +3,9 @@ from utils import scrape_website, sort_market_prices, append_console_to_txt
 import time
 
 # My List of Collections
-yaml_name = {'decks/buylist.yaml', 'decks/collection.yaml'}
+yaml_name = { 'decks/collection.yaml'}
 # yaml_name = 'decks/new-collection-wip.yaml'
+# 'decks/buylist.yaml',
 
 if __name__ == "__main__":
 
@@ -17,8 +18,6 @@ if __name__ == "__main__":
         sort_market_prices('lowest_prices.yaml')
         append_console_to_txt(file_path)
         time.sleep(5)
-
-
 
 # TODO
 # then make yaml file of just deck nodes.
