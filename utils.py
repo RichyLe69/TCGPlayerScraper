@@ -92,7 +92,7 @@ def scrape_website(collection_data_yaml, name):
     lowest_listed_price_total = 0
     lowest_listed_price = 0
     first = True
-    timer = 9
+    timer = 5
     for card in collection_data_yaml:
         url = collection_data_yaml[card]['url']
         condition_edition = collection_data_yaml[card]['edition']
