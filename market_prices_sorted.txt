@@ -22850,3 +22850,590 @@
 |                     Utopia                     |  1.06  |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2021-04-09
++------------------------------------------------+--------+
+|                      Card                      | Price  |
++------------------------------------------------+--------+
+|            tempest Ultimate 1st ger            | 699.99 |
+|       shining flame wingman Ultimate ger       | 699.46 |
+|       cyber dark dragon Ultimate german        | 599.99 |
+|               Book of Moon Super               | 534.49 |
+|     shining phnx enforcer Ultimate 1st ita     | 499.9  |
+|         thunder giant Ultimate 1st it          | 479.0  |
+|           Maxx c ultimate 2spa 1eng            | 436.23 |
+|           Dark Armed Dragon Ultimate           | 416.24 |
+|             Dark Paladin 1st Ultra             | 382.49 |
+|           Stardust Dragon Ghost Unl            | 355.46 |
+|     Trishula, Dragon of the Ice Barrier DT     | 349.49 |
+|         phnx enforcer Ultimate 1st ita         | 326.9  |
+|        cyber end dragon Ultimate italy         | 324.99 |
+|         Dark Magician Girl Secret 1st          | 321.87 |
+|         Dark Magician Girl Secret UNL          | 321.87 |
+|            Judgment Dragon Ultimate            | 315.64 |
+|           night assailant super ita            | 294.4  |
+|    Winged kurbio lvl 10 ultimate 1st german    | 279.79 |
+|    trap dustshoot super 2 english 1 german     | 272.76 |
+|              Spirit Reaper Super               | 259.95 |
+|       Lumina, Lightsworn Summoner Super        | 230.0  |
+|          tour guide ultimate italian           | 226.47 |
+|          black rose dragon Ghost Unl           | 207.77 |
+|          Red Eyes Black Metal Dragon           | 195.97 |
+|                  catastor DTP                  | 189.99 |
+|              foolish burial super              | 185.73 |
+|           air neos Ultimate 1st ger            | 182.98 |
+|               Chaos Sorcerer TU                | 182.42 |
+|        neos dolphin ultimate 1st german        | 177.14 |
+|           Blue-Eyes White Dragon LOB           | 175.36 |
+|             dark neos Ultimate ger             | 174.99 |
+| Pot of Avarice Ultimate 1st 2 german 1 english | 169.95 |
+|               trishula ultimate                | 166.06 |
+|             Dark Magician BPT 2002             | 144.5  |
+|             Blue Eyes Toon Dragon              | 140.59 |
+|         bladeedge ultimate 1st italian         | 137.5  |
+|           Effect Veiler Ultimate 1st           | 133.72 |
+|         Red Eyes Black Dragon BPT 2002         | 133.62 |
+|          chimeratech Ultimate german           | 129.99 |
+|         ancient fairy dragon Ghost Unl         | 126.08 |
+|              doom lord rare dr04               | 124.99 |
+|           power bond Ultimate german           | 124.99 |
+|               Obelisk JUMP PrScr               | 120.12 |
+|     cyber twin dragon Ultimate 1st german      | 120.03 |
+|        Allure of darkness Ultimate Unl         | 112.33 |
+|      allure of darkness Ultimate 1st ita       | 112.33 |
+|              EHERO clayman secret              | 111.34 |
+|               tk raioh Ultimate                | 107.06 |
+|               Tsukuyomi Ultimate               | 105.85 |
+|           flame wingman Ultimate 1st           | 100.0  |
+|        Blue Eyes White Dragon BPT 2002         | 99.08  |
+|            Stardust Dragon Ultimate            | 96.03  |
+|           Slifer The Sky Dragon YMA            | 95.79  |
+|        rampart blaster Ultimate 1st ger        | 94.99  |
+|              dd crow Ultimate 1st              | 92.66  |
+|            Dark Magician Girl LCYW             | 92.29  |
+|                  honest ghost                  | 92.03  |
+|        shooting star drag Ultimate 1st         | 89.94  |
+|               EHERO Burst secret               | 88.87  |
+|                  MST ultimate                  | 86.91  |
+|     neos dark panther ultimate 1st german      | 85.48  |
+|               EHERO Spark secret               | 83.25  |
+|         brain control Ultimate 1st ger         | 83.24  |
+|         caius shadow monarch Ultimate          | 81.95  |
+|            B Skull Dragon BPT 2002             | 80.41  |
+|            The Winged Dragon of Ra             | 77.47  |
+|           wild wingman Ultimate 1st            | 74.49  |
+|        tragoedia ultimate 2 ENG 1 italy        | 74.05  |
+|           solem warning ultimate 1st           | 70.12  |
+|          light neos Ultimate 1st ita           | 69.99  |
+|          cyberdark horn Ultimate 1st           | 69.56  |
+|           red nova drag Ultimate 1st           | 66.99  |
+|        miracle fusion Ultimate 1st ger         | 65.25  |
+|         red dragon archfiend Ultimate          |  64.5  |
+|               dandylion Ultimate               | 64.35  |
+|           Pot of Greed Ultimate 1st            | 63.48  |
+|      neos grand mole ultimate 1st german       | 63.23  |
+|             Smashing Ground Super              | 63.03  |
+|           machine dupe Ultimate 1st            |  62.4  |
+|          Thousand Eyes Restrict RP02           | 58.43  |
+|           black rose dragon ultimate           | 58.17  |
+|                Archlord Kristya                | 58.09  |
+|             Tour guide Secret 1st              | 57.08  |
+|            Gate Guardian Secret 1st            | 56.81  |
+|            Gate Guardian Secret Unl            | 56.81  |
+|       Chaos Emperor Dragon Ultimate 1st        | 55.83  |
+|                   brionac DT                   | 55.43  |
+|           cybedark keel Ultimate 1st           | 54.77  |
+|               Maxx c Secret 1st                | 52.83  |
+|      lightning vortex Ultimate 1st french      | 52.77  |
+|               EHERO Avian secret               | 52.68  |
+|            e-tele Ultimate 1st ger             | 52.67  |
+|               Dark Magician LOB                | 51.08  |
+|                  Jinzo Secret                  | 50.83  |
+|      glowup bulb Ultimate 2 eng 1 italian      | 50.46  |
+|          skyscraper Ultimate 1st ger           | 49.99  |
+|        overload fusion Ultimate german         |  49.0  |
+|                  Red Eyes LOB                  | 47.24  |
+|         powertool dragon Ultimate 1st          | 46.52  |
+|               Yata-Garasu Secret               | 46.44  |
+|      Chaos Emperor Dragon EOTE Secret unl      | 45.99  |
+|        Chaos Emperor Dragon Secret 1st         | 45.99  |
+|             debris dragon Ultimate             | 45.22  |
+|       charge of the light brigade secret       | 44.56  |
+|         diamond dude ultimate 1st ger          |  44.5  |
+|            solar recharge Ultimate             | 44.47  |
+|       monster reincarnation Ultimate 1st       | 44.46  |
+|      EHERO bubbleman ultimate 1st german       | 43.72  |
+|    Dark Paladin Ultra Unlimited Reprint Art    | 43.15  |
+|          grand neos Ultimate 1st ger           | 42.26  |
+|              Leviair Ultimate 1st              | 42.18  |
+|              Leviair Ultimate Unl              | 42.18  |
+|      Black Luster Soldier EOTB Secret MC2      | 40.84  |
+|            dark grepher secret 1st             |  40.2  |
+|           neos air bird ultimate 1st           | 39.99  |
+|        phoenix wing windblast Ultimate         | 39.53  |
+|                  Exodia Head                   | 39.28  |
+|             Pot of Duality Scr 1st             | 38.21  |
+|             Dark Magician of Chaos             | 36.76  |
+|      Black Luster Soldier EOTB Ultra 1st       | 36.29  |
+|   Black Luster Soldier EOTB Ultra Unlimited    | 36.29  |
+|         ancient fairy dragon Ultimate          | 35.92  |
+|              Summoned Skull Ultra              |  35.4  |
+|             aqua neos Ultimate 1st             |  34.9  |
+|                sangan ultra tu                 | 34.53  |
+|     neos flare scarab ultimate 1st german      | 34.01  |
+|               catastor ultimate                | 33.08  |
+|          Harpie's Feather Duster SDD           | 31.82  |
+|           colossal fighter Ultimate            | 31.21  |
+|                  lyla utr Unl                  | 31.06  |
+|         crush card virus Ultimate 1st          | 30.98  |
+|             B. Skull Dragon Ultra              | 30.86  |
+|             Cyber Jar Ultimate 1st             | 29.21  |
+|                   TKO Secret                   | 27.81  |
+|             Delinquent Duo MRL 1st             | 27.59  |
+|             Dark Magician Girl RDS             | 27.52  |
+|               Time Wizard Ultra                | 27.44  |
+|          Injection Fairy Lily Secret           | 27.36  |
+|               Gemini Elf Secret                | 25.16  |
+|     plaguespreader zombie Ultimate 1st ita     | 24.73  |
+|       plaguespreader zombie Ultimate unl       | 24.73  |
+|          Monster Reborn Unlimited LOB          | 24.45  |
+|                 Rescue Rabbit                  | 24.22  |
+|                 Laggia UTR 1st                 | 23.65  |
+|           cyber phoenix Ultimate 1st           | 22.97  |
+|         Ring of Destruction Secret 1st         | 22.51  |
+|       Breaker the magical warrior secret       | 22.28  |
+|                  Battle Fader                  | 22.25  |
+|         scrap dragon Ultimate 1st ger          | 21.03  |
+|                Exodia Left Leg                 | 20.33  |
+|                Exodia Left Arm                 | 20.26  |
+|             Buster Blade Ultra 1st             | 19.53  |
+|             Buster Blade Ultra unl             | 19.53  |
+|            Tri Horned Dragon Secret            | 19.42  |
+|               Dolkka Secret 1st                | 19.21  |
+|                Exodia Right Leg                | 19.18  |
+|                Mirror Force MRL                | 19.09  |
+|                  Toon Mermaid                  | 18.72  |
+|                Exodia Right Arm                | 18.49  |
+|        trascend wings Ultimate 1st ger         | 17.85  |
+|          5th hope ultimate 1st german          | 17.83  |
+|             Lava Golem Secret 1st              | 17.53  |
+|            Book of Moon TU07 Ultra             | 17.29  |
+|         skyscraper 2 Ultimate 1st ger          | 16.74  |
+|                Change of Heart                 |  16.6  |
+|        Serpent Night Dragon Secret 1st         | 15.88  |
+|             Torrential Tribute 1st             | 15.73  |
+|          Torrential Tribute Unlimited          | 15.73  |
+|              Toon Summoned Skull               | 15.09  |
+|                   Dark Hole                    | 15.05  |
+|              necro gardna utr Unl              | 14.69  |
+|                Wind Up Zenmaity                | 14.22  |
+|            hero flash ultimate 1st             | 14.03  |
+|    thoughtruler archfiend Ultimate 1st fre     |  14.0  |
+|                XY Dragon Cannon                | 13.71  |
+|           neo space ultimate 1st ger           | 13.71  |
+|                    MST MRL                     | 13.45  |
+|                  Zektkaliber                   | 13.15  |
+|                celestia utr Unl                | 12.97  |
+|                 Drill Warrior                  |  12.7  |
+|              Solemn Judgment 1st               | 12.64  |
+|           Solemn Judgment Unlimited            | 12.64  |
+|                D Hero Malicious                | 12.39  |
+| Formula Synchron ULTRA Advent Calendar GERMAN  | 11.98  |
+|                  Giga Mantis                   | 11.66  |
+|                      Gorz                      | 11.65  |
+|                Leviathan Dragon                | 11.22  |
+|           goyo guardian Ultimate 1st           | 10.73  |
+|                  One For One                   | 10.43  |
+|                  Mind Control                  | 10.39  |
+|                ehren secret Unl                | 10.37  |
+|                   Tytannial                    |  9.87  |
+|                Wind up Zenmaioh                |  9.28  |
+|            Enemy Controller AST 1st            |  8.88  |
+|            Enemy Controller AST unl            |  8.88  |
+|           Call of the Haunted Ultra            |  8.52  |
+|       Wroguthweiler ultimate 1st gewrman       |  8.2   |
+|          hero signal Ultimate 1st ger          |  8.01  |
+|                 Nitro Warrior                  |  7.35  |
+|               Zenmaines Scr 1st                |  7.33  |
+|               XYZ Dragon Cannon                |  6.81  |
+|                   Armory Arm                   |  6.26  |
+|                Hyper Librarian                 |  6.23  |
+|                     Hornet                     |  6.19  |
+|                 Wind up Rabbit                 |  6.18  |
+|                 Utopia Ray UTR                 |  5.85  |
+|         Legendary Fisherman Ultra 1st          |  5.6   |
+|                  Junk Archer                   |  5.5   |
+|         hero barrier Ultimate 1st ger          |  4.83  |
+|                 Turbo Warrior                  |  4.53  |
+|                  Heavy Storm                   |  4.04  |
+|                 Zenmaister UTR                 |  3.25  |
+|                   Acid Golem                   |  2.97  |
+|            mirror gate Ultimate 1st            |  1.91  |
+|                     Utopia                     |  1.11  |
+|                 Fiendish Chain                 |  1.09  |
+|                      test                      |   0    |
++------------------------------------------------+--------+
+2021-04-09
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|           metamorphosis cp1            | 639.75 |
+|            Book of moon cp1            | 534.49 |
+|          DD assailant secret           | 437.44 |
+|            Maxx c ultimate             | 436.23 |
+|         Dark Armed Dragon TU6          | 416.24 |
+|       Cyber Dragon Ultimate 1st        | 400.0  |
+|         magician of faith cp2          | 399.98 |
+|       Stardust Dragon Ghost 1st        | 355.46 |
+|       Stardust Dragon Ghost Unl        | 355.46 |
+| Trishula, Dragon of the Ice Barrier DT | 349.49 |
+|          Exarion Universe DR4          | 337.23 |
+|          Judgment Dragon TU1           | 315.64 |
+|          night assailant cp1           | 294.4  |
+|           trap dustshoot cp5           | 272.76 |
+|           spirit reaper cp3            | 259.95 |
+|               lumina cp8               | 230.0  |
+|          tour guide ultimate           | 226.47 |
+|      black rose dragon Ghost 1st       | 207.77 |
+|      black rose dragon Ghost Unl       | 207.77 |
+|         Morphing Jar Super TP4         | 192.11 |
+|             Chaos Sorc TU2             | 182.42 |
+|          magical merchant cp2          | 179.03 |
+|  Pot of Avarice Ultimate 1st english   | 169.95 |
+|       Effect Veiler Ultimate 1st       | 133.72 |
+|     ancient fairy dragon Ghost 1st     | 126.08 |
+|     ancient fairy dragon Ghost Unl     | 126.08 |
+|             allure utr 1st             | 112.33 |
+|            TK Raioh UTR TU8            | 107.06 |
+|            honest ghost 1st            | 92.03  |
+|               Caius TU3                | 81.95  |
+|             Tragoedia TU4              | 74.05  |
+|            snipe hunter cp3            | 70.91  |
+|       solem warning ultimate 1st       | 70.12  |
+|          smashing ground cp2           | 63.03  |
+|             Jinzo PSV 1st              | 50.83  |
+|      Charge of light brigade 1st       | 44.56  |
+|         solar recharge utr 1st         | 44.47  |
+|            Leviair UTR 1st             | 42.18  |
+|            Dekoichi UTR 1st            | 41.51  |
+|                DMOC 1st                | 36.76  |
+|          Leviathan Ghost 1st           | 36.59  |
+|              Catastor TU7              | 33.08  |
+|          Colossal Fighter TU5          | 31.21  |
+|              Lyla UTR 1st              | 31.06  |
+|              Doomcal TU1               | 26.13  |
+|          Utopia Ray Ghost 1st          | 25.56  |
+|           Plague UTR 1st EN            | 24.73  |
+|         Monster Reborn LOB 1st         | 24.45  |
+|         Quickdraw Synchron TU6         | 21.78  |
+|               Garoth TU1               | 21.22  |
+|          Scrap Dragon UTR 1st          | 21.03  |
+|           Airknight LOD 1st            | 20.01  |
+|          Mirror Force MRD 1st          | 19.09  |
+|          Necro gardna UTR 1st          | 14.69  |
+|        Tribe infecting MFC 1st         | 13.75  |
+|   Mystical space typhoon MST MRL 1st   | 13.45  |
+|            Celestia UTR 1st            | 12.97  |
+|          Steelswarm Roach 1st          | 11.84  |
+|            Ehren secret 1st            | 10.37  |
+|          Beckoning Light TU2           |  8.64  |
+|        Call of the Haunted 1st         |  8.52  |
+|        Nobleman of Crossout 1st        |  6.08  |
+|           Dark Hole LOB 1st            |  4.09  |
+|          heavy storm mrd 1st           |  4.04  |
+|             Wulf LODT 1st              |  2.64  |
+|         Morphing Jar ultra TP2         |   0    |
+|                  test                  |   0    |
++----------------------------------------+--------+
+2021-04-10
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|           metamorphosis cp1            | 639.75 |
+|            Book of moon cp1            | 534.49 |
+|          DD assailant secret           | 437.44 |
+|            Maxx c ultimate             | 436.23 |
+|         Dark Armed Dragon TU6          | 416.24 |
+|       Cyber Dragon Ultimate 1st        | 400.0  |
+|         magician of faith cp2          | 399.98 |
+|       Stardust Dragon Ghost 1st        | 355.46 |
+|       Stardust Dragon Ghost Unl        | 355.46 |
+| Trishula, Dragon of the Ice Barrier DT | 349.49 |
+|          Exarion Universe DR4          | 337.23 |
+|          Judgment Dragon TU1           | 315.64 |
+|           trap dustshoot cp5           | 272.76 |
+|           spirit reaper cp3            | 259.95 |
+|               lumina cp8               | 230.0  |
+|          tour guide ultimate           | 226.47 |
+|      black rose dragon Ghost 1st       | 207.77 |
+|      black rose dragon Ghost Unl       | 207.77 |
+|         Morphing Jar Super TP4         | 192.11 |
+|             Chaos Sorc TU2             | 182.42 |
+|          magical merchant cp2          | 179.03 |
+|  Pot of Avarice Ultimate 1st english   | 169.95 |
+|       Effect Veiler Ultimate 1st       | 133.72 |
+|     ancient fairy dragon Ghost 1st     | 126.08 |
+|     ancient fairy dragon Ghost Unl     | 126.08 |
+|             allure utr 1st             | 112.33 |
+|            TK Raioh UTR TU8            | 107.06 |
+|            honest ghost 1st            | 91.67  |
+|               Caius TU3                | 81.95  |
+|             Tragoedia TU4              | 75.73  |
+|            snipe hunter cp3            | 70.91  |
+|       solem warning ultimate 1st       | 70.12  |
+|          smashing ground cp2           | 63.03  |
+|             Jinzo PSV 1st              | 50.83  |
+|      Charge of light brigade 1st       | 44.56  |
+|         solar recharge utr 1st         | 44.47  |
+|            Leviair UTR 1st             | 42.18  |
+|            Dekoichi UTR 1st            | 41.51  |
+|                DMOC 1st                | 36.76  |
+|          Leviathan Ghost 1st           | 36.59  |
+|              Catastor TU7              | 33.08  |
+|          Colossal Fighter TU5          | 32.71  |
+|              Lyla UTR 1st              | 32.25  |
+|              Doomcal TU1               | 26.13  |
+|          Utopia Ray Ghost 1st          | 25.56  |
+|         Monster Reborn LOB 1st         |  24.9  |
+|           Plague UTR 1st EN            | 24.73  |
+|         Quickdraw Synchron TU6         | 21.78  |
+|               Garoth TU1               | 21.22  |
+|          Scrap Dragon UTR 1st          | 21.03  |
+|           Airknight LOD 1st            | 20.01  |
+|          Mirror Force MRD 1st          | 19.09  |
+|          Necro gardna UTR 1st          | 14.75  |
+|        Tribe infecting MFC 1st         | 14.11  |
+|   Mystical space typhoon MST MRL 1st   | 13.45  |
+|            Celestia UTR 1st            | 12.97  |
+|          Steelswarm Roach 1st          | 11.84  |
+|            Ehren secret 1st            | 10.37  |
+|          Beckoning Light TU2           |  8.64  |
+|        Call of the Haunted 1st         |  8.52  |
+|        Nobleman of Crossout 1st        |  5.94  |
+|           Dark Hole LOB 1st            |  4.09  |
+|          heavy storm mrd 1st           |  3.9   |
+|             Wulf LODT 1st              |  2.64  |
+|         Morphing Jar ultra TP2         |   0    |
+|                  test                  |   0    |
++----------------------------------------+--------+
+2021-04-10
++------------------------------------------------+--------+
+|                      Card                      | Price  |
++------------------------------------------------+--------+
+|            tempest Ultimate 1st ger            | 699.99 |
+|       shining flame wingman Ultimate ger       | 699.46 |
+|       cyber dark dragon Ultimate german        | 599.99 |
+|               Book of Moon Super               | 534.49 |
+|     shining phnx enforcer Ultimate 1st ita     | 499.9  |
+|         thunder giant Ultimate 1st it          | 479.0  |
+|           Maxx c ultimate 2spa 1eng            | 436.23 |
+|           Dark Armed Dragon Ultimate           | 416.24 |
+|             Dark Paladin 1st Ultra             | 382.49 |
+|           Stardust Dragon Ghost Unl            | 355.46 |
+|     Trishula, Dragon of the Ice Barrier DT     | 349.49 |
+|         phnx enforcer Ultimate 1st ita         | 326.9  |
+|        cyber end dragon Ultimate italy         | 324.99 |
+|         Dark Magician Girl Secret 1st          | 321.87 |
+|         Dark Magician Girl Secret UNL          | 321.87 |
+|            Judgment Dragon Ultimate            | 315.64 |
+|    Winged kurbio lvl 10 ultimate 1st german    | 279.79 |
+|    trap dustshoot super 2 english 1 german     | 272.76 |
+|              Spirit Reaper Super               | 259.95 |
+|       Lumina, Lightsworn Summoner Super        | 230.0  |
+|          tour guide ultimate italian           | 226.47 |
+|          black rose dragon Ghost Unl           | 207.77 |
+|          Red Eyes Black Metal Dragon           | 195.97 |
+|                  catastor DTP                  | 189.99 |
+|              foolish burial super              | 185.73 |
+|           air neos Ultimate 1st ger            | 182.98 |
+|               Chaos Sorcerer TU                | 182.42 |
+|        neos dolphin ultimate 1st german        | 177.14 |
+|             dark neos Ultimate ger             | 174.99 |
+| Pot of Avarice Ultimate 1st 2 german 1 english | 169.95 |
+|           Blue-Eyes White Dragon LOB           | 169.77 |
+|               trishula ultimate                | 166.06 |
+|         bladeedge ultimate 1st italian         | 158.16 |
+|             Dark Magician BPT 2002             | 144.5  |
+|               Harpies Pet Dragon               | 142.5  |
+|             Blue Eyes Toon Dragon              | 140.59 |
+|           Effect Veiler Ultimate 1st           | 133.72 |
+|         Red Eyes Black Dragon BPT 2002         | 133.62 |
+|          chimeratech Ultimate german           | 129.99 |
+|         ancient fairy dragon Ghost Unl         | 126.08 |
+|              doom lord rare dr04               | 124.99 |
+|           power bond Ultimate german           | 124.99 |
+|               Obelisk JUMP PrScr               | 120.12 |
+|     cyber twin dragon Ultimate 1st german      | 120.03 |
+|        Allure of darkness Ultimate Unl         | 112.33 |
+|      allure of darkness Ultimate 1st ita       | 112.33 |
+|              EHERO clayman secret              | 111.34 |
+|               tk raioh Ultimate                | 107.06 |
+|               Tsukuyomi Ultimate               | 105.85 |
+|           flame wingman Ultimate 1st           | 100.0  |
+|        Blue Eyes White Dragon BPT 2002         | 99.08  |
+|            Stardust Dragon Ultimate            | 96.03  |
+|           Slifer The Sky Dragon YMA            | 95.79  |
+|        rampart blaster Ultimate 1st ger        | 94.99  |
+|              dd crow Ultimate 1st              | 92.66  |
+|            Dark Magician Girl LCYW             | 92.29  |
+|                  honest ghost                  | 91.67  |
+|        shooting star drag Ultimate 1st         | 89.94  |
+|               EHERO Burst secret               | 88.87  |
+|                  MST ultimate                  | 86.91  |
+|     neos dark panther ultimate 1st german      | 85.48  |
+|               EHERO Spark secret               | 83.34  |
+|         brain control Ultimate 1st ger         | 83.24  |
+|         caius shadow monarch Ultimate          | 81.95  |
+|            B Skull Dragon BPT 2002             | 80.41  |
+|            The Winged Dragon of Ra             | 77.03  |
+|        tragoedia ultimate 2 ENG 1 italy        | 75.73  |
+|           wild wingman Ultimate 1st            | 74.49  |
+|           solem warning ultimate 1st           | 70.12  |
+|          light neos Ultimate 1st ita           | 69.99  |
+|          cyberdark horn Ultimate 1st           | 69.56  |
+|           red nova drag Ultimate 1st           | 66.99  |
+|        miracle fusion Ultimate 1st ger         | 65.25  |
+|           machine dupe Ultimate 1st            | 65.23  |
+|         red dragon archfiend Ultimate          |  64.5  |
+|               dandylion Ultimate               | 64.35  |
+|           Pot of Greed Ultimate 1st            | 63.48  |
+|      neos grand mole ultimate 1st german       | 63.23  |
+|             Smashing Ground Super              | 63.03  |
+|          Thousand Eyes Restrict RP02           | 58.43  |
+|           black rose dragon ultimate           | 58.17  |
+|                Archlord Kristya                | 58.09  |
+|             Tour guide Secret 1st              | 57.08  |
+|            Gate Guardian Secret 1st            | 55.98  |
+|            Gate Guardian Secret Unl            | 55.98  |
+|       Chaos Emperor Dragon Ultimate 1st        | 55.83  |
+|                   brionac DT                   | 55.43  |
+|           cybedark keel Ultimate 1st           | 54.77  |
+|               EHERO Avian secret               | 53.75  |
+|               Maxx c Secret 1st                | 53.63  |
+|      lightning vortex Ultimate 1st french      | 52.77  |
+|            e-tele Ultimate 1st ger             | 52.67  |
+|               Dark Magician LOB                | 51.08  |
+|                  Jinzo Secret                  | 50.83  |
+|      glowup bulb Ultimate 2 eng 1 italian      | 50.46  |
+|          skyscraper Ultimate 1st ger           | 49.99  |
+|        overload fusion Ultimate german         |  49.0  |
+|                  Red Eyes LOB                  | 47.24  |
+|         powertool dragon Ultimate 1st          | 46.52  |
+|               Yata-Garasu Secret               | 46.44  |
+|      Chaos Emperor Dragon EOTE Secret unl      | 45.99  |
+|        Chaos Emperor Dragon Secret 1st         | 45.99  |
+|             debris dragon Ultimate             | 45.22  |
+|         diamond dude ultimate 1st ger          | 44.67  |
+|       charge of the light brigade secret       | 44.56  |
+|            solar recharge Ultimate             | 44.47  |
+|       monster reincarnation Ultimate 1st       | 44.46  |
+|      EHERO bubbleman ultimate 1st german       | 43.72  |
+|    Dark Paladin Ultra Unlimited Reprint Art    | 43.15  |
+|          grand neos Ultimate 1st ger           | 42.26  |
+|              Leviair Ultimate 1st              | 42.18  |
+|              Leviair Ultimate Unl              | 42.18  |
+|      Black Luster Soldier EOTB Secret MC2      | 40.84  |
+|            dark grepher secret 1st             |  40.2  |
+|           neos air bird ultimate 1st           | 39.99  |
+|        phoenix wing windblast Ultimate         | 39.53  |
+|                  Exodia Head                   | 39.28  |
+|             Pot of Duality Scr 1st             | 38.21  |
+|             Dark Magician of Chaos             | 36.76  |
+|      Black Luster Soldier EOTB Ultra 1st       | 36.29  |
+|   Black Luster Soldier EOTB Ultra Unlimited    | 36.29  |
+|         ancient fairy dragon Ultimate          | 35.92  |
+|              Summoned Skull Ultra              |  35.4  |
+|             aqua neos Ultimate 1st             |  34.9  |
+|                sangan ultra tu                 | 34.53  |
+|     neos flare scarab ultimate 1st german      | 34.01  |
+|               catastor ultimate                | 33.08  |
+|           colossal fighter Ultimate            | 32.71  |
+|                  lyla utr Unl                  | 32.25  |
+|          Harpie's Feather Duster SDD           | 31.82  |
+|         crush card virus Ultimate 1st          | 30.98  |
+|             B. Skull Dragon Ultra              | 30.86  |
+|             Cyber Jar Ultimate 1st             | 29.78  |
+|             Delinquent Duo MRL 1st             | 28.23  |
+|                   TKO Secret                   | 27.81  |
+|             Dark Magician Girl RDS             | 27.52  |
+|               Time Wizard Ultra                | 27.44  |
+|          Injection Fairy Lily Secret           | 27.36  |
+|               Gemini Elf Secret                | 25.16  |
+|          Monster Reborn Unlimited LOB          |  24.9  |
+|     plaguespreader zombie Ultimate 1st ita     | 24.73  |
+|       plaguespreader zombie Ultimate unl       | 24.73  |
+|                 Rescue Rabbit                  | 24.22  |
+|                 Laggia UTR 1st                 | 23.65  |
+|           cyber phoenix Ultimate 1st           | 22.97  |
+|         Ring of Destruction Secret 1st         | 22.51  |
+|       Breaker the magical warrior secret       | 22.28  |
+|         scrap dragon Ultimate 1st ger          | 21.03  |
+|                  Battle Fader                  | 20.87  |
+|                Exodia Left Leg                 | 20.33  |
+|                Exodia Left Arm                 | 20.26  |
+|             Buster Blade Ultra 1st             | 19.53  |
+|             Buster Blade Ultra unl             | 19.53  |
+|            Tri Horned Dragon Secret            | 19.48  |
+|                Exodia Right Leg                | 19.18  |
+|                Mirror Force MRL                | 19.09  |
+|               Dolkka Secret 1st                | 19.01  |
+|                  Toon Mermaid                  | 18.72  |
+|                Exodia Right Arm                | 18.49  |
+|        trascend wings Ultimate 1st ger         | 17.85  |
+|             Lava Golem Secret 1st              | 17.34  |
+|            Book of Moon TU07 Ultra             | 17.29  |
+|         skyscraper 2 Ultimate 1st ger          | 16.74  |
+|                Change of Heart                 |  16.6  |
+|        Serpent Night Dragon Secret 1st         | 15.88  |
+|             Torrential Tribute 1st             | 15.73  |
+|          Torrential Tribute Unlimited          | 15.73  |
+|              Toon Summoned Skull               | 15.11  |
+|                   Dark Hole                    | 15.05  |
+|              necro gardna utr Unl              | 14.75  |
+|          5th hope ultimate 1st german          | 14.74  |
+|                Wind Up Zenmaity                | 14.22  |
+|            hero flash ultimate 1st             | 14.03  |
+|    thoughtruler archfiend Ultimate 1st fre     |  14.0  |
+|                XY Dragon Cannon                | 13.71  |
+|                    MST MRL                     | 13.45  |
+|                  Zektkaliber                   | 13.15  |
+|                celestia utr Unl                | 12.97  |
+|                 Drill Warrior                  |  12.7  |
+|              Solemn Judgment 1st               | 12.64  |
+|           Solemn Judgment Unlimited            | 12.64  |
+|           neo space ultimate 1st ger           | 12.64  |
+|                D Hero Malicious                | 12.39  |
+| Formula Synchron ULTRA Advent Calendar GERMAN  |  12.3  |
+|                  Giga Mantis                   | 11.66  |
+|                      Gorz                      | 11.65  |
+|                  One For One                   | 11.27  |
+|                Leviathan Dragon                | 11.22  |
+|           goyo guardian Ultimate 1st           | 10.73  |
+|                  Mind Control                  | 10.39  |
+|                ehren secret Unl                | 10.37  |
+|                   Tytannial                    |  9.87  |
+|                Wind up Zenmaioh                |  9.28  |
+|            Enemy Controller AST 1st            |  8.88  |
+|            Enemy Controller AST unl            |  8.88  |
+|           Call of the Haunted Ultra            |  8.52  |
+|       Wroguthweiler ultimate 1st gewrman       |  8.2   |
+|          hero signal Ultimate 1st ger          |  8.01  |
+|                 Nitro Warrior                  |  7.35  |
+|               Zenmaines Scr 1st                |  7.33  |
+|               XYZ Dragon Cannon                |  6.81  |
+|                     Hornet                     |  6.75  |
+|                   Armory Arm                   |  6.31  |
+|                Hyper Librarian                 |  6.23  |
+|                 Wind up Rabbit                 |  6.18  |
+|                 Utopia Ray UTR                 |  5.92  |
+|         Legendary Fisherman Ultra 1st          |  5.6   |
+|                  Junk Archer                   |  5.5   |
+|         hero barrier Ultimate 1st ger          |  4.83  |
+|                 Turbo Warrior                  |  4.53  |
+|                  Heavy Storm                   |  3.9   |
+|                 Zenmaister UTR                 |  3.23  |
+|                   Acid Golem                   |  3.11  |
+|            mirror gate Ultimate 1st            |  1.91  |
+|                 Fiendish Chain                 |  1.14  |
+|                     Utopia                     |  1.07  |
+|                      test                      |   0    |
++------------------------------------------------+--------+
