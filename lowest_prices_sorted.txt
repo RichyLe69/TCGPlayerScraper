@@ -5403,3 +5403,93 @@
 |             Wulf LODT 1st              | 10.06  |
 |                  test                  |   0    |
 +----------------------------------------+--------+
+2021-04-15
++-------------------------------+--------+
+|              Card             | Price  |
++-------------------------------+--------+
+|   Cyber Dragon Ultimate 1st   | 1045.0 |
+|       Chaos Sorcerer TU       | 899.99 |
+|         bottomless cp4        | 899.99 |
+|      Mirror Force MRD 1st     | 440.0  |
+| caius shadow monarch Ultimate | 290.0  |
+|      Utopia Ray Ghost 1st     |  46.0  |
+|          Battle Fader         |  41.0  |
+|              test             |   0    |
++-------------------------------+--------+
+2021-04-15
++-------------------------------------+--------+
+|                 Card                | Price  |
++-------------------------------------+--------+
+|      Stardust Dragon Ghost 1st      | 2275.0 |
+|         Solemn Judgment 1st         | 1200.0 |
+|      goyo guardian Ultimate 1st     | 899.99 |
+|      Dark Armed Dragon Ultimate     | 365.0  |
+|    crush card virus Ultimate 1st    | 299.99 |
+|          spirit reaper cp3          | 259.9  |
+| phoenix wing windblast Ultimate 1st | 250.0  |
+|      diamond dude ultimate 1st      | 249.99 |
+|  red dragon archfiend Ultimate 1st  | 240.0  |
+|  plaguespreader zombie Ultimate 1st | 182.21 |
+|         heavy storm mrd 1st         | 150.0  |
+|         e-tele Ultimate 1st         | 130.0  |
+|       dark grepher secret 1st       | 112.97 |
+|           snipe hunter cp3          | 84.15  |
+|      colossal fighter Ultimate      |  49.0  |
+| thoughtruler archfiend Ultimate 1st | 38.98  |
+|           Krebons TU super          | 31.95  |
+|            mystic tomato            |  20.7  |
+|      ROTA Reinforcement LOD 1st     | 18.99  |
+|           D Hero Malicious          | 16.68  |
+|           destiny draw 1st          | 13.05  |
+|      royal oppression Rare LOD      |  2.27  |
+|                 test                |   0    |
++-------------------------------------+--------+
+2021-04-15
++-------------------------------------+--------+
+|                 Card                | Price  |
++-------------------------------------+--------+
+|        Monster Reborn LOB 1st       | 1999.0 |
+|           Maxx c ultimate           | 750.95 |
+|         tour guide ultimate         | 425.99 |
+|      Effect Veiler Ultimate 1st     | 260.0  |
+| Pot of Avarice Ultimate 1st english | 219.97 |
+|          Dark Hole LOB 1st          | 179.0  |
+|             MST ultimate            | 149.0  |
+|     solemn warning ultimate 1st     | 133.13 |
+|  Mystical space typhoon MST MRL 1st | 87.95  |
+|         Leviathan Ghost 1st         | 79.96  |
+|      scrap dragon Ultimate 1st      | 74.95  |
+|         Leviair Ultimate 1st        | 61.21  |
+|              brionac DT             |  54.0  |
+|         Steelswarm Roach 1st        | 27.95  |
+|             Mind Control            |  14.9  |
+|              Armory Arm             |  9.61  |
+|                 test                |   0    |
++-------------------------------------+--------+
+2021-04-15
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|       Stardust Dragon Ghost 1st        | 2275.0 |
+|      black rose dragon Ghost 1st       | 1475.0 |
+|     ancient fairy dragon Ghost 1st     | 599.99 |
+| charge of the light brigade secret 1st | 599.96 |
+|            honest ghost 1st            | 449.97 |
+|    Allure utr 1st - Teledad overlap    | 290.0  |
+|            celestia utr 1st            | 250.0  |
+|           Plague UTR 1st EN            | 182.21 |
+|              lyla utr 1st              | 100.0  |
+|      solar recharge Ultimate 1st       |  99.5  |
+|             Tragoedia TU4              | 89.99  |
+|   AVenging Knight Parshath tdgs 1st    |  74.0  |
+|          necro gardna utr 1st          |  39.0  |
+|               Garoth TU                | 29.95  |
+|            ehren secret 1st            | 29.95  |
+|              beckoning TU              |  25.0  |
+|             Mist Wurm DT1              | 12.99  |
+|                ryko 1st                |  12.0  |
+|          Dark End Dragon JUMP          |  10.8  |
+|             Wulf LODT 1st              |  8.0   |
+|            Aurkus LODT 1st             |  0.5   |
+|                  test                  |   0    |
++----------------------------------------+--------+
