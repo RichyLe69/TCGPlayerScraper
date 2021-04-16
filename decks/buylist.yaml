@@ -145,6 +145,11 @@ DMOC 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
+mystic tomato:
+  url: 'https://shop.tcgplayer.com/yugioh/hobby-league-3/mystic-tomato?xid=pid409e16e-7e04-4a03-9a39-b83811b1680d&'
+  edition: 'Near Mint'
+  qty: 1
+
 #bottomless cp4:
 #  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole'
 #  edition: 'Near Mint'
@@ -154,6 +159,11 @@ trap dustshoot cp5:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-5/trap-dustshoot'
   edition: 'Near Mint'
   qty: 3
+
+royal oppression Rare LOD:
+  url: 'https://shop.tcgplayer.com/yugioh/legacy-of-darkness/royal-oppression?xid=pi5f53df71-d375-445f-b5b5-8d651fa081bd&'
+  edition: 'Near Mint 1st'
+  qty: 4
 
 Call of the Haunted 1st:
   url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/call-of-the-haunted?xid=pi5cb81ec4-9b3c-45c0-b170-c45035a3208c'
@@ -273,6 +283,11 @@ Dark Hole LOB 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
+ROTA Reinforcement LOD 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/legacy-of-darkness/reinforcement-of-the-army'
+  edition: 'Near Mint 1st'
+  qty: 2
+
 Dark Armed Dragon TU6:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/dark-armed-dragon'
   edition: 'Near Mint'
@@ -361,6 +376,21 @@ Mirror Force MRD 1st:
 Utopia Ray Ghost 1st:
   url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/number-c39-utopia-ray-ghost-rare'
   edition: 'Near Mint 1st'
+  qty: 1
+
+Mist Wurm DT1:
+  url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-1/mist-wurm?xid=pi29b5d30a-62f0-44e6-bd48-22a177b1b518&'
+  edition: 'Near Mint'
+  qty: 1
+
+AVenging Knight Parshath tdgs 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/avenging-knight-parshath?xid=pi59213e2a-28c6-461b-b7bf-a138b0e4e3bf&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dark End Dragon JUMP:
+  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/dark-end-dragon?xid=pie13a900a-6d1a-4f73-a147-74fd541d67f5&'
+  edition: 'Near Mint'
   qty: 1
 
 # My Favorite Cards
