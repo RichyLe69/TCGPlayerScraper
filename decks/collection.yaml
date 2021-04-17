@@ -42,6 +42,11 @@ Jinzo Secret:
   edition: 'Near Mint Unlimited'
   qty: 4
 
+Imperial Order PSV Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/imperial-order?xid=pi31e9b637-358b-42ea-b012-762fcc8d6755&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
 Ring of Destruction Secret 1st:
   url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/ring-of-destruction'
   edition: 'Near Mint 1st Edition'
@@ -100,6 +105,11 @@ Tri Horned Dragon Secret:
   url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/tri-horned-dragon'
   edition: 'Near Mint Unlimited'
   qty: 4
+
+Gaia Dragon Champ LOB:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/gaia-the-dragon-champion'
+  edition: 'Near Mint Unlimited'
+  qty: 2
 
 Dark Magician LOB:
   url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/dark-magician'
@@ -170,12 +180,22 @@ Time Wizard Ultra:
   edition: 'Near Mint Unlimited'
   qty: 4
 
+Seven Tools MRD 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/seven-tools-of-the-bandit?xid=pi4b1164da-ac94-4d1d-a7e0-ac72700f7cc4&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Barrel Dragon MRD Ultra:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/barrel-dragon?xid=pie2e7d320-521b-4569-9c25-0d56bb73268f&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
 Change of Heart:
   url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/change-of-heart?xid=pi59dd943f-8f90-48ee-b0eb-8b7b7149263c'
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Mirror Force MRL:
+Mirror Force MRD:
   url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/mirror-force'
   edition: 'Near Mint Unlimited'
   qty: 3
@@ -190,7 +210,10 @@ Solemn Judgment Unlimited:
   edition: 'Near Mint Unlimited'
   qty: 4
 
-# thousand dragon
+Thousand Dragon MRD secret:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/thousand-dragon?xid=pi52048e14-12be-4990-9d1f-80a93b73e93e&'
+  edition: 'Near Mint Unlimited'
+  qty: 2
 
 ######################################################
 ################## Magic Ruler #######################
@@ -213,6 +236,36 @@ Toon Mermaid:
 
 Toon Summoned Skull:
   url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/toon-summoned-skull'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Megamorph MRL Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/megamorph?xid=pib910dccc-41bf-4e03-9e5d-1bff7ae4adad&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Axe of Despair MRL:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/axe-of-despair?xid=pib910dccc-41bf-4e03-9e5d-1bff7ae4adad&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Spellbinding Circle MRL:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/spellbinding-circle?xid=pib910dccc-41bf-4e03-9e5d-1bff7ae4adad&'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Snatch Steal MRL:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/snatch-steal?xid=pib910dccc-41bf-4e03-9e5d-1bff7ae4adad&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Delinquent Duo MRL Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/delinquent-duo'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Forceful Sentry MRL Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/the-forceful-sentry?xid=pib910dccc-41bf-4e03-9e5d-1bff7ae4adad&'
   edition: 'Near Mint Unlimited'
   qty: 1
 
@@ -249,6 +302,11 @@ Legendary Fisherman Ultra 1st:
   url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/the-legendary-fisherman'
   edition: 'Near Mint 1st Edition'
   qty: 1
+
+Premature Burial Ultra UNL:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/premature-burial?xid=pi3a2b4843-561f-49a6-97ef-dc60ca746c5c&'
+  edition: 'Near Mint Unlimited'
+  qty: 2
 
 ######################################################
 ############## Labyrinth of Nightmare ################
@@ -356,6 +414,16 @@ Harpies Pet Dragon:
   edition: 'Near Mint' # mines LP
   qty: 1
 
+Metalmorph:
+  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-video-game-promotional-cards/metalmorph-forbidden-memories?xid=pic9d5c1f8-fab6-4c21-bab7-af6dde1deedb&'
+  edition: 'Near Mint' # mines LP
+  qty: 1
+
+
+
+
+
+
 ######################################################
 ############## Extra Tin Cards #####################
 ######################################################
@@ -370,10 +438,10 @@ Summoned Skull BPT 2002:
   edition: 'Near Mint'
   qty: 2
 
-#Blue Eyes Ultimate JMP Secret:
-#  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/blue-eyes-ultimate-dragon-secret'
-#  edition: 'Near Mint Limited'
-#  qty: 1
+Blue Eyes Ultimate JMP Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/blue-eyes-ultimate-dragon-secret'
+  edition: 'Near Mint Limited'
+  qty: 1
 
 Dark Paladin DMG:
   url: 'https://shop.tcgplayer.com/yugioh/duel-masters-guide/dark-paladin?xid=pibf0a3b2d-c91a-49fe-a4dd-63fb93d00613'
@@ -388,6 +456,22 @@ Dark Magician of Chaos:
   url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/dark-magician-of-chaos?xid=pi8b0e8b4b-6763-4bac-9248-2b41214fffaf'
   edition: 'Near Mint Unlimited'
   qty: 1
+
+Jack's Knight UTR:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/jacks-knight-utr?xid=picb575f83-f2c0-4868-91df-55e21891af83&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Queen's Knight UTR:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/queens-knight-utr?xid=picb1deb77-2b98-42e0-ab82-f63c286af3f9&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+King's Knight UTR:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/kings-knight-utr?xid=pi119271de-bf5f-490c-9168-e651a0c43fb3&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
 
 sangan ultra tu:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/sangan'
@@ -413,6 +497,11 @@ Pot of Greed Ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/pot-of-greed'
   edition: 'Near Mint 1st Edition'
   qty: 4
+
+Ring of Destruction Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/ring-of-destruction'
+  edition: 'Near Mint Unlimited'
+  qty: 1
 
 #Monster Reborn 1st LOB:
 #  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/monster-reborn?xid=pi3f7ffc90-e7e4-41ed-8f16-006682dd2185'
@@ -445,6 +534,11 @@ EHERO Spark secret:
 
 EHERO clayman secret:
   url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-2/elemental-hero-clayman'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+EHERO Neos secret:
+  url: 'https://shop.tcgplayer.com/yugioh/2006-collectors-tin/elemental-hero-neos?xid=pif125c337-6715-41c0-828e-9123adbdde3e&'
   edition: 'Near Mint Limited'
   qty: 1
 

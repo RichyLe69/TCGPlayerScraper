@@ -3,8 +3,8 @@ from utils import scrape_website, sort_market_prices, append_console_to_txt
 import time
 
 # My List of Collections
-# yaml_name = {'decks/buylist.yaml', 'decks/collection.yaml'}
-# yaml_name = 'decks/new-collection-wip.yaml'
+yaml_name = {'decks/new-collection-wip.yaml'}
+# yaml_name =  'decks/buylist.yaml',  'decks/collection.yaml'
 
 
 split_lists = {'decks/buylist_lightsworn.yaml',
@@ -14,7 +14,7 @@ split_lists = {'decks/buylist_lightsworn.yaml',
 
 if __name__ == "__main__":
 
-    for card_list in split_lists:
+    for card_list in yaml_name:
         my_collection = Collection(card_list)
         data = my_collection.get_yaml_data()
         name = my_collection.get_yaml_name()
@@ -34,5 +34,3 @@ if __name__ == "__main__":
 
 # somehow get it synced to a mysql/db
 # somehow get it to run on its own on cloud
-# reorganize cardlists by my current binder placements
-# Update buylist with new stuff
