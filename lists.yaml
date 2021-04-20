@@ -1,8 +1,8 @@
 collection:
-  path: 'decks/collection.yaml'
+  path: 'decks/old_collection.yaml'
 
 buylist:
   path: 'decks/buylist.yaml'
 
 new-collection-wip:
-  path: 'decks/new-collection-wip.yaml'
+  path: 'decks/collection.yaml'

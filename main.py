@@ -3,8 +3,8 @@ from utils import scrape_website, sort_market_prices, append_console_to_txt
 import time
 
 # My List of Collections
-# yaml_name = {'decks/new-collection-wip.yaml'}
 yaml_name = {'decks/buylist.yaml', 'decks/collection.yaml'}
+# temporary_list = {'decks/old_collection.yaml' }
 
 split_lists = {'decks/split_lists/buylist_lightsworn.yaml',
                'decks/split_lists/buylist_teledad.yaml',
@@ -13,7 +13,8 @@ split_lists = {'decks/split_lists/buylist_lightsworn.yaml',
 
 split_collections = {'decks/split_lists/collection_deck_builder.yaml',
                      'decks/split_lists/collection_extra_deck.yaml',
-                     'decks/split_lists/collection_old_school.yaml'}
+                     'decks/split_lists/collection_old_school.yaml',
+                     'decks/split_lists/collection_deck_core.yaml'}
 
 if __name__ == "__main__":
 

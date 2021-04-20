@@ -1,25 +1,76 @@
-# Full card list collection.
+# My Favorite Cards
+#  1 Trishula DT
+#  1 Stardust Ghost
+#  1 Black Rose Ghost
+#
+#  1 JD Ultimate
+#  1 Dark Armed Dragon Ultimate
+#  1 Tragoedia Ultimate
+#
+#  1 Effect Veiler Ultimate
+#  1 Tour Guide Ultimate
+#  1 Maxx C Ultimate
+#
+#  1 Cyber Dragon Ultimate
+#
+#
+#  Honest Ghost
+#  Caius Ultimate
+#  Colossal Ultimate
+#  Goyo Ultimate
+#
+#  Pot of Avarice Ultimate
+#  1 Solemn Warning Ultimate
+#
+#  1 Chaos Sorc Ultra
+#  1 Lumina Super
+#  1 Spirit Reaper Super
+#  Trap Dustshoot Super
 
-# Old School Binder
+# Old School Collection - 7
+#1 DM ocg utr - 500
+#2 BEWD ocg utr - 3k
+#2 Red eyes ocg utr - 2k
+# bls ocg utr - 500
+# b skull ocg utr - 500
+# summoned skull ocg utr - 500
 
-Obelisk JUMP PrScr:
-  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/obelisk-the-tormentor-jmp-en004'
-  edition: 'Near Mint Limited'
-  qty: 1
+##################################################################################################################################################################
+####### Old School Yugioh Collection Binder ################# Old School Yugioh Collection Binder ################# Old School Yugioh Collection Binder ##########
+##################################################################################################################################################################
+# Lines 50 - 660
 
-Slifer The Sky Dragon YMA:
-  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-the-movie-ani-manga-promo/slifer-the-sky-dragon'
-  edition: 'Near Mint Limited'
-  qty: 1
 
-The Winged Dragon of Ra:
-  url: 'https://shop.tcgplayer.com/yugioh/dawn-of-destiny-xbox/the-winged-dragon-of-ra'
-  edition: 'Near Mint Limited'
-  qty: 1
+# LOB-AST Packs & Secrets
+
+Tri Horned Dragon Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/tri-horned-dragon'
+  edition: 'Near Mint Unlimited'
+  qty: 2
 
 Gate Guardian Secret 1st:
   url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/gate-guardian'
   edition: 'Near Mint 1st'
+  qty: 2
+
+Blue Eyes Toon Dragon MRL:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/blue-eyes-toon-dragon'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Jinzo Secret PSV:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/jinzo'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Gaia Dragon Champ LOB:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/gaia-the-dragon-champion'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Thousand Dragon MRD secret:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/thousand-dragon?xid=pi52048e14-12be-4990-9d1f-80a93b73e93e&'
+  edition: 'Near Mint Unlimited'
   qty: 2
 
 Serpent Night Dragon Secret 1st:
@@ -27,8 +78,13 @@ Serpent Night Dragon Secret 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-Injection Fairy Lily Secret:
-  url: 'https://shop.tcgplayer.com/yugioh/legacy-of-darkness/injection-fairy-lily'
+Imperial Order PSV Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/imperial-order?xid=pi31e9b637-358b-42ea-b012-762fcc8d6755&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Gemini Elf Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/labyrinth-of-nightmare/gemini-elf'
   edition: 'Near Mint Unlimited'
   qty: 3
 
@@ -37,23 +93,8 @@ Yata-Garasu Secret:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Jinzo Secret:
-  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/jinzo'
-  edition: 'Near Mint Unlimited'
-  qty: 4
-
-Imperial Order PSV Secret:
-  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/imperial-order?xid=pi31e9b637-358b-42ea-b012-762fcc8d6755&'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
 Ring of Destruction Secret 1st:
   url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/ring-of-destruction'
-  edition: 'Near Mint 1st Edition'
-  qty: 1
-
-Lava Golem Secret 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/lava-golem'
   edition: 'Near Mint 1st Edition'
   qty: 1
 
@@ -62,62 +103,40 @@ Dark Magician Girl Secret 1st:
   edition: 'Near Mint 1st Edition'
   qty: 1
 
+Magic Cylinder Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/labyrinth-of-nightmare/magic-cylinder?xid=pi9eae108e-524f-4696-a05e-ce09991bae7b&'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Injection Fairy Lily Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/legacy-of-darkness/injection-fairy-lily'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Lava Golem Secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/lava-golem'
+  edition: 'Near Mint 1st Edition'
+  qty: 1
+
+Vampire Lord Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/dark-crisis/vampire-lord'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
 Chaos Emperor Dragon Secret 1st:
   url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/chaos-emperor-dragon-envoy-of-the-end'
   edition: 'Near Mint 1st'
   qty: 1
 
-Blue Eyes White Dragon BPT 2002:
-  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/blue-eyes-white-dragon'
-  edition: 'Near Mint Limited'
-  qty: 9
+# LOB-AST Secrets & Ultras
 
-Red Eyes Black Dragon BPT 2002:
-  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/red-eyes-b-dragon'
-  edition: 'Near Mint Limited'
-  qty: 17
-
-Dark Magician BPT 2002:
-  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/dark-magician'
-  edition: 'Near Mint Limited'
-  qty: 12
-
-Dark Magician Girl Secret UNL:
-  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/dark-magician-girl'
-  edition: 'Near Mint Unlimited'
-  qty: 10
-
-Dark Magician DDS:
-  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-video-game-promotional-cards/dark-magician-dark-duel-stories'
-  edition: 'Near Mint Limited' # mines actually played
-  qty: 1
-
-Blue-Eyes White Dragon DDS:
-  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-video-game-promotional-cards/blue-eyes-white-dragon-dark-duel-stories'
-  edition: 'Near Mint Limited' # a bit of edge wear on back, tiny bit on front, not noticeable unless at certain angles
-  qty: 1
-
-######################################################
-############## Legend of Blue Eyes ###################
-######################################################
-
-Tri Horned Dragon Secret:
-  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/tri-horned-dragon'
-  edition: 'Near Mint Unlimited'
-  qty: 4
-
-Gaia Dragon Champ LOB:
-  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/gaia-the-dragon-champion'
+Blue-Eyes White Dragon LOB:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon'
   edition: 'Near Mint Unlimited'
   qty: 2
 
 Dark Magician LOB:
   url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/dark-magician'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Blue-Eyes White Dragon LOB:
-  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/blue-eyes-white-dragon'
   edition: 'Near Mint Unlimited'
   qty: 2
 
@@ -151,17 +170,20 @@ Exodia Right Leg:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Harpie's Feather Duster SDD:
-  url: 'https://shop.tcgplayer.com/yugioh/stairway-to-the-destined-duel/harpies-feather-duster'
-  edition: 'Near Mint Limited'
+Gaia LOB Vanilla:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/gaia-the-fierce-knight?xid=pi599722c7-ebea-4f1e-a778-3a5030377170&'
+  edition: 'Near Mint Unlimited'
   qty: 1
 
-######################################################
-############## Metal Raiders ########################
-######################################################
+Monster Reborn Unlimited LOB:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/monster-reborn?xid=pi3f7ffc90-e7e4-41ed-8f16-006682dd2185'
+  edition: 'Near Mint Unlimited'
+  qty: 3
 
-Gate Guardian Secret Unl:
-  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/gate-guardian'
+# MRD
+
+Summoned Skull Ultra:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/summoned-skull'
   edition: 'Near Mint Unlimited'
   qty: 1
 
@@ -170,13 +192,23 @@ B. Skull Dragon Ultra:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Summoned Skull Ultra:
-  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/summoned-skull'
+Change of Heart:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/change-of-heart?xid=pi59dd943f-8f90-48ee-b0eb-8b7b7149263c'
   edition: 'Near Mint Unlimited'
-  qty: 1
+  qty: 2
 
 Time Wizard Ultra:
   url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/time-wizard'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Barrel Dragon MRD Ultra:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/barrel-dragon?xid=pie2e7d320-521b-4569-9c25-0d56bb73268f&'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Solemn Judgment Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/solemn-judgment'
   edition: 'Near Mint Unlimited'
   qty: 4
 
@@ -185,64 +217,12 @@ Seven Tools MRD 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Barrel Dragon MRD Ultra:
-  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/barrel-dragon?xid=pie2e7d320-521b-4569-9c25-0d56bb73268f&'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Change of Heart:
-  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/change-of-heart?xid=pi59dd943f-8f90-48ee-b0eb-8b7b7149263c'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
 Mirror Force MRD:
   url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/mirror-force'
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Solemn Judgment 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/solemn-judgment'
-  edition: 'Near Mint 1st Edition'
-  qty: 1
-
-Solemn Judgment Unlimited:
-  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/solemn-judgment'
-  edition: 'Near Mint Unlimited'
-  qty: 4
-
-Thousand Dragon MRD secret:
-  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/thousand-dragon?xid=pi52048e14-12be-4990-9d1f-80a93b73e93e&'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-######################################################
-################## Magic Ruler #######################
-######################################################
-
-Blue Eyes Toon Dragon:
-  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/blue-eyes-toon-dragon'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Delinquent Duo MRL 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/delinquent-duo'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Toon Mermaid:
-  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/toon-mermaid'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Toon Summoned Skull:
-  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/toon-summoned-skull'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Megamorph MRL Unl:
-  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/megamorph?xid=pib910dccc-41bf-4e03-9e5d-1bff7ae4adad&'
-  edition: 'Near Mint Unlimited'
-  qty: 1
+# MRL
 
 Axe of Despair MRL:
   url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/axe-of-despair?xid=pib910dccc-41bf-4e03-9e5d-1bff7ae4adad&'
@@ -269,34 +249,32 @@ Forceful Sentry MRL Unlimited:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-MST MRL:
+MST MRL Unl:
   url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/mystical-space-typhoon'
   edition: 'Near Mint Unlimited'
   qty: 5
 
-######################################################
-############### Pharaoh's Servant ####################
-######################################################
-
-Thousand Eyes Restrict RP02:
-  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-2/thousand-eyes-restrict'
+Megamorph MRL Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/megamorph?xid=pib910dccc-41bf-4e03-9e5d-1bff7ae4adad&'
   edition: 'Near Mint Unlimited'
   qty: 1
+
+Toon Mermaid:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/toon-mermaid'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Toon Summoned Skull:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/toon-summoned-skull'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+# PSV
 
 Buster Blade Ultra 1st:
   url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/buster-blader'
   edition: 'Near Mint 1st'
   qty: 1
-
-Buster Blade Ultra unl:
-  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/buster-blader'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Call of the Haunted Ultra:
-  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/call-of-the-haunted'
-  edition: 'Near Mint Unlimited'
-  qty: 2
 
 Legendary Fisherman Ultra 1st:
   url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/the-legendary-fisherman'
@@ -308,101 +286,130 @@ Premature Burial Ultra UNL:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-######################################################
-############## Labyrinth of Nightmare ################
-######################################################
+# LON-IOC Randoms
 
-Gemini Elf Secret:
-  url: 'https://shop.tcgplayer.com/yugioh/labyrinth-of-nightmare/gemini-elf'
+Dark Ruler Ha Des 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/legacy-of-darkness/dark-ruler-ha-des?xid=pi98d9a358-79e2-4b07-a195-04f1bf1472ae&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Marauding Captain 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/legacy-of-darkness/marauding-captain?xid=pi870c12e3-9f1f-4a72-8a51-f713a24f06e3&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Tyrant Dragon 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/legacy-of-darkness/tyrant-dragon?xid=pi25ae0557-366d-43f8-82ba-b34ce3f8feda&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Guardian Sphinx 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/guardian-sphinx?xid=pi44da493f-3167-46a8-8c9b-0060ba0622e2&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Don Zaloog 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/don-zaloog?xid=pi80a4b69c-2d80-4656-93b3-a42111e5a5de&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Fushioh Richie 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/fushioh-richie?xid=pi53cf4a5b-8d69-4a40-b456-45f4a1870d55&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Mystical Knight of Jackal 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/mystical-knight-of-jackal?xid=pi9af57573-3414-430d-84dd-d1ceef71c786&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Reflect Bounder 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/dark-crisis/reflect-bounder?xid=pib3b9ba35-e517-40c6-9ac2-d4adb8e6d43b&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Exodia Necross 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/dark-crisis/exodia-necross?xid=pi8510a31a-da64-4be9-921b-db6f4e5a5f5d&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dark Mirror Force 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/dark-mirror-force?xid=pi7fdc6965-6de1-4af5-ac32-df601fc99d65&'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+
+# BPT Promos
+
+Dark Magician BPT 2002:
+  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/dark-magician'
+  edition: 'Near Mint Limited'
+  qty: 11
+
+
+Dark Magician Girl Secret UNL:
+  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/dark-magician-girl'
   edition: 'Near Mint Unlimited'
-  qty: 3
-
-Torrential Tribute 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/labyrinth-of-nightmare/torrential-tribute'
-  edition: 'Near Mint 1st Edition'
-  qty: 2
-
-Torrential Tribute Unlimited:
-  url: 'https://shop.tcgplayer.com/yugioh/labyrinth-of-nightmare/torrential-tribute'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-
-######################################################
-############### Legacy of Darkness ###################
-######################################################
-
-Tsukuyomi Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-1/tsukuyomi'
-  edition: 'Near Mint'
-  qty: 2
-
-######################################################
-############### Magicians Force ######################
-######################################################
+  qty: 10
 
 Dark Magician Girl LCYW:
   url: 'https://shop.tcgplayer.com/yugioh/legendary-collection-3-yugis-world/dark-magician-girl'
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Dark Paladin 1st Ultra:
-  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/dark-paladin-1st-edition-artwork'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Dark Paladin Ultra Unlimited Reprint Art:
-  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/dark-paladin-reprint-artwork'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Dark Magician Girl RDS:
+Dark Magician Girl RDS Ultra:
   url: 'https://shop.tcgplayer.com/yugioh/rise-of-destiny-special-edition/dark-magician-girl'
   edition: 'Near Mint Limited'
   qty: 1
 
-XYZ Dragon Cannon:
-  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/xyz-dragon-cannon'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-XY Dragon Cannon:
-  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/xy-dragon-cannon'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-######################################################
-############## Invasion of Chaos #####################
-######################################################
-
-Black Luster Soldier EOTB Ultra 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/black-luster-soldier-envoy-of-the-beginning'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Black Luster Soldier EOTB Ultra Unlimited:
-  url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/black-luster-soldier-envoy-of-the-beginning'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Black Luster Soldier EOTB Secret MC2:
-  url: 'https://shop.tcgplayer.com/yugioh/master-collection-volume-2/black-luster-soldier-envoy-of-the-beginning'
+Blue Eyes White Dragon BPT 2002:
+  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/blue-eyes-white-dragon'
   edition: 'Near Mint Limited'
-  qty: 3
+  qty: 10
 
-Chaos Emperor Dragon EOTE Secret unl:
-  url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/chaos-emperor-dragon-envoy-of-the-end'
+Red Eyes Black Dragon BPT 2002:
+  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/red-eyes-b-dragon'
+  edition: 'Near Mint Limited'
+  qty: 17
+
+# Old School Singles
+
+Blue-Eyes White Dragon DDS:
+  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-video-game-promotional-cards/blue-eyes-white-dragon-dark-duel-stories'
+  edition: 'Near Mint Limited' # a bit of edge wear on back, tiny bit on front, not noticeable unless at certain angles
+  qty: 1
+
+Dark Magician DDS:
+  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-video-game-promotional-cards/dark-magician-dark-duel-stories'
+  edition: 'Near Mint Limited' # mines actually played
+  qty: 1
+
+# bpt summoned skull
+
+Gate Guardian Secret UNL:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/gate-guardian'
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Chaos Emperor Dragon Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/chaos-emperor-dragon-envoy-of-the-end'
+Kazejin MRD 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/kazejin?xid=pi7857c9f7-80cd-4088-97fe-d0a08f102c6e&'
   edition: 'Near Mint 1st'
   qty: 1
 
-######################################################
-############## Game Promos #####################
-######################################################
+Thousand Eyes Restrict Secret MC1:
+  url: 'https://shop.tcgplayer.com/yugioh/master-collection-volume-1/thousand-eyes-restrict?xid=pib26144ee-26fe-4cb9-9e26-184373efaf75&'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Blue Eyes Ultimate JMP Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/blue-eyes-ultimate-dragon-secret'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Vorse Raider Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/2005-collectors-tin/vorse-raider?xid=pie2ad4299-18af-4e33-894c-2bc353c6f458&'
+  edition: 'Near Mint Limited'
+  qty: 1
 
 Red Eyes Black Metal Dragon:
   url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-video-game-promotional-cards/red-eyes-black-metal-dragon-forbidden-memories'
@@ -419,43 +426,55 @@ Metalmorph:
   edition: 'Near Mint' # mines LP
   qty: 1
 
-
-
-
-
-
-######################################################
-############## Extra Tin Cards #####################
-######################################################
-
-B Skull Dragon BPT 2002:
-  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/b-skull-dragon'
-  edition: 'Near Mint'
-  qty: 3
-
-Summoned Skull BPT 2002:
-  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/summoned-skull'
-  edition: 'Near Mint'
-  qty: 2
-
-Blue Eyes Ultimate JMP Secret:
-  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/blue-eyes-ultimate-dragon-secret'
-  edition: 'Near Mint Limited'
+Delinquent Duo MRL 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/delinquent-duo'
+  edition: 'Near Mint 1st'
   qty: 1
 
-Dark Paladin DMG:
-  url: 'https://shop.tcgplayer.com/yugioh/duel-masters-guide/dark-paladin?xid=pibf0a3b2d-c91a-49fe-a4dd-63fb93d00613'
-  edition: 'Near Mint'
-  qty: 2
-
-######################################################
-############## Yugi Deck #####################
-######################################################
+Chaos Emperor Dragon EOTE Secret unl:
+  url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/chaos-emperor-dragon-envoy-of-the-end'
+  edition: 'Near Mint Unlimited'
+  qty: 1
 
 Dark Magician of Chaos:
   url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/dark-magician-of-chaos?xid=pi8b0e8b4b-6763-4bac-9248-2b41214fffaf'
   edition: 'Near Mint Unlimited'
   qty: 1
+
+Obelisk JUMP PrScr:
+  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/obelisk-the-tormentor-jmp-en004'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Slifer The Sky Dragon YMA:
+  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-the-movie-ani-manga-promo/slifer-the-sky-dragon'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+The Winged Dragon of Ra:
+  url: 'https://shop.tcgplayer.com/yugioh/dawn-of-destiny-xbox/the-winged-dragon-of-ra'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Chaos Emperor Dragon Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/chaos-emperor-dragon-envoy-of-the-end'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dark Paladin 1st Ultra:
+  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/dark-paladin-1st-edition-artwork'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Buster Blade Ultra unl:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/buster-blader'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Black Luster Soldier EOTB Secret MC2:
+  url: 'https://shop.tcgplayer.com/yugioh/master-collection-volume-2/black-luster-soldier-envoy-of-the-beginning'
+  edition: 'Near Mint Limited'
+  qty: 3
 
 Jack's Knight UTR:
   url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/jacks-knight-utr?xid=picb575f83-f2c0-4868-91df-55e21891af83&'
@@ -472,50 +491,47 @@ King's Knight UTR:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-
-sangan ultra tu:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/sangan'
-  edition: 'Near Mint'
-  qty: 2
-
 Breaker the magical warrior secret:
   url: 'https://shop.tcgplayer.com/yugioh/master-collection-volume-2/breaker-the-magical-warrior?xid=pi9412a59e-8c76-47f4-a6ed-06781d6ca80a'
   edition: 'Near Mint Limited'
   qty: 2
+
+Dark Paladin Ultra Unlimited Reprint Art:
+  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/dark-paladin-reprint-artwork'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+XYZ Dragon Cannon:
+  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/xyz-dragon-cannon'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+XY Dragon Cannon:
+  url: 'https://shop.tcgplayer.com/yugioh/magicians-force/xy-dragon-cannon'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+brain control Ultimate UNL:
+  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/brain-control-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Ring of Destruction Secret UNL:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/ring-of-destruction'
+  edition: 'Near Mint Unlimited'
+  qty: 1
 
 Cyber Jar Ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/cyber-jar'
   edition: 'Near Mint 1st'
   qty: 1
 
-Book of Moon TU07 Ultra:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-seven/book-of-moon'
+sangan ultra tu:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/sangan'
   edition: 'Near Mint'
-  qty: 4
+  qty: 2
 
-Pot of Greed Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/pot-of-greed'
-  edition: 'Near Mint 1st Edition'
-  qty: 4
-
-Ring of Destruction Unl:
-  url: 'https://shop.tcgplayer.com/yugioh/pharaonic-guardian/ring-of-destruction'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-#Monster Reborn 1st LOB:
-#  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/monster-reborn?xid=pi3f7ffc90-e7e4-41ed-8f16-006682dd2185'
-#  edition: 'Near Mint 1st Edition'
-#  qty: 1
-
-Monster Reborn Unlimited LOB:
-  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/monster-reborn?xid=pi3f7ffc90-e7e4-41ed-8f16-006682dd2185'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-######################################################
-##################### Jaden Deck #####################
-######################################################
+# Yugioh GX Stuff
 
 EHERO Avian secret:
   url: 'https://shop.tcgplayer.com/yugioh/elemental-hero-collection-1/elemental-hero-avian'
@@ -552,6 +568,21 @@ bladeedge ultimate 1st italian:
   edition: 'Near Mint 1st'
   qty: 1
 
+Winged kuribo ultimate 1st german:
+  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/winged-kuriboh-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Winged kurbio lvl 10 ultimate 1st german:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/winged-kuriboh-lv10-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Wroguthweiler ultimate 1st gewrman:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/wroughtweiler-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
 neos air bird ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/neo-spacian-air-hummingbird-utr'
   edition: 'Near Mint 1st'
@@ -577,21 +608,6 @@ neos dark panther ultimate 1st german:
   edition: 'Near Mint 1st'
   qty: 1
 
-Wroguthweiler ultimate 1st gewrman:
-  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/wroughtweiler-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Winged kuribo ultimate 1st german:
-  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/winged-kuriboh-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Winged kurbio lvl 10 ultimate 1st german:
-  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/winged-kuriboh-lv10-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
 5th hope ultimate 1st german:
   url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/fifth-hope-utr'
   edition: 'Near Mint 1st'
@@ -599,6 +615,11 @@ Winged kurbio lvl 10 ultimate 1st german:
 
 hero flash ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/hero-flash-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+miracle fusion Ultimate 1st ger:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/miracle-fusion-utr'
   edition: 'Near Mint 1st'
   qty: 1
 
@@ -617,16 +638,6 @@ skyscraper 2 Ultimate 1st ger:
   edition: 'Near Mint 1st'
   qty: 1
 
-miracle fusion Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/miracle-fusion-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-trascend wings Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/transcendent-wings-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
 mirror gate Ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/mirror-gate-utr'
   edition: 'Near Mint 1st'
@@ -641,90 +652,6 @@ hero barrier Ultimate 1st ger:
   url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/hero-barrier-utr'
   edition: 'Near Mint 1st'
   qty: 1
-
-flame wingman Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/elemental-hero-flame-wingman-utr'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-thunder giant Ultimate 1st it:
-  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/elemental-hero-thunder-giant-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-rampart blaster Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-rampart-blaster-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-tempest Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-tempest-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-wild wingman Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-wild-wingman-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-shining flame wingman Ultimate ger:
-  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-shining-flare-wingman-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-phnx enforcer Ultimate 1st ita:
-  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-phoenix-enforcer-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-shining phnx enforcer Ultimate 1st ita:
-  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-shining-phoenix-enforcer-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-aqua neos Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-aqua-neos-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-flare neos Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-flare-neos-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-dark neos Ultimate ger:
-  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-dark-neos-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-air neos Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-air-neos-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-grand neos Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-grand-neos-ultimate-rare'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-light neos Ultimate 1st ita:
-  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-glow-neos-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-######################################################
-##################### Zane Deck #####################
-######################################################
-
-#cyber Dragon Ultimate Japanese:
-#  url: 'N/A'
-#  edition: 'Near Mint Unlimited'
-#  qty: 3 # Cost around $40 each
-
-cyber phoenix Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/cyber-phoenix-utr'
-  edition: 'Near Mint 1st'
-  qty: 3
 
 cyberdark horn Ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/cyberdark-impact/cyberdark-horn-utr?xid=p36994dff0ef249d8af18bf85bb745ae4'
@@ -741,58 +668,109 @@ cybedark keel Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-machine dupe Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/rise-of-destiny/machine-duplication-utr'
+##################################################################################################################################################################
+########### Ultimate Deck Builder Binder ######################## Ultimate Deck Builder Binder ######################## Ultimate Deck Builder Binder #############
+##################################################################################################################################################################
+# Lines 660 - 1010
+
+Judgment Dragon Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/judgment-dragon'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Dark Armed Dragon Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/dark-armed-dragon'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Tragoedia Ultimate 2 ENG 1 italy:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-four/tragoedia'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+#Cyber Dragon Ultimate Japanese:
+#  url: 'N/A'
+#  edition: 'Near Mint 1st'
+#  qty: 3 # Cost around $40 each
+
+Black Luster Soldier EOTB Ultra 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/black-luster-soldier-envoy-of-the-beginning'
   edition: 'Near Mint 1st'
   qty: 2
 
-overload fusion Ultimate german:
-  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/overload-fusion-utr'
+Black Luster Soldier EOTB Ultra Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/invasion-of-chaos/black-luster-soldier-envoy-of-the-beginning'
   edition: 'Near Mint Unlimited'
   qty: 2
 
-power bond Ultimate german:
-  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/power-bond-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 3
+Chaos Sorcerer Ultra TU:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/chaos-sorcerer'
+  edition: 'Near Mint'
+  qty: 2
 
-cyber end dragon Ultimate italy:
-  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/cyber-end-dragon-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-cyber twin dragon Ultimate 1st german:
-  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/cyber-twin-dragon-utr'
-  edition: 'Near Mint 1st'
-  qty: 4
-
-cyber dark dragon Ultimate german:
-  url: 'https://shop.tcgplayer.com/yugioh/cyberdark-impact/cyberdark-dragon-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-chimeratech Ultimate german:
-  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/chimeratech-overdragon-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-######################################################
-############### Tengu Plant Synchro ##################
-######################################################
-
-caius shadow monarch Ultimate:
+Caius shadow monarch Ultimate TU:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-three/caius-the-shadow-monarch'
   edition: 'Near Mint Unlimited'
   qty: 3
 
-tour guide ultimate italian:
+Honest Ghost Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/honest-ghost-rare'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Lumina, Lightsworn Summoner Super CP:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-8/lumina-lightsworn-summoner'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Tour Guide Ultimate Italian:
   url: 'https://shop.tcgplayer.com/yugioh/astral-pack-6/tour-guide-from-the-underworld'
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Maxx c ultimate 2spa 1eng:
+Maxx C Ultimate 2spa 1eng:
   url: 'https://shop.tcgplayer.com/yugioh/astral-pack-4/maxx-c'
   edition: 'Near Mint Unlimited'
+  qty: 3
+
+Thunder King Rai-Oh Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-eight/thunder-king-rai-oh'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Tsukuyomi Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-1/tsukuyomi'
+  edition: 'Near Mint'
+  qty: 2
+
+Debris Dragon Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-1/debris-dragon'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Dandylion Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-4/dandylion'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Glowup Bulb Ultimate 2 eng 1 italian:
+  url: 'https://shop.tcgplayer.com/yugioh/starstrike-blast/glow-up-bulb-utr'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Lonefire Blossom Super CP:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-7/lonefire-blossom'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Rescue Rabbit 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/rescue-rabbit?xid=pi5954df4a-cfe4-4d04-abf6-3ed3e0146e9a'
+  edition: 'Near Mint 1st'
+  qty: 6
+
+Tour Guide Secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/extreme-victory/tour-guide-from-the-underworld?xid=pi5c794fbb-d368-41cc-84e4-1f73924a1672'
+  edition: 'Near Mint 1st'
   qty: 3
 
 Effect Veiler Ultimate 1st:
@@ -800,132 +778,255 @@ Effect Veiler Ultimate 1st:
   edition: 'Near Mint 1st Edition'
   qty: 6
 
-tk raioh Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-eight/thunder-king-rai-oh'
+Maxx C Secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/storm-of-ragnarok/maxx-c?xid=pi1e3682ac-10e2-4abd-ad50-809af9325347'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Gorz RP02:
+  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-2/gorz-the-emissary-of-darkness'
+  edition:  'Near Mint Limited'
+  qty: 2
+
+Gorz DLG1:
+  url: 'https://shop.tcgplayer.com/yugioh/dark-legends/gorz-the-emissary-of-darkness'
+  edition:  'Near Mint Limited'
+  qty: 2
+
+Archlord Kristya Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/stardust-overdrive/archlord-kristya'
   edition: 'Near Mint Unlimited'
   qty: 2
 
-sangan super rp01:
+Krebos Super TU German:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/krebons'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Plaguespreader Zombie Ultimate 1st ITA:
+  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/plaguespreader-zombie-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Plaguespreader Zombie Ultimate Unlimited EN:
+  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/plaguespreader-zombie-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Sangan Super RP01:
   url: 'https://shop.tcgplayer.com/yugioh/retro-pack-1/sangan'
   edition: 'Near Mint Unlimited'
   qty: 2
 
-debris dragon Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-1/debris-dragon'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-dandylion Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-4/dandylion'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-glowup bulb Ultimate 2 eng 1 italian:
-  url: 'https://shop.tcgplayer.com/yugioh/starstrike-blast/glow-up-bulb-utr'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-lonefire blossom super:
-  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-7/lonefire-blossom'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-night assailant super ita:
-  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/night-assailant'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Spirit Reaper Super:
+Spirit Reaper Super CP:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-3/spirit-reaper?xid=pi914ea79c-9418-467a-8585-d8da99335d19'
   edition: 'Near Mint Unlimited'
   qty: 2
 
-One For One:
-  url: 'https://shop.tcgplayer.com/yugioh/2010-duelist-pack-collection-tin/one-for-one'
+Thunder King Rai-oh Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-gx-manga-promotional-cards/thunder-king-rai-oh?xid=pi80580a8f-2a35-4aff-bd84-665df956ce2c'
   edition: 'Near Mint Limited'
-  qty: 2
-
-foolish burial super:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/foolish-burial'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Pot of Avarice Ultimate 1st 2 german 1 english:
-  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/pot-of-avarice-utr'
-  edition: 'Near Mint 1st Edition'
   qty: 3
 
-Book of Moon Super:
+Dark Grepher Secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/dark-grepher'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Diamond Dude Ultimate 1st ger:
+  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/destiny-hero-diamond-dude-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Doom Lord Rare DR04:
+  url: 'https://shop.tcgplayer.com/yugioh/dark-revelation-volume-4/destiny-hero-doom-lord'
+  edition: 'Near Mint'
+  qty: 1
+
+DD Crow Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/dd-crow-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Night Assailant Super CP ita:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/night-assailant'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Battle Fader UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/absolute-powerforce/battle-fader-utr'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Necro Gardna UTR Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/necro-gardna-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Cyber Phoenix Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/cyber-phoenix-utr'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+# Magics
+
+Book of Moon Super CP:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/book-of-moon?xid=pi01641f10-336e-419f-945e-8b1285337e14'
   edition: 'Near Mint Unlimited'
   qty: 1
 
-scapegoat ultra rp01 ita:
+
+Scapegoat Ultra RP01 ita:
   url: 'https://shop.tcgplayer.com/yugioh/retro-pack-1/scapegoat'
   edition: 'Near Mint Unlimited'
   qty: 2
+
+Monster Reincarnation Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/rise-of-destiny/monster-reincarnation-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Enemy Controller AST 1st:
   url: 'https://shop.tcgplayer.com/yugioh/ancient-sanctuary/enemy-controller?xid=pibaa15ff9-2670-4bc0-8341-0af645047317'
   edition: 'Near Mint 1st'
   qty: 2
 
-Enemy Controller AST unl:
-  url: 'https://shop.tcgplayer.com/yugioh/ancient-sanctuary/enemy-controller?xid=pibaa15ff9-2670-4bc0-8341-0af645047317'
+Foolish Burial Super CP:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/foolish-burial'
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Heavy Storm:
-  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/heavy-storm?xid=pi0aa0354f-5ddf-4670-aa23-64df853c18ce'
+Allure of Darkness Ultimate 1st ita:
+  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Allure of Darkness Ultimate Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Emegency Teleport Ultimate 1st ger:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/emergency-teleport-utr'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Pot of Avarice Ultimate 1st 2 german 1 english:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/pot-of-avarice-utr'
+  edition: 'Near Mint 1st Edition'
+  qty: 3
+
+Pot of Duality Scr 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/pot-of-duality'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Pot of Greed Ultimate 1st - 2 EN 2 Foreign:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/pot-of-greed'
+  edition: 'Near Mint 1st Edition'
+  qty: 4
+
+Charge Of The Light Brigade Secret Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/charge-of-the-light-brigade'
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Mind Control:
-  url: 'https://shop.tcgplayer.com/yugioh/world-championship-2005-7-trials-to-glory/mind-control?xid=pi343a981e-f66d-48a9-8dcb-98dc549134bc'
-  edition: 'Near Mint Limited'
-  qty: 2
-
-Dark Hole:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-five/dark-hole?xid=pi7970ee30-3425-437a-a446-3e631a49e794'
+Solar Recharge Ultimate Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/solar-recharge-utr'
   edition: 'Near Mint Unlimited'
-  qty: 2
+  qty: 3
 
-MST ultimate:
+Mystical Space Typhoon Ultimate:
   url: 'https://shop.tcgplayer.com/yugioh/astral-pack-8/mystical-space-typhoon'
   edition: 'Near Mint'
   qty: 2
 
-solem warning ultimate 1st:
+MST MRL Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/magic-ruler/mystical-space-typhoon'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Brain Control Ultimate 1st ger:
+  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/brain-control-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Lightning Vortex Ultimate 1st french:
+  url: 'https://shop.tcgplayer.com/yugioh/flaming-eternity/lightning-vortex-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Smashing Ground Super CP:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Future Fusion UTR Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/future-fusion-utr'
+  edition: 'Near Mint'
+  qty: 1
+
+Machine Dupe Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/rise-of-destiny/machine-duplication-utr'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Power Bond Ultimate Unlimited german:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/power-bond-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Overload Fusion Ultimate Unlimited german:
+  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/overload-fusion-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Solemn Judgment MRD Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/solemn-judgment'
+  edition: 'Near Mint Unlimited'
+  qty: 4
+
+Solemn Judgment MRD 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/solemn-judgment'
+  edition: 'Near Mint 1st Edition'
+  qty: 1
+
+Solem Warning Ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/solemn-warning-utr'
   edition: 'Near Mint 1st'
   qty: 4
 
-trap dustshoot super 2 english 1 german:
+Trap Dustshoot Super CP 2 english 1 german:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-5/trap-dustshoot'
   edition: 'Near Mint'
   qty: 3
 
-Trishula, Dragon of the Ice Barrier DT:
-  url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-4/trishula-dragon-of-the-ice-barrier'
-  edition: 'Near Mint Limited'
-  qty: 3
-
-scrap dragon Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/scrap-dragon-utr'
-  edition: 'Near Mint 1st'
+Torrential Tribute LON 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/labyrinth-of-nightmare/torrential-tribute'
+  edition: 'Near Mint 1st Edition'
   qty: 2
+
+Crush Card Virus Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/crush-card-virus'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+##################################################################################################################################################################
+############ Ultimate Extra Deck Binder ########################## Ultimate Extra Deck Binder ########################## Ultimate Extra Deck Binder ##############
+##################################################################################################################################################################
+# Lines 1010 - 1350
 
 Stardust Dragon Ghost Unl:
   url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/stardust-dragon-ghost?xid=pic25ac4f9-ad90-4215-98b6-12c62456a5fb'
   edition: 'Near Mint Unlimited'
   qty: 3
 
-black rose dragon Ghost Unl:
+Black Rose Dragon Ghost Unl:
   url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/black-rose-dragon-ghost-rare?xid=pi81d20195-3182-4443-b0de-84a2da75f8b4'
   edition: 'Near Mint Unlimited'
   qty: 3
 
-ancient fairy dragon Ghost Unl:
+Ancient Fairy Dragon Ghost Unl:
   url: 'https://shop.tcgplayer.com/yugioh/ancient-prophecy/ancient-fairy-dragon-ghost-rare?xid=pi14a462bb-70de-4d43-b190-079d406f8036'
   edition: 'Near Mint Unlimited'
   qty: 1
@@ -945,30 +1046,117 @@ ancient fairy dragon Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-brionac DT:
+Trishula, Dragon of the Ice Barrier DT:
+  url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-4/trishula-dragon-of-the-ice-barrier'
+  edition: 'Near Mint Limited'
+  qty: 3
+
+Brionac DT:
   url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-1/brionac-dragon-of-the-ice-barrier'
   edition: 'Near Mint Limited'
   qty: 2
 
-catastor DTP:
+Power Tool Dragon Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/raging-battle/power-tool-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Red Dragon Archfiend Ultimate Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/red-dragon-archfiend-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Colossal Fighter Ultimate TU:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-five/colossal-fighter'
+  edition: 'Near Mint'
+  qty: 2
+
+Scrap Dragon Ultimate 1st 1 EN 1 GER:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/scrap-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Thought Ruler Archfiend Ultimate 1st FR:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/thought-ruler-archfiend-utr'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Goyo Guardian Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/goyo-guardian-utr'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Catastor DTP:
   url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-preview/ally-of-justice-catastor'
   edition: 'Near Mint'
   qty: 1
 
-catastor ultimate:
+Catastor Ultimate:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-seven/ally-of-justice-catastor'
   edition: 'Near Mint'
-  qty: 3
+  qty: 2
 
-Formula Synchron ULTRA Advent Calendar GERMAN:
-  url: 'https://shop.tcgplayer.com/yugioh/legendary-collection-5ds/formula-synchron?xid=pi05480032-a027-4ac2-ae9f-caf707718978'
-  edition: 'Near Mint'
+Armory Arm Ultra 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-8-yusei-fudo/armory-arm?xid=pic3ef6738-dac4-4f4b-9d5c-d31babfcdfe8'
+  edition: 'Near Mint 1st'
   qty: 2
 
 Hyper Librarian:
   url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/tg-hyper-librarian?xid=pi2d53c4b5-4b25-4bde-8c70-2a58160aba76'
   edition: 'Near Mint'
   qty: 2
+
+Formula Synchron ULTRA Advent Calendar GERMAN:
+  url: 'https://shop.tcgplayer.com/yugioh/legendary-collection-5ds/formula-synchron?xid=pi05480032-a027-4ac2-ae9f-caf707718978'
+  edition: 'Near Mint'
+  qty: 2
+
+Shooting Star Dragon Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/starstrike-blast/shooting-star-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Red Nova Dragon Ultimate 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/starstrike-blast/red-nova-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Trishula Ultimate:
+  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-8/trishula-dragon-of-the-ice-barrier'
+  edition: 'Near Mint'
+  qty: 1
+
+Drill Warrior UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/absolute-powerforce/drill-warrior-utr'
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Nitro Warrior:
+  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/nitro-warrior-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Junk Archer:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-9-yusei-2/junk-archer'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Turbo Warrior:
+  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/turbo-warrior-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+# XYZ
+
+Laggia UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/evolzar-laggia-utr'
+  edition: 'Near Mint 1st'
+  qty: 4
+
+Dolkka Secret 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/evolzar-dolkka?xid=pib82e76cc-f64a-48d3-a165-bdb77ef30d25'
+  edition: 'Near Mint 1st'
+  qty: 4
 
 Leviair Ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/generation-force/leviair-the-sea-dragon-utr?xid=pia9ba0be3-42fc-45ab-85da-a664eb756d56'
@@ -985,65 +1173,6 @@ Leviathan Dragon:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-######################################################
-################### Dino Rabbits ####################
-######################################################
-
-Rescue Rabbit:
-  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/rescue-rabbit?xid=pi5954df4a-cfe4-4d04-abf6-3ed3e0146e9a'
-  edition: 'Near Mint 1st'
-  qty: 6
-
-Tour guide Secret 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/extreme-victory/tour-guide-from-the-underworld?xid=pi5c794fbb-d368-41cc-84e4-1f73924a1672'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Maxx c Secret 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/storm-of-ragnarok/maxx-c?xid=pi1e3682ac-10e2-4abd-ad50-809af9325347'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-TKO Secret:
-  url: 'https://shop.tcgplayer.com/yugioh/yu-gi-oh-gx-manga-promotional-cards/thunder-king-rai-oh?xid=pi80580a8f-2a35-4aff-bd84-665df956ce2c'
-  edition: 'Near Mint Limited'
-  qty: 3
-
-Gorz:
-  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-2/gorz-the-emissary-of-darkness?xid=pi9a0933ed-9181-41ae-9533-6c698b1552ff'
-  edition:  'Near Mint Limited'
-  qty: 4
-
-Smashing Ground Super:
-  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-#Bottomless Trap Hole:
-#  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-4/bottomless-trap-hole'
-#  edition: 'Near Mint Unlimited'
-#  qty: 2
-
-Fiendish Chain:
-  url: 'https://shop.tcgplayer.com/yugioh/absolute-powerforce/fiendish-chain?xid=pi4f0d2ec0-2ce4-4552-a577-986b6321d357'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Armory Arm:
-  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-8-yusei-fudo/armory-arm?xid=pic3ef6738-dac4-4f4b-9d5c-d31babfcdfe8'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Zenmaines Scr 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/wind-up-zenmaines?xid=pifaa85566-0779-4727-a394-55997bb5613d'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Acid Golem:
-  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/number-30-acid-golem-of-destruction?xid=pi4faf6175-bdbf-45ee-97d1-f55f4c26e56c'
-  edition: 'Near Mint Limited'
-  qty: 1
-
 Utopia:
   url: 'https://shop.tcgplayer.com/yugioh/starter-deck-dawn-of-the-xyz/number-39-utopia?xid=pi7de28b9f-2d30-497d-aa54-b67117fb1f30'
   edition: 'Near Mint 1st'
@@ -1054,92 +1183,303 @@ Utopia Ray UTR:
   edition: 'Near Mint Unlimited'
   qty: 1
 
+Acid Golem:
+  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/number-30-acid-golem-of-destruction?xid=pi4faf6175-bdbf-45ee-97d1-f55f4c26e56c'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Wind Up Zenmaity UTR unl:
+  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/wind-up-carrier-zenmaity-utr'
+  edition: 'Near Mint Unlimited' # 1 1st, 2 Unl
+  qty: 2
+
+Wind Up Zenmaity UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/wind-up-carrier-zenmaity-utr'
+  edition: 'Near Mint 1st' # 1 1st, 2 Unl
+  qty: 1
+
+Wind up Zenmaioh:
+  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/wind-up-arsenal-zenmaioh'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Zenmaines Scr 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/wind-up-zenmaines?xid=pifaa85566-0779-4727-a394-55997bb5613d'
+  edition: 'Near Mint 1st'
+  qty: 2
+
 Zenmaister UTR:
   url: 'https://shop.tcgplayer.com/yugioh/generation-force/wind-up-zenmaister-utr'
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Dolkka Secret 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/evolzar-dolkka?xid=pib82e76cc-f64a-48d3-a165-bdb77ef30d25'
+# Fusions
+
+
+Dark Paladin DMG:
+  url: 'https://shop.tcgplayer.com/yugioh/duel-masters-guide/dark-paladin?xid=pibf0a3b2d-c91a-49fe-a4dd-63fb93d00613'
+  edition: 'Near Mint'
+  qty: 2
+
+B Skull Dragon BPT 2002:
+  url: 'https://shop.tcgplayer.com/yugioh/2002-collectors-tin/b-skull-dragon'
+  edition: 'Near Mint'
+  qty: 3
+
+#Thousand Eyes Restrict OCG UTR:
+#  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-2/thousand-eyes-restrict'
+#  edition: 'Near Mint Unlimited'
+#  qty: 4
+
+Thousand Eyes Restrict RP02:
+  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-2/thousand-eyes-restrict'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+# dark blade, ojama king, master of oz, gatling dragon
+
+Flame Wingman Ultimate 1st UDE:
+  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/elemental-hero-flame-wingman-utr'
   edition: 'Near Mint 1st'
-  qty: 4
+  qty: 2
 
-Laggia UTR 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/evolzar-laggia-utr'
+Thunder Giant Ultimate 1st ITA:
+  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/elemental-hero-thunder-giant-utr'
   edition: 'Near Mint 1st'
-  qty: 4
+  qty: 1
 
-######################################################
-################### TeleDad Deck #####################
-######################################################
+Rampart Blaster Ultimate 1st GER:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-rampart-blaster-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
 
-Dark Armed Dragon Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/dark-armed-dragon'
+Tempest Ultimate 1st GER:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-tempest-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Shining Flame Wingman Ultimate GER:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-shining-flare-wingman-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Phoenix Enforcer Ultimate 1st ITA:
+  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-phoenix-enforcer-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Shining Phoenix Enforcer Ultimate 1st ITA:
+  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-shining-phoenix-enforcer-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Wild Wingman Ultimate 1st GER:
+  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/elemental-hero-wild-wingman-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Wildedge Ultimate GER:
+  url: 'https://shop.tcgplayer.com/yugioh/elemental-energy/elemental-hero-wildedge-utr?xid=pi104d71c5-f6b8-4a0b-a5f7-7f77f8db384e&q=wildedge'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Darkbridge UTR UNL:
+  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/elemental-hero-darkbright-utr?xid=pi2fe7b14b-e4d6-4123-b2c1-a61cc2152954&q=darkbright'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Neos Knight UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/extreme-victory/elemental-hero-neos-knight-utr?xid=pi765590b9-ab41-42c0-850f-41b6bb9cb263&q=neos%2520knight'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Aqua Neos Ultimate 1st UDE:
+  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-aqua-neos-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Flare Neos Ultimate 1st ger:
+  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-flare-neos-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dark Neos Ultimate UNL ger:
+  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/elemental-hero-dark-neos-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Air Neos Ultimate 1st ger:
+  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-air-neos-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Grand Neos Ultimate 1st ger:
+  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-grand-neos-ultimate-rare'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Light neos Ultimate 1st ita:
+  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/elemental-hero-glow-neos-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Cyber End Dragon Ultimate UNL ITA GER:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/cyber-end-dragon-utr'
   edition: 'Near Mint Unlimited'
   qty: 3
 
-D Hero Malicious:
+Cyber Twin Dragon Ultimate 1st GER:
+  url: 'https://shop.tcgplayer.com/yugioh/cybernetic-revolution/cyber-twin-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 4
+
+Dyber Dark Dragon Ultimate 1st GER:
+  url: 'https://shop.tcgplayer.com/yugioh/cyberdark-impact/cyberdark-dragon-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dyber Dark Dragon Ultimate UNL GER:
+  url: 'https://shop.tcgplayer.com/yugioh/cyberdark-impact/cyberdark-dragon-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Chimeratech Ultimate GER:
+  url: 'https://shop.tcgplayer.com/yugioh/power-of-the-duelist/chimeratech-overdragon-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+##################################################################################################################################################################
+############# Deck Builder Core Binder ############################ Deck Builder Core Binder ############################ Deck Builder Core Binder ###############
+##################################################################################################################################################################
+
+Celestia UTR Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/celestia-lightsworn-angel-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Lyla UTR Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/lyla-lightsworn-sorceress-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Ehren Secret Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/ehren-lightsworn-monk'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+D Hero Malicious 1st IT:
   url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-5-aster-phoenix/destiny-hero-malicious'
   edition: 'Near Mint 1st'
   qty: 3
 
-dark grepher secret 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/dark-grepher'
+Flame wingman ultra 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/elemental-hero-flame-wingman'
   edition: 'Near Mint 1st'
   qty: 1
 
-doom lord rare dr04:
-  url: 'https://shop.tcgplayer.com/yugioh/dark-revelation-volume-4/destiny-hero-doom-lord'
-  edition: 'Near Mint'
-  qty: 1
+Reborn Tengu Ultra IT EN:
+  url: 'https://shop.tcgplayer.com/yugioh/extreme-victory/reborn-tengu-ultra-rare?xid=pi1b463c3e-7214-4ada-8253-aead0794f12a&'
+  edition: 'Near Mint Limited'
+  qty: 6
 
-diamond dude ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/enemy-of-justice/destiny-hero-diamond-dude-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
 
-plaguespreader zombie Ultimate 1st ita:
-  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/plaguespreader-zombie-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-dd crow Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/strike-of-neos/dd-crow-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Krebons TU super:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/krebons'
-  edition: 'Near Mint'
-  qty: 3
-
-allure of darkness Ultimate 1st ita:
-  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
+Zektkaliber UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/inzektor-sword-zektkaliber-utr'
   edition: 'Near Mint 1st'
   qty: 3
 
-e-tele Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/emergency-teleport-utr'
+Giga Mantis UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/inzektor-giga-mantis-utr'
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Hornet Super 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/inzektor-hornet'
   edition: 'Near Mint 1st'
   qty: 3
 
-destiny draw 1st IT:
+Wind up Rabbit Scr Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/wind-up-rabbit'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Light and darkness dragon ultra ldpp:
+  url: 'https://shop.tcgplayer.com/yugioh/dark-revelation-volume-4/light-and-darkness-dragon?xid=pif66ca9f8-b735-44aa-b3a5-b444fa979eae&'
+  edition: 'Near Mint limited'
+  qty: 1
+
+Tytannial UTR Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/tytannial-princess-of-camellias-utr'
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Dandylion Secret:
+  url: 'https://shop.tcgplayer.com/yugioh/legendary-collection-2/dandylion?xid=pi588c8a0c-9c0e-450b-8b2f-adbc70f5ae76&'
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Destiny Draw 1st IT:
   url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-5-aster-phoenix/destiny-draw?xid=pieacfb39a-1fe9-452b-894e-1bc32b7a4c8f&'
   edition: 'Near Mint 1st'
   qty: 3
 
-lightning vortex Ultimate 1st french:
-  url: 'https://shop.tcgplayer.com/yugioh/flaming-eternity/lightning-vortex-utr'
+Book of Moon TU07 Ultra:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-seven/book-of-moon'
+  edition: 'Near Mint'
+  qty: 4
+
+Enemy Controller AST unl:
+  url: 'https://shop.tcgplayer.com/yugioh/ancient-sanctuary/enemy-controller?xid=pibaa15ff9-2670-4bc0-8341-0af645047317'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Mind Control WC Super:
+  url: 'https://shop.tcgplayer.com/yugioh/world-championship-2005-7-trials-to-glory/mind-control?xid=pi343a981e-f66d-48a9-8dcb-98dc549134bc'
+  edition: 'Near Mint Limited'
+  qty: 2
+
+One For One:
+  url: 'https://shop.tcgplayer.com/yugioh/2010-duelist-pack-collection-tin/one-for-one'
+  edition: 'Near Mint Limited'
+  qty: 2
+
+Dark Hole Ultra TU:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-five/dark-hole?xid=pi7970ee30-3425-437a-a446-3e631a49e794'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Heavy Storm MRD Super:
+  url: 'https://shop.tcgplayer.com/yugioh/metal-raiders/heavy-storm?xid=pi0aa0354f-5ddf-4670-aa23-64df853c18ce'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Harpie's Feather Duster SDD:
+  url: 'https://shop.tcgplayer.com/yugioh/stairway-to-the-destined-duel/harpies-feather-duster'
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Raigeki LOB Super Unl:
+  url: 'https://shop.tcgplayer.com/yugioh/the-legend-of-blue-eyes-white-dragon/raigeki?xid=pi3773a12e-7c09-4a8d-887e-f9180adcd696&'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Torrential Tribute Unlimited:
+  url: 'https://shop.tcgplayer.com/yugioh/labyrinth-of-nightmare/torrential-tribute'
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Call of the Haunted Ultra:
+  url: 'https://shop.tcgplayer.com/yugioh/pharaohs-servant/call-of-the-haunted'
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Divine Wrath UTR 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/rise-of-destiny/divine-wrath-utr?xid=ad1cdf758-29be-4738-8461-276689788741'
   edition: 'Near Mint 1st'
   qty: 1
 
-brain control Ultimate 1st ger:
-  url: 'https://shop.tcgplayer.com/yugioh/the-lost-millennium/brain-control-utr'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-crush card virus Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/crush-card-virus'
+Return from DD 1st:
+  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-kaiba/return-from-the-different-dimension?xid=pia40e049b-328a-4f59-9900-92844380d887&'
   edition: 'Near Mint 1st'
   qty: 1
 
@@ -1148,190 +1488,10 @@ phoenix wing windblast Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-red dragon archfiend Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/red-dragon-archfiend-utr'
-  edition: 'Near Mint Unlimited'
+Starlight Road Scr:
+  url: 'https://shop.tcgplayer.com/yugioh/2010-duelist-pack-collection-tin/starlight-road?xid=pi310720b5-6695-4602-99c2-d6ce8b9959fd&'
+  edition: 'Near Mint Limited'
   qty: 2
 
-colossal fighter Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-five/colossal-fighter'
-  edition: 'Near Mint'
-  qty: 2
 
-thoughtruler archfiend Ultimate 1st fre:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/thought-ruler-archfiend-utr'
-  edition: 'Near Mint 1st'
-  qty: 2
 
-goyo guardian Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/goyo-guardian-utr'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-powertool dragon Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/raging-battle/power-tool-dragon-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-shooting star drag Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/starstrike-blast/shooting-star-dragon-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-red nova drag Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/starstrike-blast/red-nova-dragon-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-######################################################
-################## Lightsworn Deck ###################
-######################################################
-
-Judgment Dragon Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/judgment-dragon'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-tragoedia ultimate 2 ENG 1 italy:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-four/tragoedia'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-honest ghost:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/honest-ghost-rare'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-Lumina, Lightsworn Summoner Super:
-  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-8/lumina-lightsworn-summoner'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-lyla utr Unl:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/lyla-lightsworn-sorceress-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-celestia utr Unl:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/celestia-lightsworn-angel-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-ehren secret Unl:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/ehren-lightsworn-monk'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-necro gardna utr Unl:
-  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/necro-gardna-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-plaguespreader zombie Ultimate unl:
-  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/plaguespreader-zombie-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-charge of the light brigade secret:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/charge-of-the-light-brigade'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-solar recharge Ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/solar-recharge-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-monster reincarnation Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/rise-of-destiny/monster-reincarnation-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Allure of darkness Ultimate Unl:
-  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-trishula ultimate:
-  url: 'https://shop.tcgplayer.com/yugioh/astral-pack-8/trishula-dragon-of-the-ice-barrier'
-  edition: 'Near Mint'
-  qty: 1
-
-#############################################
-############## Extra Deck Cores ############# Chaos Stun, Wind-ups, Agents, Inzektor, Dandy
-#############################################
-
-Chaos Sorcerer TU:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/chaos-sorcerer'
-  edition: 'Near Mint'
-  qty: 2
-
-Battle Fader:
-  url: 'https://shop.tcgplayer.com/yugioh/absolute-powerforce/battle-fader-utr'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Pot of Duality Scr 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/pot-of-duality'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Wind up Rabbit:
-  url: 'https://shop.tcgplayer.com/yugioh/photon-shockwave/wind-up-rabbit'
-  edition: 'Near Mint Unlimited'
-  qty: 3
-
-Wind Up Zenmaity:
-  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/wind-up-carrier-zenmaity-utr'
-  edition: 'Near Mint Unlimited' # 1 1st, 2 Unl
-  qty: 3
-
-Wind up Zenmaioh:
-  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/wind-up-arsenal-zenmaioh'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Archlord Kristya:
-  url: 'https://shop.tcgplayer.com/yugioh/stardust-overdrive/archlord-kristya'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Zektkaliber:
-  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/inzektor-sword-zektkaliber-utr'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Giga Mantis:
-  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/inzektor-giga-mantis-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Hornet:
-  url: 'https://shop.tcgplayer.com/yugioh/order-of-chaos/inzektor-hornet'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Tytannial:
-  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/tytannial-princess-of-camellias-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Drill Warrior:
-  url: 'https://shop.tcgplayer.com/yugioh/absolute-powerforce/drill-warrior-utr'
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Turbo Warrior:
-  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/turbo-warrior-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Nitro Warrior:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/nitro-warrior-utr'
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Junk Archer:
-  url: 'https://shop.tcgplayer.com/yugioh/duelist-pack-9-yusei-2/junk-archer'
-  edition: 'Near Mint Unlimited'
-  qty: 1
