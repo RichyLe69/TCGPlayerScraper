@@ -5,7 +5,7 @@
 Chaos Sorcerer TU:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/chaos-sorcerer'
   edition: 'Near Mint'
-  qty: 1
+  qty: 2
 
 caius shadow monarch Ultimate:
   url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-three/caius-the-shadow-monarch'
@@ -41,4 +41,46 @@ Utopia Ray Ghost 1st:
 #  url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/pot-of-duality'
 #  edition: 'Near Mint 1st'
 #  qty: 2
+
+lonefire cp7:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-7/lonefire-blossom'
+  edition: 'Near Mint'
+  qty: 1
+
+lumina cp8:
+  url: 'https://shop.tcgplayer.com/yugioh/champion-pack-8/lumina-lightsworn-summoner'
+  edition: 'Near Mint'
+  qty: 3
+
+# Turbo Pack Ultimates & Ultras
+
+Judgment Dragon TU1:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/judgment-dragon'
+  edition: 'Near Mint'
+  qty: 6
+
+Doomcal TU1:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/doomcaliber-knight?xid=pi1558fd6e-f758-4c7b-bdb2-b4d7a7256668'
+  edition: 'Near Mint'
+  qty: 3
+
+Tragoedia TU4:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-four/tragoedia'
+  edition: 'Near Mint'
+  qty: 6
+
+Dark Armed Dragon TU6:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/dark-armed-dragon'
+  edition: 'Near Mint'
+  qty: 6
+
+Quickdraw Synchron TU6:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-six/quickdraw-synchron?xid=pi41d5d724-0348-48d0-ba3c-0397407be28a'
+  edition: 'Near Mint'
+  qty: 1
+
+TK Raioh UTR TU8:
+  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-eight/thunder-king-rai-oh'
+  edition: 'Near Mint'
+  qty: 1
 

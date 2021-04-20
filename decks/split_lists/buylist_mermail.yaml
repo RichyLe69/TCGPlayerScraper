@@ -8,7 +8,7 @@ Atlantean Dragoons UTR:
 Atlantean Heavy Infrantry Super:
   url: 'https://shop.tcgplayer.com/yugioh/astral-pack-2/atlantean-heavy-infantry?xid=piae1d5e43-16f0-462f-84f2-6d011c4b129d'
   edition: 'Near Mint'
-  qty: 2
+  qty: 3
 
 Atlantean Marksman UTR:
   url: 'https://shop.tcgplayer.com/yugioh/astral-pack-3/atlantean-marksman?xid=piae1d5e43-16f0-462f-84f2-6d011c4b129d'
@@ -23,12 +23,12 @@ Deep Sea Diva Super:
 Mermail Abyssgunde:
   url: 'https://shop.tcgplayer.com/yugioh/astral-pack-3/mermail-abyssgunde?xid=pi37561e38-db34-445b-9157-bcf4577d5fc5'
   edition: 'Near Mint'
-  qty: 2
+  qty: 3
 
 Mermail Abyssleed:
   url: 'https://shop.tcgplayer.com/yugioh/cosmo-blazer/mermail-abyssleed?xid=pi37561e38-db34-445b-9157-bcf4577d5fc5'
   edition: 'Near Mint 1st'
-  qty: 1
+  qty: 3
 
 Mermail Abysslinde:
   url: 'https://shop.tcgplayer.com/yugioh/abyss-rising/mermail-abysslinde-utr?xid=pi37561e38-db34-445b-9157-bcf4577d5fc5'
@@ -94,30 +94,3 @@ Big Eye :
   url: 'https://shop.tcgplayer.com/yugioh/astral-pack-6/number-11-big-eye?xid=pib880cbac-7c3a-477f-a4f3-4d979a5ce491'
   edition: 'Near Mint'
   qty: 1
-
-
-
-################################################
-################# MTG Miracles #################
-################################################
-
-#Snapcaster Mage:
-#  url: 'https://shop.tcgplayer.com/magic/innistrad/snapcaster-mage'
-#  edition: 'Near Mint'
-#  qty: 3
-#
-#Vendilion Clique:
-#  url: 'https://shop.tcgplayer.com/magic/masters-25/vendilion-clique'
-#  edition: 'Near Mint'
-#  qty: 3
-#
-#Venser Shaper Savant:
-#  url: 'https://shop.tcgplayer.com/magic/modern-masters-2017/venser-shaper-savant'
-#  edition: 'Near Mint'
-#  qty: 2
-#
-#Jace The Mind Sculptor:
-#  url: 'https://shop.tcgplayer.com/magic/eternal-masters/jace-the-mind-sculptor'
-#  edition: 'Near Mint'
-#  qty: 3
-

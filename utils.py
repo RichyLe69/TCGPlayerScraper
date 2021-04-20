@@ -15,6 +15,7 @@ current_date = str(datetime.date(datetime.now()))
 current_year_full = datetime.now().strftime('%Y')  # 2018
 current_month = datetime.now().strftime('%m')  # 02 //This is 0 padded
 current_month_text = datetime.now().strftime('%h')  # Feb
+current_day = datetime.now().strftime('%d')  # // 23 //This is also padded
 
 
 def get_seller_stats(text_only, match):
@@ -65,13 +66,19 @@ def get_market_price(input_html):
 
 def output_to_txt(card_name, table, market_price, card_quantity, name):
     yaml_name = name + '-' + current_date + '.txt'
-    directory = 'full_listings/{0}/{1}-{2}'.format(current_year_full, current_month, current_month_text)
+    directory = 'full_listings/{0}/{1}-{2}/{3}'.format(current_year_full,
+                                                       current_month,
+                                                       current_month_text,
+                                                       current_day)
     try:
         os.makedirs(directory)
     except FileExistsError:
         pass  # directory already exists
 
-    file_path = 'full_listings/{0}/{1}-{2}/{3}'.format(current_year_full, current_month, current_month_text, yaml_name)
+    file_path = 'full_listings/{0}/{1}-{2}/{3}/{4}'.format(current_year_full,
+                                                           current_month,
+                                                           current_month_text,
+                                                           current_day, yaml_name)
     with open(file_path, 'a') as my_file:
         my_file.write('{0} [{1}] - Market Price: ${2}\n'.format(card_name, card_quantity, market_price))
         my_file.write(str(table) + '\n')
