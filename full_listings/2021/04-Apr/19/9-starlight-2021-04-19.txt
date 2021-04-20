@@ -1,0 +1,405 @@
+Sum of Market Prices: $8,145.18
+Sum of Lowest listings: $12,209.37
+
+Marincess Sea Horse (Starlight Rare) [1] - Market Price: $156.16
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|    100% (105 Sales)   | Near Mint 1st | $165.00 |  3  |
+|  100% (50,000+ Sales) | Near Mint 1st | $174.97 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $249.99 |  3  |
+| 98.9% (10,000+ Sales) | Near Mint 1st | $275.00 |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $289.85 |  3  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $350.00 |  3  |
+|  y 99% (4,425 Sales)  | Near Mint 1st | $465.00 |  1  |
+|   100% (1,822 Sales)  | Near Mint 1st | $474.99 |  1  |
+|    100% (343 Sales)   | Near Mint 1st | $480.00 |  1  |
++-----------------------+---------------+---------+-----+
+Wynn the Wind Charmer, Verdant (Starlight Rare) [1] - Market Price: $670.13
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $644.90  |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st |  $694.97  |  1  |
+|    100% (61 Sales)    | Near Mint 1st | $1,000.00 |  2  |
+|    91.7% (38 Sales)   | Near Mint 1st | $1,080.00 |  1  |
++-----------------------+---------------+-----------+-----+
+Apollousa, Bow of the Goddess (Starlight Rare) [1] - Market Price: $794.78
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|  99.8% (7,417 Sales)  | Near Mint 1st | $1,349.90 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $1,350.90 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $1,350.90 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $3,995.00 |  1  |
+|    100% (180 Sales)   | Near Mint 1st | $4,000.00 |  1  |
++-----------------------+---------------+-----------+-----+
+Storm Dragon's Return (Starlight Rare) [1] - Market Price: $133.08
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|   100% (1,397 Sales)  | Near Mint 1st | $129.88 |  2  |
+| 99.6% (50,000+ Sales) | Near Mint 1st | $129.89 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $129.97 |  2  |
+|  99.8% (1,593 Sales)  | Near Mint 1st | $129.01 |  1  |
+|  99.9% (3,961 Sales)  | Near Mint 1st | $130.00 |  1  |
+|    100% (14 Sales)    | Near Mint 1st | $130.00 |  1  |
+|    100% (45 Sales)    | Near Mint 1st | $130.00 |  1  |
+|    98.7% (79 Sales)   | Near Mint 1st | $132.00 |  1  |
+|  99.9% (1,981 Sales)  | Near Mint 1st | $133.08 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $134.95 |  5  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $136.78 |  1  |
+| 99.9% (10,000+ Sales) | Near Mint 1st | $142.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $146.99 |  1  |
+|    100% (78 Sales)    | Near Mint 1st | $153.00 |  1  |
+|    100% (148 Sales)   | Near Mint 1st | $150.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $154.75 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $159.93 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $159.99 |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $160.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $156.59 |  2  |
+|  99.7% (4,612 Sales)  | Near Mint 1st | $249.99 |  1  |
+|   100% (1,822 Sales)  | Near Mint 1st | $294.99 |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $298.99 |  1  |
+|  y 99% (4,425 Sales)  | Near Mint 1st | $375.00 |  1  |
++-----------------------+---------------+---------+-----+
+Unchained Twins - Aruha (Starlight Rare) [1] - Market Price: $224.35
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|   100% (8,740 Sales)  | Near Mint 1st | $223.99 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $226.99 |  1  |
+|   100% (9,467 Sales)  | Near Mint 1st | $223.50 |  2  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $249.95 |  3  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $259.99 |  2  |
+|   100% (7,992 Sales)  | Near Mint 1st | $260.00 |  2  |
+|   100% (6,882 Sales)  | Near Mint 1st | $282.50 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $283.97 |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $284.98 |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $300.00 |  3  |
+|  100% (10,000+ Sales) | Near Mint 1st | $299.99 |  1  |
+|    100% (39 Sales)    | Near Mint 1st | $300.00 |  1  |
+|   100% (1,397 Sales)  | Near Mint 1st | $400.00 |  1  |
+|  y 99% (4,425 Sales)  | Near Mint 1st | $575.00 |  1  |
++-----------------------+---------------+---------+-----+
+Salamangreat Pyro Phoenix (Starlight Rare) [1] - Market Price: $123.31
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|   100% (1,661 Sales)  | Near Mint 1st |  $149.99  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $149.99  |  2  |
+|   99.3% (790 Sales)   | Near Mint 1st |  $179.99  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $189.99  |  3  |
+|   100% (1,397 Sales)  | Near Mint 1st |  $190.98  |  1  |
+|  99.8% (9,655 Sales)  | Near Mint 1st |  $200.00  |  2  |
+|   100% (3,365 Sales)  | Near Mint 1st |  $200.00  |  1  |
+|   100% (1,367 Sales)  | Near Mint 1st |  $209.00  |  1  |
+| 99.6% (50,000+ Sales) | Near Mint 1st |  $209.95  |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st |  $250.00  |  2  |
+| 99.6% (50,000+ Sales) | Near Mint 1st |  $294.93  |  1  |
+|   100% (1,822 Sales)  | Near Mint 1st |  $499.99  |  1  |
+|   100% (4,533 Sales)  | Near Mint 1st | $1,000.00 |  2  |
++-----------------------+---------------+-----------+-----+
+Gorgon, Empress of the Evil Eyed (Starlight Rare) [1] - Market Price: $128.89
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+| 99.7% (50,000+ Sales) | Near Mint 1st |  $189.95  |  1  |
+| 99.7% (50,000+ Sales) | Near Mint 1st |  $194.73  |  1  |
+| 99.6% (50,000+ Sales) | Near Mint 1st |  $199.72  |  1  |
+|    100% (879 Sales)   | Near Mint 1st |  $210.00  |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st |  $229.99  |  1  |
+|   100% (4,533 Sales)  | Near Mint 1st | $1,000.00 |  1  |
+|     100% (9 Sales)    | Near Mint 1st | $1,000.00 |  1  |
++-----------------------+---------------+-----------+-----+
+I:P Masquerena (Starlight Rare) [1] - Market Price: $736.11
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|  99.2% (1,128 Sales)  | Near Mint 1st |  $800.00  |  1  |
+|    100% (459 Sales)   | Near Mint 1st |  $805.00  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $849.95  |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st |  $899.99  |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $1,100.00 |  1  |
+|    91.7% (38 Sales)   | Near Mint 1st | $1,150.00 |  2  |
++-----------------------+---------------+-----------+-----+
+Sky Striker Ace - Roze (Starlight Rare) [1] - Market Price: $378.09
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|    100% (45 Sales)    | Near Mint 1st |  $440.99  |  1  |
+|  99.9% (3,551 Sales)  | Near Mint 1st |  $448.98  |  2  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $449.90  |  3  |
+| 99.8% (50,000+ Sales) | Near Mint 1st |  $449.99  |  6  |
+|  y 99% (4,425 Sales)  | Near Mint 1st |  $475.00  |  1  |
+|   99.3% (790 Sales)   | Near Mint 1st |  $499.98  |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st |  $550.00  |  1  |
+|    100% (186 Sales)   | Near Mint 1st | $8,008.50 |  1  |
++-----------------------+---------------+-----------+-----+
+Aussa the Earth Charmer, Immovable (Starlight Rare) [1] - Market Price: $335.69
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|   100% (3,396 Sales)  | Near Mint 1st | $339.80 |  1  |
+|   100% (2,442 Sales)  | Near Mint 1st | $339.81 |  1  |
+|    100% (378 Sales)   | Near Mint 1st | $338.84 |  3  |
+|  99.6% (4,894 Sales)  | Near Mint 1st | $339.90 |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $339.80 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $349.95 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $364.99 |  1  |
+|  99.9% (9,464 Sales)  | Near Mint 1st | $369.99 |  1  |
+|    100% (35 Sales)    | Near Mint 1st | $375.00 |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $389.99 |  1  |
+|   100% (2,501 Sales)  | Near Mint 1st | $395.00 |  1  |
+|   100% (4,539 Sales)  | Near Mint 1st | $395.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $399.99 |  6  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $399.99 |  1  |
+| 99.6% (50,000+ Sales) | Near Mint 1st | $400.23 |  1  |
++-----------------------+---------------+---------+-----+
+Lightning Storm (Starlight Rare) [1] - Market Price: $520.76
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|    100% (171 Sales)   | Near Mint 1st |  $589.99  |  1  |
+|  99.8% (4,931 Sales)  | Near Mint 1st |  $604.95  |  3  |
+|   100% (9,467 Sales)  | Near Mint 1st |  $599.99  |  3  |
+|  99.9% (1,445 Sales)  | Near Mint 1st |  $608.15  |  1  |
+|    100% (889 Sales)   | Near Mint 1st |  $609.83  |  3  |
+|    100% (747 Sales)   | Near Mint 1st |  $610.00  |  6  |
+|  99.5% (4,372 Sales)  | Near Mint 1st |  $624.94  |  2  |
+|  99.9% (3,961 Sales)  | Near Mint 1st |  $628.99  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $629.99  |  3  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $648.75  |  1  |
+|   100% (1,397 Sales)  | Near Mint 1st |  $649.48  |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st |  $649.99  |  10 |
+|   100% (9,433 Sales)  | Near Mint 1st |  $699.99  |  3  |
+|  99.9% (9,464 Sales)  | Near Mint 1st |  $750.00  |  3  |
+|  99.8% (9,655 Sales)  | Near Mint 1st |  $790.00  |  3  |
+| 99.9% (25,000+ Sales) | Near Mint 1st |  $800.00  |  1  |
+| 99.7% (50,000+ Sales) | Near Mint 1st |  $839.99  |  3  |
+|  99.8% (8,892 Sales)  | Near Mint 1st |  $989.95  |  1  |
+|  y 99% (4,425 Sales)  | Near Mint 1st | $1,500.00 |  1  |
++-----------------------+---------------+-----------+-----+
+Time Thief Perpetua (Starlight Rare) [1] - Market Price: $178.06
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|                       | Near Mint 1st | $185.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $188.40 |  1  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $189.99 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $199.90 |  3  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $199.94 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $199.99 |  7  |
+|    100% (80 Sales)    | Near Mint 1st | $200.00 |  2  |
+|  99.8% (9,655 Sales)  | Near Mint 1st | $210.00 |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $215.00 |  2  |
+|  99.8% (4,931 Sales)  | Near Mint 1st | $244.95 |  1  |
+|   100% (1,397 Sales)  | Near Mint 1st | $250.00 |  1  |
+|    100% (61 Sales)    | Near Mint 1st | $300.00 |  1  |
+|    91.7% (38 Sales)   | Near Mint 1st | $550.00 |  3  |
++-----------------------+---------------+---------+-----+
+Chamber Dragonmaid (Starlight Rare) [1] - Market Price: $315.67
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|    100% (253 Sales)   | Near Mint 1st | $439.99 |  1  |
+| 99.8% (10,000+ Sales) | Near Mint 1st | $439.99 |  1  |
+|   99.7% (772 Sales)   | Near Mint 1st | $470.00 |  1  |
+|  99.9% (3,961 Sales)  | Near Mint 1st | $475.99 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $489.95 |  5  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $499.99 |  3  |
+|  99.2% (1,128 Sales)  | Near Mint 1st | $500.00 |  1  |
+|  y 99% (4,425 Sales)  | Near Mint 1st | $600.00 |  1  |
+|   100% (1,822 Sales)  | Near Mint 1st | $999.99 |  1  |
++-----------------------+---------------+---------+-----+
+Ghost Mourner & Moonlit Chill (Starlight Rare) [1] - Market Price: $245.44
++-----------------------+---------------+------------+-----+
+|         Seller        |   Condition   |   Price    | Qty |
++-----------------------+---------------+------------+-----+
+|   100% (3,389 Sales)  | Near Mint 1st |  $260.00   |  1  |
+|   100% (3,946 Sales)  | Near Mint 1st |  $265.00   |  1  |
+|  99.8% (9,655 Sales)  | Near Mint 1st |  $274.00   |  2  |
+| 99.6% (50,000+ Sales) | Near Mint 1st |  $299.94   |  1  |
+|    100% (115 Sales)   | Near Mint 1st |  $299.99   |  1  |
+|   98.1% (343 Sales)   | Near Mint 1st |  $300.20   |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $349.95   |  1  |
+|    100% (275 Sales)   | Near Mint 1st |  $350.00   |  3  |
+| 99.8% (50,000+ Sales) | Near Mint 1st |  $399.99   |  10 |
+|    100% (61 Sales)    | Near Mint 1st |  $400.00   |  1  |
+|   99.7% (772 Sales)   | Near Mint 1st |  $420.00   |  3  |
+|  99.9% (9,464 Sales)  | Near Mint 1st |  $500.00   |  8  |
+| 99.6% (50,000+ Sales) | Near Mint 1st |  $598.90   |  1  |
+|   100% (1,822 Sales)  | Near Mint 1st |  $999.99   |  2  |
+|   100% (2,678 Sales)  | Near Mint 1st | $69,420.00 |  1  |
++-----------------------+---------------+------------+-----+
+Traptrix Allomerus (Starlight Rare) [1] - Market Price: $189.27
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+| 99.6% (50,000+ Sales) | Near Mint 1st | $250.98 |  1  |
+|  99.7% (4,446 Sales)  | Near Mint 1st | $249.99 |  1  |
+|    100% (100 Sales)   | Near Mint 1st | $250.00 |  1  |
+|  99.9% (3,961 Sales)  | Near Mint 1st | $298.99 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $300.00 |  1  |
+|  99.2% (1,128 Sales)  | Near Mint 1st | $300.00 |  6  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $340.00 |  1  |
+|   99.7% (772 Sales)   | Near Mint 1st | $445.00 |  2  |
+|   100% (6,882 Sales)  | Near Mint 1st | $450.00 |  1  |
++-----------------------+---------------+---------+-----+
+Eria the Water Charmer, Gentle (Starlight Rare) [1] - Market Price: $369.38
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|  100% (50,000+ Sales) | Near Mint 1st | $414.99 |  1  |
+|     100% (1 Sales)    | Near Mint 1st | $410.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $419.95 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $419.95 |  2  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $419.96 |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $440.00 |  2  |
+|  99.8% (5,297 Sales)  | Near Mint 1st | $455.00 |  1  |
+|    100% (311 Sales)   | Near Mint 1st | $475.00 |  1  |
+|   100% (2,501 Sales)  | Near Mint 1st | $495.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $499.99 |  9  |
+|  100% (10,000+ Sales) | Near Mint 1st | $589.99 |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st | $650.00 |  2  |
++-----------------------+---------------+---------+-----+
+Effect Veiler (Starlight Rare) [1] - Market Price: $489.93
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|  99.8% (9,655 Sales)  | Near Mint 1st |  $448.00  |  1  |
+|    100% (260 Sales)   | Near Mint 1st |  $449.99  |  3  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $450.00  |  1  |
+| 99.9% (10,000+ Sales) | Near Mint 1st |  $459.99  |  2  |
+|  100% (50,000+ Sales) | Near Mint 1st |  $468.99  |  1  |
+| 99.5% (10,000+ Sales) | Near Mint 1st |  $499.94  |  6  |
+|  100% (10,000+ Sales) | Near Mint 1st |  $499.99  |  3  |
+|   100% (9,433 Sales)  | Near Mint 1st |  $499.99  |  2  |
+|    100% (26 Sales)    | Near Mint 1st |  $500.04  |  1  |
+| 99.5% (10,000+ Sales) | Near Mint 1st |  $509.79  |  2  |
+|    100% (378 Sales)   | Near Mint 1st |  $515.00  |  1  |
+|    100% (275 Sales)   | Near Mint 1st |  $550.00  |  3  |
+|   100% (1,111 Sales)  | Near Mint 1st |  $600.00  |  1  |
+|   100% (2,827 Sales)  | Near Mint 1st |  $650.00  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $698.99  |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st |  $699.99  |  6  |
+|  99.9% (9,464 Sales)  | Near Mint 1st |  $700.00  |  2  |
+|    k 75% (65 Sales)   | Near Mint 1st |  $714.29  |  1  |
+|  99.8% (4,931 Sales)  | Near Mint 1st |  $778.98  |  1  |
+|  99.5% (7,585 Sales)  | Near Mint 1st |  $787.79  |  3  |
+|  y 99% (4,425 Sales)  | Near Mint 1st | $1,500.00 |  1  |
++-----------------------+---------------+-----------+-----+
+Dogmatika Ecclesia, the Virtuous (Starlight Rare) [1] - Market Price: $428.4
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|    100% (78 Sales)    | Near Mint 1st |  $495.99  |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st |  $499.99  |  2  |
+|   95.9% (526 Sales)   | Near Mint 1st |  $499.00  |  1  |
+|    100% (140 Sales)   | Near Mint 1st |  $550.00  |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st |  $686.99  |  1  |
+|  y 99% (4,425 Sales)  | Near Mint 1st | $1,500.00 |  1  |
++-----------------------+---------------+-----------+-----+
+Gaia the Magical Knight of Dragons (Starlight Rare) [1] - Market Price: $149.69
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|  99.8% (9,655 Sales)  | Near Mint 1st |  $177.00  |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st |  $179.99  |  11 |
+|    100% (114 Sales)   | Near Mint 1st |  $179.99  |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st |  $189.95  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $189.99  |  1  |
+|   100% (3,635 Sales)  | Near Mint 1st |  $194.39  |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st |  $200.00  |  1  |
+| 99.9% (10,000+ Sales) | Near Mint 1st | $1,000.00 |  1  |
++-----------------------+---------------+-----------+-----+
+Triple Tactics Talent (Starlight Rare) [1] - Market Price: $416.51
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|    100% (171 Sales)   | Near Mint 1st | $439.99 |  2  |
+|  ng 0% (1,559 Sales)  | Near Mint 1st | $448.97 |  2  |
+|  99.7% (1,551 Sales)  | Near Mint 1st | $447.98 |  1  |
+|    100% (889 Sales)   | Near Mint 1st | $450.00 |  3  |
+|    100% (100 Sales)   | Near Mint 1st | $450.00 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $484.20 |  1  |
+|    100% (195 Sales)   | Near Mint 1st | $489.99 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $499.99 |  4  |
+|  99.1% (2,647 Sales)  | Near Mint 1st | $500.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $499.99 |  1  |
+|    100% (472 Sales)   | Near Mint 1st | $500.00 |  1  |
+|   96.3% (174 Sales)   | Near Mint 1st | $500.00 |  1  |
+|    100% (982 Sales)   | Near Mint 1st | $550.00 |  1  |
+|  y 99% (4,425 Sales)  | Near Mint 1st | $595.00 |  1  |
+|  99.9% (9,464 Sales)  | Near Mint 1st | $625.00 |  2  |
+|   100% (3,138 Sales)  | Near Mint 1st | $634.70 |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st | $699.99 |  2  |
+|   100% (1,097 Sales)  | Near Mint 1st | $800.00 |  1  |
++-----------------------+---------------+---------+-----+
+Wynn the Wind Channeler (Starlight Rare) [1] - Market Price: $220.65
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|   100% (3,396 Sales)  | Near Mint 1st | $249.98 |  2  |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $273.90 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $279.95 |  1  |
+|  99.7% (1,823 Sales)  | Near Mint 1st | $298.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $299.99 |  10 |
+|    100% (61 Sales)    | Near Mint 1st | $379.99 |  3  |
+|   100% (1,793 Sales)  | Near Mint 1st | $399.99 |  1  |
+|   100% (3,108 Sales)  | Near Mint 1st | $400.21 |  1  |
+|  99.9% (9,464 Sales)  | Near Mint 1st | $400.00 |  2  |
+|  99.1% (2,647 Sales)  | Near Mint 1st | $500.00 |  1  |
+|   100% (4,780 Sales)  | Near Mint 1st | $550.00 |  1  |
++-----------------------+---------------+---------+-----+
+D.D. Crow (Starlight Rare) [1] - Market Price: $310.73
++-----------------------+---------------+---------+-----+
+|         Seller        |   Condition   |  Price  | Qty |
++-----------------------+---------------+---------+-----+
+|  100% (50,000+ Sales) | Near Mint 1st | $327.97 |  3  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $329.95 |  1  |
+| 99.9% (10,000+ Sales) | Near Mint 1st | $329.99 |  2  |
+|  100% (10,000+ Sales) | Near Mint 1st | $335.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $339.99 |  1  |
+| 99.6% (50,000+ Sales) | Near Mint 1st | $344.98 |  1  |
+|    100% (42 Sales)    | Near Mint 1st | $340.00 |  1  |
+|   100% (3,138 Sales)  | Near Mint 1st | $344.95 |  1  |
+|    100% (275 Sales)   | Near Mint 1st | $375.00 |  3  |
+| 99.8% (50,000+ Sales) | Near Mint 1st | $379.99 |  11 |
+| 99.7% (50,000+ Sales) | Near Mint 1st | $446.99 |  1  |
+|  99.7% (4,925 Sales)  | Near Mint 1st | $490.00 |  1  |
+|  99.9% (9,464 Sales)  | Near Mint 1st | $550.00 |  4  |
+|    100% (21 Sales)    | Near Mint 1st | $749.99 |  1  |
+|   95.8% (385 Sales)   | Near Mint 1st | $799.99 |  1  |
++-----------------------+---------------+---------+-----+
+10k Dragon [1] - Market Price: $274.0
++-----------------------+---------------+------------+-----+
+|         Seller        |   Condition   |   Price    | Qty |
++-----------------------+---------------+------------+-----+
+|   100% (1,822 Sales)  | Near Mint 1st | $2,995.10  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st | $2,995.90  |  2  |
+|  100% (10,000+ Sales) | Near Mint 1st | $10,000.00 |  1  |
++-----------------------+---------------+------------+-----+
+Utopia Astral [1] - Market Price: $356.1
++-----------------------+---------------+-----------+-----+
+|         Seller        |   Condition   |   Price   | Qty |
++-----------------------+---------------+-----------+-----+
+|  99.5% (7,585 Sales)  | Near Mint 1st |  $499.99  |  1  |
+|    100% (69 Sales)    | Near Mint 1st |  $510.00  |  1  |
+|    92.3% (21 Sales)   | Near Mint 1st |  $525.00  |  1  |
+| 99.7% (50,000+ Sales) | Near Mint 1st |  $539.99  |  1  |
+|   100% (5,231 Sales)  | Near Mint 1st |  $540.00  |  1  |
+|  100% (50,000+ Sales) | Near Mint 1st |  $549.95  |  2  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $549.95  |  1  |
+| 99.9% (25,000+ Sales) | Near Mint 1st |  $569.23  |  1  |
+|  99.7% (1,823 Sales)  | Near Mint 1st |  $598.99  |  1  |
+|  99.9% (7,672 Sales)  | Near Mint 1st |  $598.99  |  1  |
+|  99.9% (1,445 Sales)  | Near Mint 1st |  $599.80  |  1  |
+|    100% (61 Sales)    | Near Mint 1st |  $750.00  |  1  |
+|    100% (16 Sales)    | Near Mint 1st |  $750.00  |  1  |
+|   100% (1,616 Sales)  | Near Mint 1st |  $798.98  |  1  |
+| 99.9% (50,000+ Sales) | Near Mint 1st |  $799.00  |  1  |
+|    100% (325 Sales)   | Near Mint 1st |  $799.97  |  2  |
+|    100% (81 Sales)    | Near Mint 1st |  $999.00  |  1  |
+|  100% (10,000+ Sales) | Near Mint 1st | $1,000.00 |  1  |
++-----------------------+---------------+-----------+-----+

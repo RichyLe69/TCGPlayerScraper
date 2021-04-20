@@ -6679,3 +6679,33 @@
 |        Heavy Storm MRD Super         |  3.15 |
 |                 test                 |   0   |
 +--------------------------------------+-------+
+2021-04-19
++-----------------------------------------------------+--------+
+|                         Card                        | Price  |
++-----------------------------------------------------+--------+
+|                      10k Dragon                     | 2995.1 |
+|    Apollousa, Bow of the Goddess (Starlight Rare)   | 1349.9 |
+|           I:P Masquerena (Starlight Rare)           | 800.0  |
+|   Wynn the Wind Charmer, Verdant (Starlight Rare)   | 644.9  |
+|           Lightning Storm (Starlight Rare)          | 589.99 |
+|                    Utopia Astral                    | 499.99 |
+|  Dogmatika Ecclesia, the Virtuous (Starlight Rare)  | 495.99 |
+|            Effect Veiler (Starlight Rare)           | 448.0  |
+|       Sky Striker Ace - Roze (Starlight Rare)       | 440.99 |
+|         Chamber Dragonmaid (Starlight Rare)         | 439.99 |
+|        Triple Tactics Talent (Starlight Rare)       | 439.99 |
+|   Eria the Water Charmer, Gentle (Starlight Rare)   | 414.99 |
+| Aussa the Earth Charmer, Immovable (Starlight Rare) | 339.8  |
+|              D.D. Crow (Starlight Rare)             | 327.97 |
+|    Ghost Mourner & Moonlit Chill (Starlight Rare)   | 260.0  |
+|         Traptrix Allomerus (Starlight Rare)         | 250.98 |
+|       Wynn the Wind Channeler (Starlight Rare)      | 249.98 |
+|       Unchained Twins - Aruha (Starlight Rare)      | 223.99 |
+|  Gorgon, Empress of the Evil Eyed (Starlight Rare)  | 189.95 |
+|         Time Thief Perpetua (Starlight Rare)        | 185.0  |
+| Gaia the Magical Knight of Dragons (Starlight Rare) | 177.0  |
+|         Marincess Sea Horse (Starlight Rare)        | 165.0  |
+|      Salamangreat Pyro Phoenix (Starlight Rare)     | 149.99 |
+|        Storm Dragon's Return (Starlight Rare)       | 129.88 |
+|                         test                        |   0    |
++-----------------------------------------------------+--------+

@@ -14,7 +14,7 @@ class Collection:
                 print(exc)
         self.yaml_data = yaml_data
         self.card_list = card_list
-        self.yaml_name = yaml_name.replace('decks/', '').replace('split_lists/', '').replace('.yaml', '')
+        self.yaml_name = yaml_name.replace('decks/', '').replace('split_lists/', '').replace('.yaml', '').replace('old_lists', '')
 
     def get_card_list(self):
         return self.card_list
