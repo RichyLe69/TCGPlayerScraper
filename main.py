@@ -11,8 +11,8 @@ if __name__ == "__main__":
         data = my_collection.get_yaml_data()
         name = my_collection.get_yaml_name()
         file_path = (scrape_website(data, name))
-        sort_market_prices('market_prices.yaml')
-        sort_market_prices('lowest_prices.yaml')
+        sort_market_prices('sorted_pricing/market_prices.yaml')
+        sort_market_prices('sorted_pricing/lowest_prices.yaml')
         append_console_to_txt(file_path)
         time.sleep(5)
 

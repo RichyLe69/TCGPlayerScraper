@@ -86,7 +86,7 @@ def output_to_txt(card_name, table, market_price, card_quantity, name):
 
 
 def output_to_txt_console(string):
-    txt_console = 'console.txt'
+    txt_console = 'sorted_pricing/console.txt'
     with open(txt_console, 'a') as my_file:
         my_file.write(string + '\n')
 
@@ -158,8 +158,8 @@ def scrape_website(collection_data_yaml, name):
         lowest_listed_price_total += lowest_listed_price * card_quantity
 
         # making new yaml w/ market & lowest price for calculations and sorting
-        price_yaml_generator(card, lowest_listed_price, 'lowest_prices.yaml')
-        price_yaml_generator(card, text_only[1], 'market_prices.yaml')
+        price_yaml_generator(card, lowest_listed_price, 'sorted_pricing/lowest_prices.yaml')
+        price_yaml_generator(card, text_only[1], 'sorted_pricing/market_prices.yaml')
     print('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
     print('Sum of Lowest listings: ${:,.2f}'.format(lowest_listed_price_total))
     output_to_txt_console('Sum of Market Prices: ${:,.2f}'.format(market_price_total))
@@ -217,7 +217,7 @@ def delete_yaml_contents(yaml_name):
 
 
 def append_console_to_txt(path):
-    console = 'console.txt'
+    console = 'sorted_pricing/console.txt'
     with open(console, 'r') as console:
         console_data = console.read()
     with open(path, 'r') as original:
@@ -228,7 +228,7 @@ def append_console_to_txt(path):
 
 
 def delete_console_txt():
-    console = 'console.txt'
+    console = 'sorted_pricing/console.txt'
     with open(console, 'w') as f:
         f.write('')
 
