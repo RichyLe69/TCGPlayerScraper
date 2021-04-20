@@ -18,7 +18,6 @@ if __name__ == "__main__":
 
 # TODO
 # More buylist yamls: return dad, 5ds staples, swag singles, playset completion
-# sorted prices directory
 
 # somehow get it synced to a mysql/db
 # somehow get it to run on its own on cloud
