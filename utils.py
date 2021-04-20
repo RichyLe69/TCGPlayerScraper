@@ -231,3 +231,16 @@ def delete_console_txt():
     console = 'console.txt'
     with open(console, 'w') as f:
         f.write('')
+
+
+def get_yaml_lists(yaml_name):
+    with open(yaml_name, 'r') as stream:
+        try:
+            yaml_lists = yaml.safe_load(stream)
+            # card_list = list()
+            # for cards in yaml_lists:
+            #     print(cards)
+            #     card_list.append(cards)
+        except yaml.YAMLError as exc:
+            print(exc)
+        return yaml_lists

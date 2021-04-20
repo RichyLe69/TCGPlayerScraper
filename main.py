@@ -1,27 +1,13 @@
 from collection import Collection
-from utils import scrape_website, sort_market_prices, append_console_to_txt
+from utils import scrape_website, sort_market_prices, append_console_to_txt, get_yaml_lists
 import time
 
-# My List of Collections
-yaml_name = {'decks/buylist.yaml', 'decks/collection.yaml'}
-# temporary_list = {'decks/old_collection.yaml' }
-
-split_buylists = {'decks/split_lists/buylist_lightsworn.yaml',
-                  'decks/split_lists/buylist_teledad.yaml',
-                  'decks/split_lists/buylist_plants.yaml',
-                  'decks/split_lists/buylist_extras.yaml'}
-
-split_collections = {'decks/split_lists/collection_deck_builder.yaml',
-                     'decks/split_lists/collection_extra_deck.yaml',
-                     'decks/split_lists/collection_old_school.yaml',
-                     'decks/split_lists/collection_deck_core.yaml'}
-
-starlight = {'decks/old_lists/9-starlight.yaml'} # only use this like once a month just to track starlights
 
 if __name__ == "__main__":
 
-    for card_list in starlight:
-        my_collection = Collection(card_list)
+    yaml_lists = (get_yaml_lists('lists.yaml'))
+    for card_list in yaml_lists:
+        my_collection = Collection(yaml_lists[card_list]['path'])
         data = my_collection.get_yaml_data()
         name = my_collection.get_yaml_name()
         file_path = (scrape_website(data, name))
@@ -31,6 +17,8 @@ if __name__ == "__main__":
         time.sleep(5)
 
 # TODO
-# More buylist yamls: return dad, 5ds staples, goat, mermail, swag singles, playset completion
+# More buylist yamls: return dad, 5ds staples, swag singles, playset completion
+# sorted prices directory
+
 # somehow get it synced to a mysql/db
 # somehow get it to run on its own on cloud
