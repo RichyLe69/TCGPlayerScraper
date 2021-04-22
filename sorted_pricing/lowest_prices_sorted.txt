@@ -288,3 +288,43 @@
 |        Heavy Storm MRD Super         |  2.95 |
 |                 test                 |   0   |
 +--------------------------------------+-------+
+2021-04-22
++---------------------------------+--------+
+|               Card              | Price  |
++---------------------------------+--------+
+|            Swap Frog            | 120.99 |
+|      Atlantean Dragoons UTR     | 110.0  |
+|             Big Eye             | 70.99  |
+|       Deep Sea Diva Super       |  60.0  |
+|          Abyss Dweller          | 59.99  |
+|             Dewloren            | 49.99  |
+|             Gungnir             | 49.97  |
+|      Atlantean Marksman UTR     | 44.99  |
+|        Mermail Abyssteus        | 44.53  |
+|       Mermail Abyssmegalo       |  31.0  |
+|        Mermail Abysslinde       | 27.99  |
+|           Breakthrough          | 25.98  |
+|          Bahamut Shark          | 24.01  |
+|        Mermail Abyssgaios       | 20.91  |
+|       Mermail Abyss-sphere      |  7.59  |
+| Atlantean Heavy Infrantry Super |  6.94  |
+|        Mermail Abyssgunde       |  5.94  |
+|        Mermail Abyssleed        |  3.3   |
+|        Mermail Abysspike        |  2.98  |
+|        Mermail Abysstrite       |  1.49  |
+|               test              |   0    |
++---------------------------------+--------+
+2021-04-22
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+|       Invocation       | 170.0 |
+|      Terraforming      | 150.0 |
+|         Kagari         | 140.0 |
+| Ghost Ogre Snow Rabbit | 128.0 |
+|       Super Poly       | 99.99 |
+|        Shizuku         | 91.17 |
+|         Hayate         | 48.92 |
+|         Kaina          |  24.0 |
+|          test          |   0   |
++------------------------+-------+

@@ -1,0 +1,64 @@
+###############################################
+########## Modern Yugioh Invoked ##############
+###############################################
+
+# Invoked
+
+#Aleister the Invoker:
+#  url: ''
+#  edition: 'Near Mint'
+#  qty: 3
+
+Invocation:
+  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-6/invocation?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+  edition: 'Near Mint'
+  qty: 3
+
+#Magical Meltdown:
+#  url: ''
+#  edition: 'Near Mint'
+#  qty: 3
+
+Terraforming:
+  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-5/terraforming?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+  edition: 'Near Mint'
+  qty: 3
+
+Super Poly:
+  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-14/super-polymerization?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+  edition: 'Near Mint'
+  qty: 3
+
+
+
+
+# Stuff
+
+Ghost Ogre Snow Rabbit:
+  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-5/ghost-ogre-and-snow-rabbit?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+  edition: 'Near Mint'
+  qty: 3
+
+
+
+# Sky Striker
+
+Kagari:
+  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-8/sky-striker-ace-kagari?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+  edition: 'Near Mint'
+  qty: 3
+
+Shizuku:
+  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-9/sky-striker-ace-shizuku?xid=pi51cb39fa-30f7-4576-abe7-b1bf1a163dbd&'
+  edition: 'Near Mint'
+  qty: 3
+
+Hayate:
+  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-10/sky-striker-ace-hayate?xid=pid4784949-0f78-4464-8cf3-71547db14b20&'
+  edition: 'Near Mint'
+  qty: 3
+
+Kaina:
+  url: 'https://shop.tcgplayer.com/yugioh/ots-tournament-pack-11/sky-striker-ace-kaina?xid=pid4784949-0f78-4464-8cf3-71547db14b20&'
+  edition: 'Near Mint'
+  qty: 3

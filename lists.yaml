@@ -20,14 +20,14 @@
 
 ## Split Buylists
 
-buylist_lightsworn:
-  path: 'decks/split_lists/buylist_lightsworn.yaml'
-
-buylist_teledad:
-  path: 'decks/split_lists/buylist_teledad.yaml'
-
-buylist_plants:
-  path: 'decks/split_lists/buylist_plants.yaml'
+#buylist_lightsworn:
+#  path: 'decks/split_lists/buylist_lightsworn.yaml'
+#
+#buylist_teledad:
+#  path: 'decks/split_lists/buylist_teledad.yaml'
+#
+#buylist_plants:
+#  path: 'decks/split_lists/buylist_plants.yaml'
 
 #buylist_extras:
 #  path: 'decks/split_lists/buylist_extras.yaml'
@@ -35,13 +35,16 @@ buylist_plants:
 #buylist_goat:
 #  path: 'decks/split_lists/buylist_goat.yaml'
 #
-#buylist_mermail:
-#  path: 'decks/split_lists/buylist_mermail.yaml'
+buylist_mermail:
+  path: 'decks/split_lists/buylist_mermail.yaml'
 
 ## only use this like once a month just to track starlights
 #starlight:
 #  path: 'decks/old_lists/9-starlight.yaml'
 
+# Modern Ultis
+buylist_invoked:
+  path: 'decks/split_lists/buylist_invoked.yaml'
 
 
 

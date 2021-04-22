@@ -1,0 +1,144 @@
+Sum of Market Prices: $2,122.86
+Sum of Lowest listings: $2,556.24
+
+Invocation [3] - Market Price: $129.62
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $170.00 |  1  |
+|    100% (182 Sales)   | Near Mint | $170.00 |  1  |
+|    100% (921 Sales)   | Near Mint | $170.99 |  2  |
+| 99.7% (50,000+ Sales) | Near Mint | $172.94 |  3  |
+|   100% (1,367 Sales)  | Near Mint | $172.98 |  3  |
+|   100% (1,322 Sales)  | Near Mint | $171.99 |  2  |
+|    ng 0% (9 Sales)    | Near Mint | $172.00 |  1  |
+|   100% (8,778 Sales)  | Near Mint | $172.99 |  1  |
+| 99.2% (25,000+ Sales) | Near Mint | $189.99 |  3  |
+|  99.8% (4,941 Sales)  | Near Mint | $299.99 |  2  |
++-----------------------+-----------+---------+-----+
+Terraforming [3] - Market Price: $87.58
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $150.00 |  1  |
+|    100% (10 Sales)    | Near Mint | $150.00 |  1  |
+| 99.2% (25,000+ Sales) | Near Mint | $155.00 |  1  |
+|    100% (104 Sales)   | Near Mint | $159.99 |  1  |
+|  99.6% (1,132 Sales)  | Near Mint | $200.00 |  1  |
+|  98.7% (1,213 Sales)  | Near Mint | $200.00 |  3  |
+|    100% (384 Sales)   | Near Mint | $220.00 |  3  |
+|   100% (2,269 Sales)  | Near Mint | $249.99 |  1  |
+|  99.8% (4,941 Sales)  | Near Mint | $249.99 |  1  |
++-----------------------+-----------+---------+-----+
+Super Poly [3] - Market Price: $105.74
++---------------------+-----------+---------+-----+
+|        Seller       | Condition |  Price  | Qty |
++---------------------+-----------+---------+-----+
+|                     | Near Mint |  $99.99 |  1  |
+|                     | Near Mint |  $99.99 |  1  |
+|    100% (8 Sales)   | Near Mint | $107.99 |  1  |
+| 99.3% (4,945 Sales) | Near Mint | $109.99 |  1  |
+|   100% (22 Sales)   | Near Mint | $110.00 |  1  |
+|   100% (470 Sales)  | Near Mint | $115.00 |  2  |
+|    100% (6 Sales)   | Near Mint | $114.94 |  1  |
+|   100% (230 Sales)  | Near Mint | $117.99 |  1  |
+|  100% (1,322 Sales) | Near Mint | $117.00 |  1  |
+| 99.8% (4,941 Sales) | Near Mint | $119.98 |  1  |
+| 99.9% (1,271 Sales) | Near Mint | $119.99 |  1  |
+|   100% (23 Sales)   | Near Mint | $120.99 |  1  |
+| 99.9% (7,536 Sales) | Near Mint | $129.99 |  1  |
+|  100% (1,415 Sales) | Near Mint | $130.00 |  1  |
+|   100% (453 Sales)  | Near Mint | $140.00 |  1  |
+|   100% (15 Sales)   | Near Mint | $144.94 |  1  |
+|  100% (1,587 Sales) | Near Mint | $149.99 |  1  |
+|  100% (4,798 Sales) | Near Mint | $150.00 |  1  |
+|   100% (958 Sales)  | Near Mint | $150.00 |  3  |
+|   100% (130 Sales)  | Near Mint | $150.00 |  3  |
++---------------------+-----------+---------+-----+
+Ghost Ogre Snow Rabbit [3] - Market Price: $125.77
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint | $128.00 |  2  |
+|    100% (10 Sales)    | Near Mint | $128.00 |  2  |
+|  99.9% (9,635 Sales)  | Near Mint | $128.00 |  2  |
+| 99.9% (10,000+ Sales) | Near Mint | $134.99 |  2  |
+|    100% (467 Sales)   | Near Mint | $140.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $145.00 |  2  |
+|  99.8% (4,941 Sales)  | Near Mint | $172.95 |  3  |
+|   100% (2,881 Sales)  | Near Mint | $173.00 |  3  |
+|  99.3% (2,083 Sales)  | Near Mint | $172.79 |  1  |
+|    100% (488 Sales)   | Near Mint | $170.00 |  1  |
+| 99.9% (50,000+ Sales) | Near Mint | $176.97 |  10 |
+|   98.2% (552 Sales)   | Near Mint | $180.00 |  1  |
+|   100% (3,387 Sales)  | Near Mint | $199.95 |  2  |
+| 99.5% (10,000+ Sales) | Near Mint | $249.99 |  3  |
+|  99.7% (1,828 Sales)  | Near Mint | $300.00 |  3  |
+|   100% (4,798 Sales)  | Near Mint | $399.99 |  1  |
++-----------------------+-----------+---------+-----+
+Kagari [3] - Market Price: $102.84
++--------------------+-----------+---------+-----+
+|       Seller       | Condition |  Price  | Qty |
++--------------------+-----------+---------+-----+
+|                    | Near Mint | $140.00 |  1  |
+|  se 0% (19 Sales)  | Near Mint | $140.00 |  1  |
+| 100% (5,817 Sales) | Near Mint | $199.99 |  3  |
+|  100% (75 Sales)   | Near Mint | $249.99 |  1  |
++--------------------+-----------+---------+-----+
+Shizuku [3] - Market Price: $86.26
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint |  $91.17 |  3  |
+| 99.7% (50,000+ Sales) | Near Mint |  $91.17 |  3  |
+|  100% (50,000+ Sales) | Near Mint |  $97.98 |  1  |
+|    100% (77 Sales)    | Near Mint |  $98.75 |  1  |
+|    100% (186 Sales)   | Near Mint | $104.01 |  2  |
+|  99.6% (1,424 Sales)  | Near Mint | $120.99 |  1  |
+|   100% (5,817 Sales)  | Near Mint | $199.99 |  3  |
+|    100% (75 Sales)    | Near Mint | $199.99 |  1  |
++-----------------------+-----------+---------+-----+
+Hayate [3] - Market Price: $45.13
++-----------------------+-----------+---------+-----+
+|         Seller        | Condition |  Price  | Qty |
++-----------------------+-----------+---------+-----+
+|                       | Near Mint |  $48.92 |  1  |
+|  99.6% (8,098 Sales)  | Near Mint |  $48.92 |  1  |
+|    100% (129 Sales)   | Near Mint |  $53.99 |  1  |
+|    100% (186 Sales)   | Near Mint |  $54.01 |  2  |
+|  100% (25,000+ Sales) | Near Mint |  $57.99 |  3  |
+|  99.8% (4,941 Sales)  | Near Mint |  $59.97 |  5  |
+| 99.7% (50,000+ Sales) | Near Mint |  $59.98 |  6  |
+| 99.8% (50,000+ Sales) | Near Mint |  $60.00 |  6  |
+|  99.6% (1,424 Sales)  | Near Mint |  $79.99 |  2  |
+|   100% (5,817 Sales)  | Near Mint |  $99.99 |  3  |
+|    100% (75 Sales)    | Near Mint | $149.99 |  2  |
++-----------------------+-----------+---------+-----+
+Kaina [3] - Market Price: $24.68
++-----------------------+-----------+--------+-----+
+|         Seller        | Condition | Price  | Qty |
++-----------------------+-----------+--------+-----+
+|                       | Near Mint | $24.00 |  1  |
+|    100% (215 Sales)   | Near Mint | $24.00 |  1  |
+| 99.5% (10,000+ Sales) | Near Mint | $25.97 |  1  |
+| 99.8% (10,000+ Sales) | Near Mint | $25.99 |  6  |
+|  99.2% (9,630 Sales)  | Near Mint | $26.00 |  1  |
+|    100% (43 Sales)    | Near Mint | $28.00 |  1  |
+|    100% (604 Sales)   | Near Mint | $29.49 |  6  |
+| 99.6% (10,000+ Sales) | Near Mint | $29.50 |  2  |
+| 99.7% (50,000+ Sales) | Near Mint | $29.98 |  1  |
+|  99.6% (2,168 Sales)  | Near Mint | $30.00 |  1  |
+|   100% (1,322 Sales)  | Near Mint | $29.99 |  2  |
+|  99.6% (1,132 Sales)  | Near Mint | $30.00 |  3  |
+| 99.9% (50,000+ Sales) | Near Mint | $31.00 |  20 |
+| 99.9% (50,000+ Sales) | Near Mint | $26.55 |  1  |
+|  99.9% (6,735 Sales)  | Near Mint | $28.95 |  2  |
+|  100% (50,000+ Sales) | Near Mint | $30.44 |  1  |
+|  99.8% (4,941 Sales)  | Near Mint | $34.95 |  3  |
+|    100% (488 Sales)   | Near Mint | $30.00 |  1  |
+| 99.8% (50,000+ Sales) | Near Mint | $35.00 |  9  |
+|    100% (475 Sales)   | Near Mint | $34.99 |  1  |
+|   100% (5,817 Sales)  | Near Mint | $69.69 |  2  |
+|  99.6% (1,424 Sales)  | Near Mint | $69.99 |  5  |
+|    100% (75 Sales)    | Near Mint | $99.99 |  2  |
++-----------------------+-----------+--------+-----+

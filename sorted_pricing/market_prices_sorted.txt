@@ -288,3 +288,43 @@
 |           Dandylion Secret           |  2.2  |
 |                 test                 |   0   |
 +--------------------------------------+-------+
+2021-04-22
++---------------------------------+--------+
+|               Card              | Price  |
++---------------------------------+--------+
+|      Atlantean Dragoons UTR     | 107.57 |
+|            Swap Frog            | 103.14 |
+|          Abyss Dweller          | 64.45  |
+|       Deep Sea Diva Super       | 58.79  |
+|             Big Eye             | 54.37  |
+|      Atlantean Marksman UTR     |  50.1  |
+|             Gungnir             | 40.25  |
+|             Dewloren            | 38.16  |
+|        Mermail Abyssteus        | 22.26  |
+|          Bahamut Shark          | 18.62  |
+|       Mermail Abyssmegalo       | 16.28  |
+|        Mermail Abyssgaios       |  15.2  |
+|           Breakthrough          | 13.47  |
+|        Mermail Abysslinde       |  9.94  |
+| Atlantean Heavy Infrantry Super |  6.83  |
+|       Mermail Abyss-sphere      |  6.11  |
+|        Mermail Abyssgunde       |  4.8   |
+|        Mermail Abysspike        |  3.89  |
+|        Mermail Abyssleed        |  2.05  |
+|        Mermail Abysstrite       |  1.05  |
+|               test              |   0    |
++---------------------------------+--------+
+2021-04-22
++------------------------+--------+
+|          Card          | Price  |
++------------------------+--------+
+|       Invocation       | 129.62 |
+| Ghost Ogre Snow Rabbit | 125.77 |
+|       Super Poly       | 105.74 |
+|         Kagari         | 102.84 |
+|      Terraforming      | 87.58  |
+|        Shizuku         | 86.26  |
+|         Hayate         | 45.13  |
+|         Kaina          | 24.68  |
+|          test          |   0    |
++------------------------+--------+
