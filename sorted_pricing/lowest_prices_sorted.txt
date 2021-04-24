@@ -328,3 +328,132 @@
 |         Kaina          |  24.0 |
 |          test          |   0   |
 +------------------------+-------+
+2021-04-23
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|       Stardust Dragon Ghost 1st        | 1999.0 |
+|      black rose dragon Ghost 1st       | 1475.0 |
+| charge of the light brigade secret 1st | 900.0  |
+|     ancient fairy dragon Ghost 1st     | 599.98 |
+|            honest ghost 1st            | 449.97 |
+|    Allure utr 1st - Teledad overlap    | 293.99 |
+|            celestia utr 1st            | 199.99 |
+|           Plague UTR 1st EN            | 182.21 |
+|              lyla utr 1st              | 101.0  |
+|            ehren secret 1st            | 100.0  |
+|      solar recharge Ultimate 1st       | 99.97  |
+|             Tragoedia TU4              |  94.0  |
+|              beckoning TU              | 74.99  |
+|   AVenging Knight Parshath tdgs 1st    | 73.99  |
+|          necro gardna utr 1st          | 48.99  |
+|               Garoth TU                | 29.95  |
+|             Wulf LODT 1st              | 19.95  |
+|             Mist Wurm DT1              |  14.5  |
+|                ryko 1st                |  12.0  |
+|          Dark End Dragon JUMP          |  6.74  |
+|            Aurkus LODT 1st             |  0.49  |
+|                  test                  |   0    |
++----------------------------------------+--------+
+2021-04-23
++-------------------------------------+--------+
+|                 Card                | Price  |
++-------------------------------------+--------+
+|      Stardust Dragon Ghost 1st      | 1999.0 |
+|         Solemn Judgment 1st         | 1200.0 |
+|      goyo guardian Ultimate 1st     | 899.99 |
+|          Breaker TP7 super          | 499.99 |
+|      Dark Armed Dragon Ultimate     | 365.0  |
+|    crush card virus Ultimate 1st    | 280.0  |
+|          spirit reaper cp3          | 259.99 |
+| phoenix wing windblast Ultimate 1st | 250.0  |
+|      diamond dude ultimate 1st      | 249.98 |
+|  red dragon archfiend Ultimate 1st  | 240.0  |
+|  plaguespreader zombie Ultimate 1st | 182.21 |
+|         heavy storm mrd 1st         | 140.0  |
+|         e-tele Ultimate 1st         | 130.0  |
+|          sangan super rp01          | 120.0  |
+|       dark grepher secret 1st       | 112.98 |
+|           snipe hunter cp3          | 84.15  |
+|      colossal fighter Ultimate      | 49.85  |
+| thoughtruler archfiend Ultimate 1st | 49.49  |
+|           Krebons TU super          | 44.99  |
+|           D Hero Malicious          | 29.99  |
+|      ROTA Reinforcement LOD 1st     |  20.0  |
+|            mystic tomato            | 15.49  |
+|           destiny draw 1st          |  13.8  |
+|      royal oppression Rare LOD      |  2.27  |
+|                 test                |   0    |
++-------------------------------------+--------+
+2021-04-23
++-------------------------------------+--------+
+|                 Card                | Price  |
++-------------------------------------+--------+
+|        Monster Reborn LOB 1st       | 1999.0 |
+|           Maxx c ultimate           | 749.95 |
+|         tour guide ultimate         | 385.0  |
+|      Effect Veiler Ultimate 1st     | 267.45 |
+| Pot of Avarice Ultimate 1st english | 218.0  |
+|          Dark Hole LOB 1st          | 179.0  |
+|             MST ultimate            | 149.0  |
+|     solemn warning ultimate 1st     | 133.13 |
+|         Leviathan Ghost 1st         | 87.85  |
+|  Mystical space typhoon MST MRL 1st | 82.95  |
+|      scrap dragon Ultimate 1st      | 73.99  |
+|         Leviair Ultimate 1st        | 59.99  |
+|              brionac DT             | 58.41  |
+|         Steelswarm Roach 1st        |  27.0  |
+|             Mind Control            | 19.22  |
+|              Armory Arm             | 14.59  |
+|                 test                |   0    |
++-------------------------------------+--------+
+2021-04-23
++-------------------------------+--------+
+|              Card             | Price  |
++-------------------------------+--------+
+|   Cyber Dragon Ultimate 1st   | 1045.0 |
+|       Chaos Sorcerer TU       | 899.99 |
+|         bottomless cp4        | 695.95 |
+|      Mirror Force MRD 1st     | 440.0  |
+|           lumina cp8          | 369.99 |
+|     Dark Armed Dragon TU6     | 365.0  |
+|      Judgment Dragon TU1      | 340.0  |
+| caius shadow monarch Ultimate | 288.0  |
+|          Doomcal TU1          | 224.95 |
+|        TK Raioh UTR TU8       | 168.75 |
+|         Tragoedia TU4         |  94.0  |
+|      Utopia Ray Ghost 1st     | 54.95  |
+|          Battle Fader         | 47.99  |
+|     Quickdraw Synchron TU6    | 47.78  |
+|              test             |   0    |
++-------------------------------+--------+
+2021-04-23
++---------------------------------+--------+
+|               Card              | Price  |
++---------------------------------+--------+
+|      Morphing Jar ultra TP2     | 2999.9 |
+|        metamorphosis cp1        | 1499.9 |
+|          Jinzo PSV 1st          | 1100.0 |
+|         Book of moon cp1        | 900.0  |
+|       DD assailant secret       | 699.99 |
+|        Breaker TP7 super        | 499.99 |
+|      magician of faith cp2      | 498.0  |
+|        trap dustshoot cp5       | 449.99 |
+|        gravekeeper spy cp       | 444.99 |
+|       Exarion Universe DR4      | 323.96 |
+|      Morphing Jar Super TP4     | 275.0  |
+|     Call of the Haunted 1st     | 199.99 |
+|       magical merchant cp2      | 178.95 |
+|         Dekoichi UTR 1st        | 120.0  |
+|       smashing ground cp2       | 99.99  |
+|         snipe hunter cp3        | 84.15  |
+| Dark Magician of Chaos DMOC 1st | 66.66  |
+|    Premature Burial Ultra 1st   | 66.66  |
+|       Snatch Steal MRL 1st      |  57.5  |
+|        Airknight LOD 1st        | 55.99  |
+|     Tribe infecting MFC 1st     |  54.0  |
+|          kycoo lod 1st          | 40.95  |
+|     Nobleman of Crossout 1st    | 30.99  |
+|          mystic tomato          | 15.49  |
+|               test              |   0    |
++---------------------------------+--------+
