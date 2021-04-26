@@ -18,6 +18,12 @@ if __name__ == "__main__":
 
 # TODO
 # More buylist yamls: return dad, 5ds staples, swag singles, playset completion
+# tabular columns, pricing continuing horizontally, compare prices to last check.
+
+# day               123 125
+# name_list         123 125
+# sum of market:    123 125
+# sum of lowest:    123 125 >
 
 # somehow get it synced to a mysql/db
 # somehow get it to run on its own on cloud
