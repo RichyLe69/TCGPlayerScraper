@@ -19,7 +19,7 @@
 #  path: 'decks/split_lists/collection_deck_core.yaml'
 
 ## Split Buylists
-
+#
 buylist_lightsworn:
   path: 'decks/split_lists/buylist_lightsworn.yaml'
 
@@ -34,7 +34,7 @@ buylist_extras:
 
 buylist_goat:
   path: 'decks/split_lists/buylist_goat.yaml'
-#
+##
 #buylist_mermail:
 #  path: 'decks/split_lists/buylist_mermail.yaml'
 
