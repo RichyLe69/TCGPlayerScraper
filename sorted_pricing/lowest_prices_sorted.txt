@@ -1199,3 +1199,196 @@
 |                   Gorz RP02                    | 11.65  |
 |                      test                      |   0    |
 +------------------------------------------------+--------+
+2021-04-28
++------------------------------------------------+--------+
+|                      Card                      | Price  |
++------------------------------------------------+--------+
+|            Solemn Judgment MRD 1st             | 1200.0 |
+|             Book of Moon Super CP              | 900.0  |
+|            Chaos Sorcerer Ultra TU             | 899.99 |
+|      Black Luster Soldier EOTB Ultra 1st       | 899.95 |
+|           Maxx C Ultimate 2spa 1eng            | 748.99 |
+|   Trap Dustshoot Super CP 2 english 1 german   | 449.99 |
+|          Tour Guide Ultimate Italian           | 385.0  |
+|      Lumina, Lightsworn Summoner Super CP      | 369.98 |
+|           Dark Armed Dragon Ultimate           | 365.0  |
+|            Judgment Dragon Ultimate            | 340.0  |
+|      Allure of Darkness Ultimate 1st ita       | 293.99 |
+|        Caius shadow monarch Ultimate TU        | 284.99 |
+|         Crush Card Virus Ultimate 1st          | 280.0  |
+|           Effect Veiler Ultimate 1st           | 268.99 |
+|             Spirit Reaper Super CP             | 259.99 |
+|   Overload Fusion Ultimate Unlimited german    | 250.0  |
+|      Power Bond Ultimate Unlimited german      | 250.0  |
+|         Diamond Dude Ultimate 1st ger          | 249.98 |
+|   Pot of Greed Ultimate 1st - 2 EN 2 Foreign   | 244.98 |
+| Pot of Avarice Ultimate 1st 2 german 1 english | 218.0  |
+|              Battle Fader UTR 1st              | 210.0  |
+|              DD Crow Ultimate 1st              | 210.0  |
+|              Doom Lord Rare DR04               | 199.95 |
+|            Foolish Burial Super CP             | 193.9  |
+|               Dandylion Ultimate               | 191.9  |
+|      Lightning Vortex Ultimate 1st french      | 185.0  |
+|     Plaguespreader Zombie Ultimate 1st ITA     | 182.21 |
+|        Mystical Space Typhoon Ultimate         | 169.95 |
+|          Thunder King Rai-Oh Ultimate          | 168.75 |
+|             Honest Ghost Unlimited             | 149.0  |
+|           Solem Warning Ultimate 1st           | 133.13 |
+|            Dark Grepher Secret 1st             | 130.0  |
+|       Emegency Teleport Ultimate 1st ger       | 130.0  |
+|               Tsukuyomi Ultimate               | 124.75 |
+|             Tour Guide Secret 1st              | 110.0  |
+|        Allure of Darkness Ultimate Unl         | 104.85 |
+|               Maxx C Secret 1st                | 100.0  |
+|            Smashing Ground Super CP            | 99.99  |
+|           Torrential Tribute LON 1st           | 94.89  |
+|       Monster Reincarnation Ultimate 1st       | 91.81  |
+|      Glowup Bulb Ultimate 2 eng 1 italian      |  90.0  |
+|           Machine Dupe Ultimate 1st            |  90.0  |
+|             Debris Dragon Ultimate             | 89.21  |
+|               Rescue Rabbit 1st                | 79.25  |
+|            Enemy Controller AST 1st            | 78.99  |
+|           Cyber Phoenix Ultimate 1st           | 71.49  |
+|           Archlord Kristya Unlimited           | 68.95  |
+|           Thunder King Rai-oh Secret           | 64.79  |
+|             Pot of Duality Scr 1st             | 55.75  |
+|   Black Luster Soldier EOTB Ultra Unlimited    | 54.98  |
+|       Solar Recharge Ultimate Unlimited        |  50.0  |
+|             Krebos Super TU German             | 44.99  |
+|  Charge Of The Light Brigade Secret Unlimited  | 43.22  |
+|  Plaguespreader Zombie Ultimate Unlimited EN   | 25.58  |
+|                   Gorz DLG1                    |  20.0  |
+|               MST MRL Unlimited                |  20.0  |
+|               Dark Hole Ultra TU               |  19.0  |
+|          Future Fusion UTR Unlimited           |  17.0  |
+|              Necro Gardna UTR Unl              | 14.99  |
+|         Solemn Judgment MRD Unlimited          | 11.99  |
+|                   Gorz RP02                    | 11.89  |
+|                      test                      |   0    |
++------------------------------------------------+--------+
+2021-04-28
++----------------------------------------+--------+
+|                  Card                  | Price  |
++----------------------------------------+--------+
+|       Stardust Dragon Ghost 1st        | 1990.0 |
+|      black rose dragon Ghost 1st       | 1475.0 |
+| charge of the light brigade secret 1st | 899.22 |
+|     ancient fairy dragon Ghost 1st     | 615.01 |
+|            honest ghost 1st            | 449.97 |
+|    Allure utr 1st - Teledad overlap    | 293.99 |
+|            celestia utr 1st            | 199.99 |
+|           Plague UTR 1st EN            | 182.21 |
+|            ehren secret 1st            | 100.0  |
+|              lyla utr 1st              | 100.0  |
+|      solar recharge Ultimate 1st       | 99.97  |
+|              beckoning TU              | 74.99  |
+|   AVenging Knight Parshath tdgs 1st    |  70.0  |
+|          necro gardna utr 1st          | 48.99  |
+|               Garoth TU                | 29.77  |
+|                ryko 1st                |  15.0  |
+|             Mist Wurm DT1              |  14.5  |
+|             Wulf LODT 1st              |  8.99  |
+|          Dark End Dragon JUMP          |  6.26  |
+|            Aurkus LODT 1st             |  0.46  |
+|                  test                  |   0    |
++----------------------------------------+--------+
+2021-04-28
++-------------------------------------+--------+
+|                 Card                | Price  |
++-------------------------------------+--------+
+|      Stardust Dragon Ghost 1st      | 1990.0 |
+|         Solemn Judgment 1st         | 1200.0 |
+|          Breaker TP7 super          | 499.99 |
+|      Dark Armed Dragon Ultimate     | 365.0  |
+|      goyo guardian Ultimate 1st     | 299.99 |
+|    crush card virus Ultimate 1st    | 280.0  |
+|          spirit reaper cp3          | 259.99 |
+| phoenix wing windblast Ultimate 1st | 250.0  |
+|      diamond dude ultimate 1st      | 249.98 |
+|  red dragon archfiend Ultimate 1st  | 240.0  |
+|  plaguespreader zombie Ultimate 1st | 182.21 |
+|         heavy storm mrd 1st         | 140.0  |
+|       dark grepher secret 1st       | 130.0  |
+|         e-tele Ultimate 1st         | 130.0  |
+|           snipe hunter cp3          | 84.15  |
+|      colossal fighter Ultimate      | 49.85  |
+| thoughtruler archfiend Ultimate 1st |  48.0  |
+|           Krebons TU super          | 44.99  |
+|           D Hero Malicious          | 29.99  |
+|      ROTA Reinforcement LOD 1st     |  20.0  |
+|            mystic tomato            |  14.5  |
+|           destiny draw 1st          |  13.8  |
+|      royal oppression Rare LOD      |  2.1   |
+|                 test                |   0    |
++-------------------------------------+--------+
+2021-04-28
++-------------------------------------+--------+
+|                 Card                | Price  |
++-------------------------------------+--------+
+|        Monster Reborn LOB 1st       | 1999.0 |
+|           Maxx c ultimate           | 748.99 |
+|         tour guide ultimate         | 385.0  |
+|      Effect Veiler Ultimate 1st     | 268.99 |
+| Pot of Avarice Ultimate 1st english | 218.0  |
+|          Dark Hole LOB 1st          | 179.0  |
+|             MST ultimate            | 169.95 |
+|         Leviathan Ghost 1st         | 142.8  |
+|     solemn warning ultimate 1st     | 133.13 |
+|  Mystical space typhoon MST MRL 1st | 82.95  |
+|      scrap dragon Ultimate 1st      |  74.2  |
+|         Leviair Ultimate 1st        |  64.0  |
+|              brionac DT             | 59.99  |
+|         Steelswarm Roach 1st        | 39.98  |
+|             Mind Control            | 19.22  |
+|              Armory Arm             | 13.61  |
+|                 test                |   0    |
++-------------------------------------+--------+
+2021-04-28
++-------------------------------+--------+
+|              Card             | Price  |
++-------------------------------+--------+
+|          Battle Fader         | 1045.0 |
+|   Cyber Dragon Ultimate 1st   | 1045.0 |
+|       Chaos Sorcerer TU       | 899.99 |
+|         bottomless cp4        | 695.95 |
+|      Mirror Force MRD 1st     | 440.0  |
+|           lumina cp8          | 369.98 |
+|     Dark Armed Dragon TU6     | 365.0  |
+|      Judgment Dragon TU1      | 340.0  |
+| caius shadow monarch Ultimate | 284.99 |
+|          Doomcal TU1          | 224.95 |
+|        TK Raioh UTR TU8       | 168.75 |
+|      Utopia Ray Ghost 1st     | 59.97  |
+|     Quickdraw Synchron TU6    | 47.49  |
+|              test             |   0    |
++-------------------------------+--------+
+2021-04-28
++---------------------------------+--------+
+|               Card              | Price  |
++---------------------------------+--------+
+|      Morphing Jar ultra TP2     | 2999.9 |
+|        metamorphosis cp1        | 2499.9 |
+|          Jinzo PSV 1st          | 1100.0 |
+|         Book of moon cp1        | 900.0  |
+|       DD assailant secret       | 699.99 |
+|      magician of faith cp2      | 699.98 |
+|        Breaker TP7 super        | 499.99 |
+|        trap dustshoot cp5       | 449.99 |
+|        gravekeeper spy cp       | 445.0  |
+|       Exarion Universe DR4      | 324.95 |
+|      Morphing Jar Super TP4     | 275.0  |
+|     Call of the Haunted 1st     | 199.99 |
+|       magical merchant cp2      | 178.95 |
+|         Dekoichi UTR 1st        | 120.0  |
+|       smashing ground cp2       | 99.99  |
+|         snipe hunter cp3        | 84.15  |
+| Dark Magician of Chaos DMOC 1st | 66.66  |
+|    Premature Burial Ultra 1st   | 66.66  |
+|       Snatch Steal MRL 1st      |  57.5  |
+|        Airknight LOD 1st        | 55.99  |
+|     Tribe infecting MFC 1st     |  54.7  |
+|          kycoo lod 1st          | 40.95  |
+|     Nobleman of Crossout 1st    | 30.99  |
+|          mystic tomato          |  14.5  |
+|               test              |   0    |
++---------------------------------+--------+
