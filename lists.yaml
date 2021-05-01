@@ -1,7 +1,7 @@
 # Full Lists. Do on first day of every month
-#collection:
-#  path: 'decks/collection.yaml'
-#
+collection:
+  path: 'decks/collection.yaml'
+
 #buylist:
 #  path: 'decks/buylist.yaml'
 
@@ -10,8 +10,8 @@
 #collection_old_school:
 #  path: 'decks/split_lists/collection_old_school.yaml'
 #
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
 
 #collection_extra_deck:
 #  path: 'decks/split_lists/collection_extra_deck.yaml'
