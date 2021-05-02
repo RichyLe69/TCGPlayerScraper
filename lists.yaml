@@ -1,6 +1,6 @@
 # Full Lists. Do on first day of every month
-collection:
-  path: 'decks/collection.yaml'
+#collection:
+#  path: 'decks/collection.yaml'
 
 #buylist:
 #  path: 'decks/buylist.yaml'
