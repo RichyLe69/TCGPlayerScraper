@@ -5,6 +5,11 @@
 #buylist:
 #  path: 'decks/buylist.yaml'
 
+## only use this like once a month just to track starlights
+#starlight:
+#  path: 'decks/old_lists/9-starlight.yaml'
+
+
 ## Split Collections
 
 #collection_old_school:
@@ -35,13 +40,10 @@ buylist_extras:
 
 buylist_goat:
   path: 'decks/split_lists/buylist_goat.yaml'
-#
+
 #buylist_mermail:
 #  path: 'decks/split_lists/buylist_mermail.yaml'
 
-## only use this like once a month just to track starlights
-#starlight:
-#  path: 'decks/old_lists/9-starlight.yaml'
 
 ## Modern Ultis
 #buylist_invoked:
