@@ -3,10 +3,10 @@
 ###############################################
 
 
-#Morphing Jar ultra TP2:
-#  url: 'https://shop.tcgplayer.com/yugioh/tournament-pack-2/morphing-jar'
-#  edition: 'Near Mint'
-#  qty: 1
+Morphing Jar ultra TP2:
+  url: 'https://shop.tcgplayer.com/yugioh/tournament-pack-2/morphing-jar'
+  edition: 'Near Mint'
+  qty: 1
 
 Morphing Jar Super TP4:
   url: 'https://shop.tcgplayer.com/yugioh/tournament-pack-4/morphing-jar'
@@ -18,42 +18,42 @@ Book of moon cp1:
   edition: 'Near Mint'
   qty: 2
 
-metamorphosis cp1:
+Metamorphosis cp1:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/metamorphosis?xid=pi0060f96a-98bf-4113-aeab-c213aa331682'
   edition: 'Near Mint'
   qty: 3
 
-night assailant cp1:
+Night Assailant cp1:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-1/night-assailant'
   edition: 'Near Mint'
   qty: 3
 
-magician of faith cp2:
+Magician of Faith cp2:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/magician-of-faith'
   edition: 'Near Mint'
   qty: 3
 
-magical merchant cp2:
+Magical Merchant cp2:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-5/magical-merchant'
   edition: 'Near Mint'
   qty: 3
 
-gravekeeper spy cp:
+Gravekeeper Spy cp:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-3/gravekeepers-spy'
   edition: 'Near Mint'
   qty: 3
 
-kycoo lod 1st:
+Kycoo lod 1st:
   url: 'https://shop.tcgplayer.com/yugioh/labyrinth-of-nightmare/kycoo-the-ghost-destroyer?xid=pie59e697d-e337-49b3-96a1-c1f86e03e0aa&'
   edition: 'Near Mint 1st'
   qty: 3
 
-smashing ground cp2:
+Smashing Ground cp2:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-2/smashing-ground'
   edition: 'Near Mint'
   qty: 1
 
-snipe hunter cp3:
+Snipe Hunter cp3:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-3/snipe-hunter?xid=pid5159dac-9d39-4c41-9350-576d41ca331b'
   edition: 'Near Mint'
   qty: 1
@@ -113,12 +113,12 @@ Dark Magician of Chaos DMOC 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-mystic tomato:
+Mystic Tomato:
   url: 'https://shop.tcgplayer.com/yugioh/hobby-league-3/mystic-tomato?xid=pid409e16e-7e04-4a03-9a39-b83811b1680d&'
   edition: 'Near Mint'
   qty: 2
 
-trap dustshoot cp5:
+Trap Dustshoot cp5:
   url: 'https://shop.tcgplayer.com/yugioh/champion-pack-5/trap-dustshoot'
   edition: 'Near Mint'
   qty: 2

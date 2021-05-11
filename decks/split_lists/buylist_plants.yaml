@@ -2,7 +2,7 @@
 ############### Tengu Plant Synchro ##################
 ##################################################
 
-tour guide ultimate:
+Tour Guide Ultimate:
   url: 'https://shop.tcgplayer.com/yugioh/astral-pack-6/tour-guide-from-the-underworld'
   edition: 'Near Mint Unlimited'
   qty: 3
@@ -17,7 +17,7 @@ Effect Veiler Ultimate 1st:
   edition: 'Near Mint 1st Edition'
   qty: 3
 
-scapegoat ultra rp01:
+Scapegoat ultra rp01:
   url: 'https://shop.tcgplayer.com/yugioh/retro-pack-1/scapegoat'
   edition: 'Near Mint Unlimited'
   qty: 1
@@ -52,18 +52,18 @@ Mystical space typhoon MST MRL 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-solemn warning ultimate 1st:
+Solemn Warning Ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/solemn-warning-utr'
   edition: 'Near Mint 1st'
   qty: 3
 
 
-scrap dragon Ultimate 1st:
+Scrap Dragon Ultimate 1st:
   url: 'https://shop.tcgplayer.com/yugioh/duelist-revolution/scrap-dragon-utr'
   edition: 'Near Mint 1st'
   qty: 1
 
-brionac DT:
+Brionac DT:
   url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-1/brionac-dragon-of-the-ice-barrier'
   edition: 'Near Mint Limited'
   qty: 1
