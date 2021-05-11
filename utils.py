@@ -1,6 +1,5 @@
 from datetime import datetime
 from bs4 import BeautifulSoup
-from selenium import webdriver
 import time
 import re
 import prettytable
@@ -8,7 +7,7 @@ import yaml
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium import webdriver
+# from selenium import webdriver
 import os
 
 current_date = str(datetime.date(datetime.now()))
@@ -91,10 +90,10 @@ def output_to_txt_console(string):
         my_file.write(string + '\n')
 
 
-def scrape_website(collection_data_yaml, name):
+def scrape_website(collection_data_yaml, name, browser):
     delete_console_txt()
     start = time.time()
-    browser = webdriver.Chrome(executable_path=r'C:\Users\Richard Le\IdeaProjects\TCGPlayerScraper\chromedriver.exe')
+
     market_price_total = 0
     lowest_listed_price_total = 0
     lowest_listed_price = 0
@@ -106,19 +105,7 @@ def scrape_website(collection_data_yaml, name):
         card_quantity = collection_data_yaml[card]['qty']
 
         browser.get(url)
-        if first:
-            time.sleep(timer)  # wait for page to finish loading (only for 1st time, to select settings)
-            browser.find_element_by_xpath(
-                "(//ancestor::a[@class='filter-facet__link'])[position()=6]").click()  # Hard coded click on "Listings Without Photos" - 6th Box down
-            time.sleep(timer)
-            browser.find_element_by_xpath(
-                "(//ancestor::a[@class='filter-facet__link'])[position()=7]").click()  # Hard coded click on "Near Mint" - 7th Box down
-            time.sleep(timer)
-            browser.find_element_by_xpath("(//ancestor::select[@class='sort-toolbar__select form-control'])[2]").click()
-            time.sleep(timer)
-            browser.find_element_by_xpath("//ancestor::option[@value='50']").click()
-            time.sleep(timer)  # wait for page to finish loading (only for 1st time, to select settings)
-            first = False
+
         timer = 7
         viewing_present = WebDriverWait(browser, timer).until(
             EC.presence_of_element_located((By.CLASS_NAME, 'sort-toolbar__total-item-count')))
