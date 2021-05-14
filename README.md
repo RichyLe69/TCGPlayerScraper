@@ -4,6 +4,8 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI pyversions](https://camo.githubusercontent.com/fd8c489427511a31795637b3168c0d06532f4483/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f77696b6970656469612d6170692e7376673f7374796c653d666c6174)](https://pypi.python.org/pypi/ansicolortags/)
 
+NOTICE: Development on this program has stopped. New version PortalSellerDatabase is now the main prorgam for web scraping card prices.
+
 Automated WebScraper using Selenium Webdriver and data parsers to automatically retrieve any amount and any specified card based on the configs.
 
 The WebDriver handles all the operations and saves the data in plain text tables for ease of analysis.
