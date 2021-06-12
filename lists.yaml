@@ -29,17 +29,17 @@
 buylist_lightsworn:
   path: 'decks/split_lists/buylist_lightsworn.yaml'
 
-buylist_teledad:
-  path: 'decks/split_lists/buylist_teledad.yaml'
-
-buylist_plants:
-  path: 'decks/split_lists/buylist_plants.yaml'
-
-buylist_extras:
-  path: 'decks/split_lists/buylist_extras.yaml'
-
-buylist_goat:
-  path: 'decks/split_lists/buylist_goat.yaml'
+#buylist_teledad:
+#  path: 'decks/split_lists/buylist_teledad.yaml'
+#
+#buylist_plants:
+#  path: 'decks/split_lists/buylist_plants.yaml'
+#
+#buylist_extras:
+#  path: 'decks/split_lists/buylist_extras.yaml'
+#
+#buylist_goat:
+#  path: 'decks/split_lists/buylist_goat.yaml'
 
 #buylist_mermail:
 #  path: 'decks/split_lists/buylist_mermail.yaml'

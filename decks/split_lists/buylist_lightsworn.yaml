@@ -12,100 +12,100 @@ Celestia Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Lyla Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/lyla-lightsworn-sorceress-utr'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Wulf LODT 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/wulf-lightsworn-beast?xid=piaa1ba54a-e661-42a3-ad34-bd3c4ba93097'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Aurkus LODT 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/aurkus-lightsworn-druid'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Garoth TU:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/garoth-lightsworn-warrior?xid=pia9405852-9640-41b5-bf30-5b7be516d3e0'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Ehren Secret 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/ehren-lightsworn-monk?xid=pif0aced5c-f4f2-4316-b5d9-37a1f8d512dc'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Ryko 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/ryko-lightsworn-hunter?xid=pib2395e50-8227-40e2-b117-d2a498bd9dd9'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Necro Gardna Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/necro-gardna-utr?xid=pifc96f4ec-0617-488c-af72-c44b95563bdb'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Plague Ultimate 1st EN:
-  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/plaguespreader-zombie-utr'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Charge of The Light Brigade Secret 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/charge-of-the-light-brigade'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Solar Recharge Ultimate 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/solar-recharge-utr'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-
-Allure Ultimate 1st - Teledad overlap:
-  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Beckoning TU:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/beckoning-light?xid=pi8d93cfa5-a1d2-4f35-a49e-b6aa1cbbf87e'
-  edition: 'Near Mint Unlimited'
-  qty: 2
-
-Tragoedia TU4:
-  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-four/tragoedia'
-  edition: 'Near Mint'
-  qty: 1
-
-Stardust Dragon Ghost 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/stardust-dragon-ghost?xid=pic25ac4f9-ad90-4215-98b6-12c62456a5fb'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Black Rose Dragon Ghost 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/black-rose-dragon-ghost-rare?xid=pi81d20195-3182-4443-b0de-84a2da75f8b4'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Ancient Fairy Dragon Ghost 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/ancient-prophecy/ancient-fairy-dragon-ghost-rare?xid=pi14a462bb-70de-4d43-b190-079d406f8036'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Mist Wurm DT1:
-  url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-1/mist-wurm?xid=pi29b5d30a-62f0-44e6-bd48-22a177b1b518&'
-  edition: 'Near Mint'
-  qty: 1
-
-Avenging Knight Parshath TDGS 1st:
-  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/avenging-knight-parshath?xid=pi59213e2a-28c6-461b-b7bf-a138b0e4e3bf&'
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Dark End Dragon JUMP:
-  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/dark-end-dragon?xid=pie13a900a-6d1a-4f73-a147-74fd541d67f5&'
-  edition: 'Near Mint'
-  qty: 1
-
-
+#Lyla Ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/lyla-lightsworn-sorceress-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Wulf LODT 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/wulf-lightsworn-beast?xid=piaa1ba54a-e661-42a3-ad34-bd3c4ba93097'
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Aurkus LODT 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/aurkus-lightsworn-druid'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Garoth TU:
+#  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-one-pack/garoth-lightsworn-warrior?xid=pia9405852-9640-41b5-bf30-5b7be516d3e0'
+#  edition: 'Near Mint Unlimited'
+#  qty: 2
+#
+#Ehren Secret 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/ehren-lightsworn-monk?xid=pif0aced5c-f4f2-4316-b5d9-37a1f8d512dc'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Ryko 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/ryko-lightsworn-hunter?xid=pib2395e50-8227-40e2-b117-d2a498bd9dd9'
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Necro Gardna Ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/tactical-evolution/necro-gardna-utr?xid=pifc96f4ec-0617-488c-af72-c44b95563bdb'
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Plague Ultimate 1st EN:
+#  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/plaguespreader-zombie-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Charge of The Light Brigade Secret 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/charge-of-the-light-brigade'
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Solar Recharge Ultimate 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/light-of-destruction/solar-recharge-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#
+#Allure Ultimate 1st - Teledad overlap:
+#  url: 'https://shop.tcgplayer.com/yugioh/phantom-darkness/allure-of-darkness-utr'
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Beckoning TU:
+#  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-two/beckoning-light?xid=pi8d93cfa5-a1d2-4f35-a49e-b6aa1cbbf87e'
+#  edition: 'Near Mint Unlimited'
+#  qty: 2
+#
+#Tragoedia TU4:
+#  url: 'https://shop.tcgplayer.com/yugioh/turbo-pack-booster-four/tragoedia'
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#Stardust Dragon Ghost 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/stardust-dragon-ghost?xid=pic25ac4f9-ad90-4215-98b6-12c62456a5fb'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Black Rose Dragon Ghost 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/crossroads-of-chaos/black-rose-dragon-ghost-rare?xid=pi81d20195-3182-4443-b0de-84a2da75f8b4'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Ancient Fairy Dragon Ghost 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/ancient-prophecy/ancient-fairy-dragon-ghost-rare?xid=pi14a462bb-70de-4d43-b190-079d406f8036'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Mist Wurm DT1:
+#  url: 'https://shop.tcgplayer.com/yugioh/duel-terminal-1/mist-wurm?xid=pi29b5d30a-62f0-44e6-bd48-22a177b1b518&'
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#Avenging Knight Parshath TDGS 1st:
+#  url: 'https://shop.tcgplayer.com/yugioh/the-duelist-genesis/avenging-knight-parshath?xid=pi59213e2a-28c6-461b-b7bf-a138b0e4e3bf&'
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Dark End Dragon JUMP:
+#  url: 'https://shop.tcgplayer.com/yugioh/shonen-jump-magazine-promos/dark-end-dragon?xid=pie13a900a-6d1a-4f73-a147-74fd541d67f5&'
+#  edition: 'Near Mint'
+#  qty: 1
+#
+#

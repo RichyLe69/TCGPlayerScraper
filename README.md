@@ -6,6 +6,8 @@
 
 NOTICE: Development on this program has stopped. New version PortalSellerDatabase is now the main prorgam for web scraping card prices.
 
+UPDATE: June 2021 - Tcgplayer has updated their user interface. If you want to use this version, it needs to be updated for the new HTML format. Use sellerportal database instead because it is just better.
+
 Automated WebScraper using Selenium Webdriver and data parsers to automatically retrieve any amount and any specified card based on the configs.
 
 The WebDriver handles all the operations and saves the data in plain text tables for ease of analysis.
